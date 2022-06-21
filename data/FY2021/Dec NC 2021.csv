@@ -1,0 +1,291 @@
+﻿Issued Date,NCR #,Job Number,Part Number,Rev,NCR Qty,,Description of Defect,Defect Type,Dept/Vendor at Fault,Disposition,Action Owner,"Disposition
+ Date",Completion Date,Days to complete," Cost 
+(if any) ",Comments,Status ,
+12/1/2021,5780,ASM463419,0090-10016,2,1,12,SH1 B8: Main key on J8141/J8181 BUF HD MTR connector is rotated 90°,Workmanship,DC Electronics,RTV,Nafees,12/1/2021,,0,0,"12/1/21 - An email was sent to Marco to notify the supplier.
+12/15/21- An email was sent to Marco to follow up with the supplier regarding the LT for the part.
+12/23/21- An email was sent to PC to fix the deleted sub operation. 
+12/31/21- A follow up email was sent to Nafees. 
+",Open,
+12/3/2021,5781,MT-473549,0042-31724,2,1,1,Quote missed the addition of the 0250-52749 welding spec and not approved for the 0250-52749 welding spec. ,Workmanship,Quoting,Scrap,Gabby,12/3/2021,12/3/2021,0,"$1,548 ",12/3/21-Part is not reworkable per Gabby/Chin. DMR 2844,Closed,A copy was provided to ES to sign.
+12/3/2021,5782,478511,0041-77455,3,1,1,"Part is damaged, RTV",Cosmetic,APPLIED MATERIALS,RTV,Marco,12/4/2021,12/16/2021,1,$406 ,"12/4/21 - An email was sent to Marco to notify the supplier. 
+12/16/21- An email was sent to Marco and Gabby to follow up with the supplier. 
+12/16/21- According to Joe close NCR as scrap and make a note that they are buy back from AMAT. 2851",Closed,
+12/3/2021,5783,mt-rpm477475,515-A46865-010,B,5,5,"Sht 2, dr loc B8 s/b Ø.188+-.005 actual is Ø.194-.195.",dimensions,Eclipse Metal Fabrication,RTV,Marco,12/4/2021,,1,,"12/4/21 - An email was sent to Marco to notify the supplier. 
+12/15/21- WIP
+12/17/21- Replacement parts from supplier will arrive 12/20/21-Replacement  parts received. 
+12/30/21- awaiting inspection. An email was sent to Edgard to inspect these parts. ",Open,
+12/7/2021,5784,MT-477619,0040-82882,6,2,2,"Zone C6 should be .138+/-.005 is .125-.130
+Zone C8 should be 1.250+/-.005 is 1.237",Workmanship,MARX DIGITAL MANUFACTURING,RTV,Marco,12/7/2021,,0,,"12/7/21 - An email was sent to Marco to notify the supplier. 
+12/29/21- Supplier commit date 1/5/22",Open,
+12/7/2021,5785,mt-477619,0040-82882,6,2,2,"Zone C6 should be .138+/-.005 is .125-.130
+Zone C8 should be 1.250+/-.005 is 1.237",Workmanship,MARX DIGITAL MANUFACTURING,RTV,Marco,12/7/2021,void ,void,void,12/16/21This NCR 5785 was created by mistake by QC operator. This is a duplicate of NCR 5784. DMR 2852,Closed,
+12/7/2021,5786,sci470151,0010-66750,2,1,30,19 parts is good ready for cleaning. 1 part received from stock have deep scratches ,Cosmetic,Assembly,Scrap,David N ,12/7/2021,12/20/2021,0,"$1,236 ","12/8/21 - Part is currently in Assembly area. An email was sent to David N and Marcelino
+12/20/21- Part is not reworkable per David N. DMR 2855",Closed,Zonia will scrap the part
+12/6/2021,5787,sci470338,0041-87615,4,30,200,"PARTS REJECTED DUE TO WORKMANSHIP/ COSMETIC ISSUES
+PARTS HAVE TOOL MARKS AND SCRATCHES THROUGHT THE PARTS
+PLEASE SEE PICTURES ATTACHED",Cosmetic,Nominal Machining LLC,RTV,Marco,12/7/2021,,1,,"12/7/21- An email was sent to Marco to notify the supplier. 
+12/29/21- Per the supplier, only 30 parts had these sanding marks due to scratches while installing Inserts. Of the 30, we reworked and shipped 7 back. The rest were scrapped. The 87 that was sent back should be good.",Open,
+12/6/2021,5788,475163,713-330153-003,C,8,8,"REJECTED/ C-5 STEP, 2.50 DIAMETER UNACCEPTABLE",Workmanship,Lathe,Rework,Lalo,12/7/2021,12/8/2021,,$0 ,"12/7/21- Parts were released to Lalo to be reworked. 
+12/8/21- Reworked and passed inspection. ",Closed,
+12/6/2021,5789,SCI470338,0041-87615,4,80,200,REJECTED/ NO TOOLING MARK ACCEPTABLE,Workmanship,Nominal Machining LLC,RTV,Marco,12/7/2021,,1,,"12/7/21- An email was sent to Marco to notify the supplier. 
+12/29/21- Per the supplier, only 30 parts had these sanding marks due to scratches while installing Inserts. Of the 30, we reworked and shipped 7 back. The rest were scrapped. The 87 that was sent back should be good.",Open,
+12/6/2021,5790,CP476802,0041-79463,7,1,68,SN 0128 REJECTED DUE TO COSMETIC ISSUES AND MINOR SCRATCHES,Cosmetic,FAB1,Rework,Vladimir,12/7/2021,12/28/2021,1,$0 ,"12/7/21- Currently being reviewed by Vladimir
+12/14/21- Reworked per Vladimir
+12/28/21- The parts is good and passed inspection.
+The part now moved to clean.
+",Closed,
+12/8/2021,5791,rtm477893,0022-86555,3,4,4,"THRU POS  FOR 2.00-.05/-.02  STUD  I OUT OF TOLERANCE IN ALL  4 PARTS.
+RADIUS 140.0 AND 150.9 +/-.25        THIS DIM. CAN NOT BE OBTAINED CORRECTLY DUE TO THE AREA OF THE CIRCUMFERENCE BEEN MEASURED IS TO SMALL.",dimensions,CNC,Scrap,Erik L,12/8/2021,12/20/2021,0,$932 ,"12/7/21- Currently being reviewed by Erik L
+12/14/21- WIP
+12/20/21- Parts are not reworkable per Erik L. DMR 2856",Closed,
+12/8/2021,5792,SCI470573,0030-00527,3,1,376,1PC SCRAP ON SURFACE,Workmanship,"TRIPP ENTERPRISES,INC.",RTV,Marco,12/8/2021,,0,,"12/8/21- An email was sent to Marco to notify the supplier. 
+12/30/21- An email was sent to Marco to follow up with the supplier regarding this NCR. ",Open,
+12/8/2021,5793,P475914,119T0378-05,31,2,2,"Extra radius at zone D5, 1pc Zone B6 is out of spec",Workmanship,CNC,Rework,Erik L /Kenny,12/8/2021,,0,,"12/10/21- An email was sent to Erik to advise. 
+12/14/21- 1 part scrap 12/23/21- A follow up email was sent to Kenny regarding this 
+issue. David will submit SPS to customer",Open,
+12/10/2021,5795,P477931,0015-10703,4,6,6,"EXPOSE MATERIAL, PAINT IS CHIPPING",Workmanship,Chemical Safety Technology Inc,RTV,Marco,12/10/2021,,0,,"12/10/21- An email was sent to Marco to notify the supplier. 
+12/23/21- A follow up email was sent to Paresh regarding this issue.  ",Open,
+12/10/2021,5796,P475444,4022.684.3434,,12,12,"SH1 E2, 90° Angle is 85.1° to 86.3°, Also SH1 D8 Chamfer 2x.216x45° is actual .2244 & .3216",dimensions,CNC,AS-IS,Erik L. ,12/10/2021,12/23/2021,0,0,"12/10/21- An email was sent to Erik to advise. Parts were released to Erik L. 
+12/22/21- Per Erik, parts are currently being evaluated by Edgard 
+12/23/21-Per REgina parts were approved by the customer to use the parts as is. ",Closed,
+12/14/2021,5797,476735,0022-76769,1,3,3,Not complete radius.,Workmanship,Nominal Machining LLC,RTV,Marco,12/14/2021,,0,,"12/14/21- An email was sent to Marco to notify the supplier. Moved the parts to shipping. 
+12/28/21-Replacement parts received from supplier were re-inspected and passed inspection. ",Closed,
+12/14/2021,5798,476428,713-102458-009,E,8,10,"Sht 1, dr loc B5 s/b Ø11.716+-.012 actual is Ø11.691-11.693;  s/b Ø11.676+-.012 actual is Ø11.660-11.647.",dimensions,CNC,scrap,Erik L ,12/14/2021,12/28/2021,0,"$9,134 ","12/14/21- An email was sent to Erik to advise. Parts were released to Erik L. 
+12/28/21-Parts are not reworkable per Erik L. DMR 2858",Closed,
+12/14/2021,5799,CP477028,0041-83493,8,1,30,SN: 207 scrapped on surface. The part was dropped.,Cosmetic,QC,Scrap,Edgard,12/14/2021,12/14/2021,0,$910 ,12/14/21- Part is not reworkable per Edgard. DMR 2848,Closed,A copy was provided to ES to sign.
+12/15/2021,5800,CP476802,0041-79463,7,1,68,"SN 0162
+NonConf:5800 COSM COSMETIC",Cosmetic,Inner state/ Port Plastic,Scrap,Erik A,12/15/2021,12/16/2021,0,$910.00 ,"12/15/21 - An email was sent to Erik A, to evaluate the part.
+12/16/21- Part is not reworkable per Erik A. DMR  2850",Closed,A copy was provided to ES to sign.
+12/15/2021,5801,RPM475897,713-A70997,B,1,1,.02 THRU POS OUT OF TOLERANCE. IN  SEVERAL LOCATIONS.  HOLE SIZE IS  UNDER NOMINAL NO BONUS ADDED FOR THRU POS. READINGS RANGE FROM .035 TO .045.  HOLE SIZE  RANGES FROM.286 TO .291,dimensions,Quoting,Scrap,Marco/ Shalvin,12/15/2021,12/16/2021,0,$925.00 ,"12/15/21- An email was sent to Marco to notify the supplier.  Released to Simone (shipping)
+12/15/21- Per Shalvin, since GSI made this parts to Rev A we should scrap the part.  This was an internal communication error. Scrap part in-house
+12/16/21 - Scrap. DMR 2849",Closed,A copy was provided to ES to sign.
+12/15/2021,5802,P478086,1035292,1,1,1,AFTER VERIFING OOT TRUE POSSITION PART FOUND TO BE OOT ON OVERAL THICKNESS SHEET 1 ZONE D3,dimensions,Sonic Engineering Inc,AS-IS,Marco / Ernie,12/15/2021,12/16/2021,0,0,"12/15/21- An email was sent to Marco to notify the supplier.  Released to Simone (shipping) 
+12/16/21- Per Ernie, customer is ok using stock material (.75 thick) with p/n 1035292.""  ",Closed,
+12/15/2021,5803,476885,0022-64750,2,4,4,"SH1 C4 Wrong Engraving, Subcon engraved ""AMG"" Instead of ""AWG"",",Workmanship,Nominal Machining LLC ,RTV,Marco,12/15/2021,,0,,"12/15/21- An email was sent to Marco to notify the supplier.  Released to Simone (shipping) 
+12/31/21- instructed Marco to follow up with Nominal. ",Open,
+12/16/2021,5804,p475935,0022-95364,1,3,2,Per print  Thru pos should be .025.     parts are out of tolerance  actual readings are.045 to .10,dimensions,CNC  ,Rework,Erik L /Kenny,12/16/2021,12/22/2021,0,,"12/16/21 - An email was sent to Erik A, to evaluate the part. 
+12/22/21 - Per Edgard, the tolerance in question has been opened up to .05, bringing the part into print.  SPS-532802",Closed,
+12/16/2021,5805,478879,0041-12760,3,85,183,"EA 12/16: qty 98 ok to release back to inventory
+qty 85 rejected due to missing hardware item #3 (4x 3500-59011, M3 pemnuts)",Functional,CENTRAL TECH INCORPORATION VIETNAM COMPANY LIMITED,Rework In-house,Olga/Vladimir,12/17/2021,,1,,"12/16/21 - An email was sent to Olga/Vlad to rework these parts. 
+12/31/21- WIP",Open,
+12/20/2021,5807,rtm476426,0042-47983,2,39,41,dimension 14.10 -.50/+2.5,DImensions,"T&H Manufacturing, Inc",RTV,Marco,12/20/2021,,0,,12/20/21- An email was sent to Marco to notify the supplier.  Released to Simone (shipping) ,Open,
+12/20/2021,5808,CP476669,0022-86429,2,17,200,"TO CLEAN.
+17 UNITS: SHEET 1 ZONE B5 SHOULD BE 1.15 IS OUT OF SPEC",DImensions,QC,AS-IS,Erik A.,12/20/2021,12/29//21,0,0,"12/20/21- Currently being reviewed by Erik L. 
+12/29/21-   Per Erik A,  low risk to release as-is to customer. Part is long term production part (and a splash guard). Discrepancy would not affect functionality. Parts okay to use as-is",Closed,
+12/20/2021,5809,cp476802,0041-79463,7,1,68,1unit was broken inside cleanroom. SN: 0164,Workmanship,Cleaning,Scrap,Erik A,12/20/2021,12/22/2021,0,"$7,000.00 ","12/20/21-Currently being reviewed by Erik A.
+12/22/21- Part is not reworkable per Erik A. DMR  2857
+Note: this part will go to Martin per Erik A.",Closed,
+12/20/2021,474383,474383,713-294453-001,,1,130,Chip in the part that is not acceptable,Cosmetic,Cleaning,scrap,Erik L. ,12/20/2021,,0,$111.50 ,12/20/21- Not showing on Epicor. ,Open,
+12/21/2021,5810,CP476669,0022-86429,2,3,200,SHEET 1 ZONE B5 SHOULD BE 1.15 IS OUT OF SPEC,Workmanship,QC,AS-IS,Erik A,12/21/2021,12/29/2021,0,$0.00 ,"12/29/21-   Per Erik A,  low risk to release as-is to customer. Part is long term production part (and a splash guard). Discrepancy would not affect functionality. Parts okay to use as-is",Closed,
+12/21/2021,5811,SCI469697,0041-91826,3,3,10,NO GO FOR M3 THREAD GAGE GOES DRAWIG SH6D,Workmanship,QC,Rework,Louie,12/21/2021,,0,,"12/21/21- QC is at fault for using the wrong gage. Parts were released to Louie for rework.
+12/31/21- WIP ",Open,
+12/21/2021,5812,cp475630,0042-50003,1,2,4,Units 0006 and 0007   Thru pos  found out of tol.     per specs  thru pos of slots should be .003  actual readings are .005 to,dimensions,CNC,Rework,Erik L. ,12/21/2021,,0,,"12/21/21- Parts were released to Erik L to rework. 
+12/30/21- This part has been reworked and is awaiting inspection. ",Open,
+12/21/2021,5813,p473066,0270-11043,1,1,1,TICKNESS 1.00 ±.010 IS .920 TO .966,dimensions,CNC,Rework,Erik A,12/21/2021,,0,,12/21/21- An email was sent to Erik A to review the NCR. ,Open,
+12/22/2021,5814,477760,0022-94545,1,1,1,note#13 part marking omitted,Workmanship,"T&H Manufacturing, Inc",RTV,Marco,12/22/2021,,0,,12/22/21- An email was sent to Marco to notify the supplier.  Released to Simone (shipping) ,Open,
+12/23/2021,5815,MT-rpm477477,515-A46865-030,A,5,5,Exposed material after anodizing,Workmanship,Eclipse Metal Fabrication,RTV,Marco,12/23/2021,,0,,12/23/21- An email was sent to Marco to notify the supplier.  Parts were moved to Shipping area. ,Open,
+12/23/2021,5816,SCI476693,0041-82718,3,20,20,"ITEM 3 DID NOT INSTALL PERPENDICULAR WITH TOP SURFACE. 
+1 UNITS HAS TOOL MARK IN TOP SURFACE",Workmanship,Sonic Engineering Inc,RTV,Marco,12/23/2021,,0,,12/23/21- An email was sent to Marco to notify the supplier.  Parts were moved to Shipping area. Note: Supplier came and picked up the parts,Open,
+12/23/2021,5817,478084,713-256314-006,B,26,26,Missing ink stamp,Workmanship,CONDOR MANUFACTURING,RTV,Marco,12/23/2021,,0,,12/23/21- An email was sent to Marco to notify the supplier.  Parts were moved to Shipping area. ,Open,
+12/23/2021,5818,478080,713-256314-305,C,26,26,Missing ink stamp,Workmanship,Quoting,Rework In-house,Marco,12/23/2021,,0,,12/23/21- Per supplier ink stamp was not added to the quote. Part will be reworked inhouse. PC added part marking seq on this job. ,Open,
+12/23/2021,5819,mt-rpm477475,515-A46865-010,B,5,5,Exposed material after anod,Workmanship,Eclipse Metal Fabrication,RTV,Marco,12/23/2021,1/4/2021,0,$0.00 ,"12/23/21- An email was sent to Marco to notify the supplier.  Parts were moved to Shipping area.
+ 1/4/21- Edgard double-checked this NCR and found no issue with the parts. However, the inspector who inspected these parts is not familiar with them. ",Closed,
+12/28/2021,5820,CP476787,0021-04297,3,1,100,"SN 04101 WAS DROPPED DURRING CLEANING AND DAMAGED CORNER ON AREA
+SHEET 1 ZONE B2",Workmanship,Cleaning,Scrap,Edgard,12/28/2021,12/28/2021,0,$177.59 ,12/28/21- Part is not reworkable per Edgard. DMR 2859,Closed,
+12/28/2021,5821,RTM478651,0022-91515,2,30,4,"PARTS DAMAGED DURRING CLEANING AND PACKAGING
+2PCS TORN AND CANT BE REWORKED, SEE PICTURES ON FILE",Workmanship,Cleaning,Scrap,Edgard,12/28/2021,12/29/2021,0,$416.00 ,"12/29/21- Part is not reworkable per Edgard. DMR 2860
+Created new job RTM479336 for 2 pcs",Closed,
+12/29/2021,5822,MT-472965,0040-77461,BB,20,20,"Multiple dimensions along the length of part oversized by ~.100-.150""
+See attached print",dimensions,Programming,Scrap,Erik A.,12/29/2021,12/29/2021,0,"$45,476.00 ",12/29/21- Part is not reworkable per Erik A. DMR 2862,Closed,
+12/29/2021,5823,P477679,0022-48940,3,3,3,"IPI PARTS REJECTED DUE TO DIMENSIONAL ISSUE, PLEASE SEE SHEET 1 ZONE E8, C8, AND C2
+SLOT SHOULD BE 12.0±0.5 ACTUAL IS BETWEEN 17.66 AND 17.80
+DISTANCE SHOULD BE 40.0±0.5 ACTUAL IS BETWEEN 30.01 AND 30.06
+DISTANCE SHOULD BE 10.0±0.5 ACTUAL IS BETWEEN 14.76 AND 14.82",Dimensions,CNC,Scrap,Karen,12/29/2021,12/29/2021,0,"$1,245.00 ","12/29/21- Part is not reworkable per Karen. . DMR 2861. 
+closed job P477679. Created new job 479352 for 3X",Closed,
+12/30/2021,5824,473416,0035-00418,2,5,20,"SHT2 Zone A5: 2 holes have no diameter. Zone A5: 3.61 is 3.334-3.340, 3.17 is 2.903 - 2.916.
+Zone B4: 13.33 is 13.114-13.159, 13.78 is 13.547-13.571
+Zone A8: 4.82 is 4.720-4.770
+Zone C4: 12.93 is 13.010 - 13.025, 9.43 is 9.497
+Zone C1: 12.63 is 12.680 - 12.682",Workmanship,"CTI (SuZhou) Co., Ltd.,",RTV,Marco,12/30/2021,,0,,12/30/21- An email was sent to Marco to notify the supplier.   ,Open,
+12/30/2021,5826,ASM459502,0021-53070,2,100,100,EA 12/30: qty 100 rejected due to missing silk screening per print,Workmanship,CENTRAL TECH INCORPORATION VIETNAM COMPANY LIMIT,RTV,Erik A/ Marco,12/31/2021,,1,,12/31/21- Erik A will review this issue with Mraco. ,Open,
+12/30/2021,5827,ASM463714,0195-06854,3,1,308,EA 12/31: encoder cable connector (at motor side) damaged/broken,Workmanship,Assembly,RTV ,Nafees,12/31/2021,,1,,12/31/21- An email was sent to Nafees to notify the supplier.  The damage was done internally in transit from inventory to assembly per Erik A. ,Open,
+,,,,,574,2523,,,,,,,,,"$70,426.47 ",,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,

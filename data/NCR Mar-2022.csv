@@ -1,0 +1,89 @@
+﻿NCR #,DATE,SOURCE-1,SOURCE-2,TYPE,JOB,PN,REV,QTY,REPORTED BY,PROBLEM,DISPOSITION,"DISPOSITION
+OWNER","DISPOSITION
+DATE",COMPLETION DATE,Days to complete,SCRAP COST,STATUS,COMMENT
+5925,03/02/22,CHawk,QC,Work,475938,713-323740-001,A,59,Yakov S,"Part mark - missing, see sht 1 note #5.",UAI,Karen,3/2/2022,,0,,Closed,3/2/2022- This NCR was created by mistake. The inspector did not realize the egraving is done in-house. 
+5926,03/02/22,CHawk,CNC,DIM,sci464418,0022-34376,4,39,Jose O.,DIM .341  IS OUT OF TOL  ACTUAL IS .339,UAI,ERIK L,3/2/2022,,0,,Closed,"3/8/2022- Parts were reviewed by Erik A, using mating parts for verification and found no issue with the parts. Parts are being released to the next operation. "
+5927,03/02/22,SUPPLIER,NOMINAL,WORK,P481589,0022-56611,1,1,Quang Ngo,"FINISH SURFACE INSIDE CONE IS OUT OF SPEC
+MISSING PART MARKING PER NOTE 4",REWORK IN-HOUSE,MARCELINO,3/2/2022,3/21/2022,0,0,Closed,"3/2/2022- An email was sent to Marco to notify the supplier.
+Update: Sanding (sand the inside of the cone to bring to spec) sequence is added in order for the supplier to part mark.
+3/18/22- Part was released to Marcelino for rework.
+3/21/22- Part was successfully reworked and passed inspection by EA. "
+5929,03/04/22,SUPPLIER,Geo MFG,Work,sci479437,0021-99544,5,100,Quang Ngo,"Zone G5: should be 54.0+/-.20 is 54.26-54.32
+Zone D7: Parallelism should be max .20 is .25",RTV,MARCO,3/4/2022,,0,0,OPEN,"3/4/22- An email was sent to Marco to notify the supplier. 
+3/7/2022- Marco was instructed to find another supplier to fix the issue since Geo is closed. "
+5930,03/07/22,SUPPLIER,DC ,FUNC,RW482380,0090-10016,2,1,Erik Andrade,SH1 B8: Main key on J8141/J8181 BUF HD MTR connector is rotated 90°,RTV,NAFEES,3/7/2022,,0,0,OPEN,3/7/2022- An email was sent to Nafees to notify the supplier. 
+5931,03/07/22,SUPPLIER,DC ,FUNC,RW482381,0090-11976,1,1,Erik Andrade,Main key on J8141/J8181 BUF HD MTR connector clocking is off by 45° (connector should be in same the direction as the wire; see pi,RTV,NAFEES,3/7/2022,,0,0,OPEN,3/7/2022- An email was sent to Nafees to notify the supplier. 
+5932,03/10/22,CHawk,PURCHASING,COS,CP478688,0041-83493,8,1,Erik Andrade,"qty 1 with material defect, cannot cut out via machining",SCRAP,ERIK A/MYLENE,3/11/2022,,1,$910 ,Closed,"3/11/22-This part is not reworkable due to material defect, cannot cut out via machining. 2903 "
+5933,03/11/22,SUPPLIER,X3 Dynamic Machining ,DIM,RPM477873,713-347702-018,B,5,Erik Andrade,"Sh3, B5: M6 STI hole for items 2 and 3 is not drilled normal to the surface",RTV,Marco,3/11/2022,3/24/2022,0,0,Closed,"3/11/22- Supplier will be picking up these parts today. Parts have been moved to NCR cage (Shipping area) . Pending PO from Marco.
+Update:Per the supplier, parts will be delivered by Monday. 3/21
+3/24/22- Replacement parts received, re-inspected and passed inspection by Erik A. "
+5934,03/11/22,SUPPLIER,NOMINAL,COS,SCI473303,0022-46712,4,1,Karen L,"Part rejected due to cosmetic issues, large pit on the sheet 1 zone B2",RTV,Marco,3/11/2022,4/4/2022,0,0,Closed,"3/11/22- An email was sent to Marco to notify the supplier. 
+4/4/22-I was advised by Nominal to scrap this NCR 5934 and request for a new job order for 1 pc. Per Nominal, it’s best to close this NCR than wait for the replacement part to arrive, since the material needed is coming from CHawk.  DMR 2914"
+5936,03/11/22,CHawk,FABRICATION,Work,P476602,0042-37587,4,5,Karen L,"PARTS REJECTED DUE TO NOT MEETING PRINT. TOOLING WAS DAMAGED DURRING
+TRIMING CAUSING PARTS TO BE OOS, FORM FIT AND FUNCTION ALSO FAIL",SCRAP,Macelino/Olga,3/11/2022,,0,,Closed,"3/11/22- An email was sent to Marcelino and Olga to address. 
+3/15/22-Per Estuardo 5pcs from this  job already scrap.DMR   2905
+Update: Job P476602 closed, created new job# 481880.
+ "
+5937,03/14/22,SUPPLIER,NT Engineering,Work,mt-asm474795,0022-18212,5,20,Alan Ruiz,"Wrong Part Identification, Supplier Ink stamped ""0022-21218"", it should be ""0022-18212"".",REWORK IN-HOUSE,Marco / Olga,3/15/2022,3/21/2022,1,0,Closed,"3/15/22- An email was sent to Marco to notify the supplier. 
+3/21/22- Parts were reworked inhouse and passed inspection by Alan R."
+5938,03/15/22,CHawk,Metal,Work,MT-GTIP478130,1142-249-01,A,1,Erik Andrade,"EA 03/14: qty 4 released to next op
+qty 1 rejected; A-holes machined on wrong side, part loaded into machine incorrectly",SCRAP,Vinod,3/15/2022,3/23/2022,0,$388 ,Closed,"3/15/22- An email was sent to Vinod to disposition. 
+3/23/22- Part is not reworkable per Vinod.
+Note: Per Vinod  part was  a set up piece. DMR 2912"
+5939,03/15/22,CHawk,FABRICATION,DIM,476865,0021-29574,3,5,Marc Bousquet,2X 1.062 ±.010 IS 1.089 AND 1.090,Rework,Marcelino,3/15/2022,,0,0,Closed,"3/15/22- An email was sent to Marcelino to disposition.
+3/18/22- Reworked and passed inspection by Marc."
+5940,03/15/22,CHawk,Cleaning,Work,ISCI477713,0042-35485,2,1,Karen L,"PART WAS DAMAGED DURRING CLEANING PROCESS
+TECHNICIAL USED ACETONE TO REMOVE PROTECTIVE FILM. NOT REWORkABLE",SCRAP,"Marcelino/
+Sergio",3/15/2022,,0,$343 ,Closed,3/15/22- Part is not reworkable. DMR 2906
+5941,03/16/22,SUPPLIER,T&H MFG,DIM,P480464,0042-53818,4,1,Marc Bousquet,13.100 ±.005 IS 13.0936 AND FLATNESS .010 IS .0195,UAI,Marco/Justin,3/16/2022,3/31/2022,0,0,Closed,"3/16/22- An email was sent to Marcelino to disposition.
+3/23/22- A follow up email was sent to Edgard and Karen to review and provide feedback for the inspection report from the supplier. 
+3/31/22-This part is acceptable per AMAT. No need for a replacement. 
+"
+5942,03/17/22,SUPPLIER,Hill MFG,Work,MT-ASM477971,0042-35702,1,50,Erik Andrade,EA 03/16: qty 50 rejected; part marking not to spec (only part number and rev),RTV,Marco,3/17/2022,3/25/2022,0,0,Closed,"3/17/22- An email was sent to Marco to notify the supplier
+3/25/22-Reworked parts from supplier received and passed inspection. 
+"
+5943,03/17/22,SUPPLIER,NT Engineering,Work,MT-ASM477153,0022-18212,5,50,Erik Andrade,"EA 03/16: qty 50 rejected; part marked as 0022-21218, part is 0022-18212",RTV,Paresh,3/17/2022,,0,0,OPEN,3/17/22- An email was sent to Marco/Paresh to notify the supplier
+5944,03/17/22,SUPPLIER,Hill MFG,Work,SCI476701,0042-24513,3,80,Erik Andrade,"EA 03/16: qty 80 rejected; not part marked to spec, only part number and rev",RTV,Marco,3/17/2022,3/25/2022,0,0,Closed,"3/17/22- An email was sent to Marco to notify the supplier
+3/25/22- Reworked  parts by supplier were re-inspected and passed by Erik A.  Released to stock per Erik A. "
+5945,03/17/22,SUPPLIER,Hill MFG,Work,MT-ASM480869,0042-35702,2,50,Erik Andrade,"EA 03/16: qty 50 rejected; not part marked to spec, only part number and rev",RTV,Marco,3/17/2022,3/25/2022,0,0,Closed,"3/17/22- An email was sent to Marco to notify the supplier
+3/25/22- Reworked by supplier were re-inspected and passed by Erik A.  Released to stock per Erik A. "
+5946,03/18/22,CHAWK,Others,COS,CP479544,0041-83297,4,1,MARC BOUSQUET,SURFACE CHIP BY THREAD HOLE S/N: 0822-0001,SCRAP,Mylene ,3/18/2022,,0,$910 ,Closed,3/18/22- Part is nto reworkable. DMR 2907
+5947,03/18/22,CHawk,Others,COS,CP478688,0041-83493,8,1,Quang Ngo,SCRATCHED ON SURFACE. SN:1022-0356,SCRAP,Mylene ,3/18/2022,,0,$910 ,Closed,3/18/22- Part is nto reworkable. DMR 2908
+5948,03/21/22,CHawk,CNC,DIM,RTM480914,0022-86555,4,13,Jose Ornelas,"THRU POS .10   OUT OF TOLERANCE   IN ALL PARTS . ACTUAL READINGS  RANGE FROM .19 TO .29
+THRU POS. .2  OUT OF TOL IN  4 PARTS ACTUAL READINGS ARE .24",Rework,Erik L,3/21/2022,3/29/2022,0,0,Closed,"3/21/22- Parts were released to Erik L and working with Jose to re-evaluate the parts.. 
+3/29/22 - Reworked, re-inspected and passed inspection"
+5949,03/22/22,CHawk,CNC,DIM,IT-477555,CHP-INT-00033,5,6,Jose Ornelas,DIM 2.00 TO 2.007   OUT OF TOLERANCE.  ACTUAL READINGS ARE 2.28 TO 2.50,Rework,Erik L,3/22/2022,,0,0,OPEN,3/21/22- An email was sent to Erik L regarding this issue. 
+5950,03/23/22,SUPPLIER,Nominal ,Work,476500,713-341021-002,B,7,Quang Ngo,"
+7PCS HAVE SCRATCHED ON SURFACE.",RTV,Marco,3/23/2022,,0,0,OPEN,3/23/22- An email was sent to Marco to notify the supplier. 
+5951,03/25/22,SUPPLIER,CONDOR,Work,P482468,0041-97171,5,250,Quang Ngo,ZONE C3: SHOULD BE 1.500 -.002/-.005 IS OUT. VERIFIED BY RON AND EDGARD.,RTV,Marco,3/25/2022,,0,0,OPEN,3/25/22- An email was sent to Marco to notify the supplier. 
+5952,03/26/22,SUPPLIER,Fabri-Tech,Work,it-481754,CHP-INT-00057,6,1487,Quang Ngo,overall dimensions don't meet requirements,UAI,Marco,3/26/2022,,0,0,OPEN,"3/25/22- An email was sent to Marco to notify the supplier. 
+3/31/22- Pending "
+5953,03/27/22,SUPPLIER,Fabri-Tech,Work,it-481755,CHP-INT-00057,4,329,Quang Ngo,overall dimensions don't meet requirements,UAI,Marco,3/27/2022,,0,0,OPEN,3/25/22- An email was sent to Marco to notify the supplier. 
+5954,03/25/22,CHawk,CNC,DIM,ASM474316,0041-91127,2,15,Jose Ornelas,"DIAM 53.34 +0 /-.03   ACTUAL REDINGS ARE 53.38 TO 53.43
+ CONCNTRICITY .05 ON THIS DIAM IS .065",Rework,Erik  L,3/25/2022,3/29/2022,0,0,Closed,"3/25/22-  Parts were reworked, re-inspected and passed inspection, DIM is  at 53.31/53.32 
+"
+5955,03/25/22,CHawk,Lathe,others,476593,715-257226,A,5,JOSE CAMACHO,"Parts do not have a thread.
+Only 145 receivedfrom Lathe dept.   ",SCRAP,Lalo,3/25/2022,3/28/2022,0,,Closed,"03/28/22- 
+Per Lalo parts  are missing the second lathe operation.  Unfortunately,  rejected parts were  disposed by Jose Camacho. DMR 2913"
+5956,03/28/22,SUPPLIER,Nominal,Work,SCI479458,0022-29150,3,20,Quang Ngo,"WRONG PART MARK LOCATION. PER NOTE 5 IN ZONE C3, IT SHOULD BE FARSIDE",RTV,Marco,3/28/2022,,0,0,OPEN,3/28/22- An email was sent to Marco to notify the supplier. 
+5957,03/30/22,SUPPLIER,Powermatic,,RW483682,0140-18433,2,4,Erik Andrade,"red/black cable connetor labels incorrect; 51P3 and 54P1, 51P4 and 54P5, 51J3 and 54J1, 54J5 and 51J4 labels need to be swapped",RTV,Paresh,3/30/2022,,0,,OPEN,3/30/22- An email was sent to Paresh to notify the supplier. 
+5958,03/30/22,CHawk,CNC,DIM,P480824,K17271423-02,P06,2,Edgard Alvarado,"Parts Rejected.
+1 st part - step on Gundrill diameter (.500), plus other dimensions.
+2 nd part - Gundrill OK (.500)....Other dimensions OUT
+
+3/31/22- 1. Spec :  Sheet 2 of 3, Zone: D-2 Diameter .234   -.002/+.001 
+Actual : Oversize @ .2364 ---> then tapers to .221
+2. Spec:   Sheet 2 of 3, Zone: C-5 Diameter .753 -.000/+.002
+Actual:  Undersize @ .7527 
+3. Spec CAD nominal : See CMM report page 5 DiameterCircle32 .250 R
+4. Spec CAD nominal : See CMM report page 7 DiameterCircle40 .250 R
+",Rework,Erik L / Marco,3/30/2022,,0,,OPEN,"3/30/22- Part was released to Erik L for rework.
+4/4/22- Per Edgard 1 pc was released as good part and moved to cleaning.
+The part with the gundrill discrepancy will be in the MRB cage.
+Other issues besides the gundrill are present on this second part.
+"
+5959,03/31/22,SUPPLIER,NOMINAL,Work,P480789,713-173162-001,F,5,MARC BOUSQUET,PARTS ARE WARPPED,RTV,Marco,3/31/2022,,0,,OPEN,3/31/22- An email was sent to Marco to notify the supplier. 
+5960,03/31/22,CHawk,CNC,DIM,481249,0022-89101,1,3,YSH,"Sht 1, dr loc B6 s/b .200+-.002 is .194, dr loc C2 s/b Ø1.260 +-.005 is Ø1.251, 
+sht 2, dr loc D6 s/b Ø1.280+.000_.005 is Ø1.270, dr loc B3 s/bØ.281+.005-.000 is Ø.296,
+dr loc B5 s/b Ø1.000+.005-.000 is Ø997.",Rework,Erik L,3/31/2022,,0,,OPEN,3/30/22- An email was sent to Eulalo to provide some feedback regarding this issue. 
+,,,,,,,,,,,,,,,0.058823529,,,

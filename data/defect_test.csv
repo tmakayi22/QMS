@@ -1,0 +1,354 @@
+﻿Part#,Description,TASK DESCRIPTION,Potential Failure/Defect
+853-130489-006,"ASSY, NOZ STACK, DS",Pull parts from stock.,Wrong part issued
+853-130489-006,"ASSY, NOZ STACK, DS",CNC Machining,Bad engraving on part.
+853-130489-006,"ASSY, NOZ STACK, DS",Critical Deburr,Part not deburred properly
+853-130489-006,"ASSY, NOZ STACK, DS",Cut tubing per OMS.,Tubing length is out of spec.
+853-130489-006,"ASSY, NOZ STACK, DS",Clean tubings with alcohol,Part is not cleaned properly.
+853-130489-006,"ASSY, NOZ STACK, DS",Assemble components together.,Wrong component is assembled
+853-130489-006,"ASSY, NOZ STACK, DS",Flow test the tubings per OMS.,Tubing is not assembled per OMS.
+853-130489-006,"ASSY, NOZ STACK, DS",In Process Inspection,Part not inspected properly
+853-130489-006,"ASSY, NOZ STACK, DS",Clean the assembly,Part is not cleaned properly.
+853-130489-006,"ASSY, NOZ STACK, DS",Blacklight the assembly.,Part has particles
+853-130489-006,"ASSY, NOZ STACK, DS",Final Inspection,Part is not inspected properly.
+853-130489-006,"ASSY, NOZ STACK, DS",Ship,Part is damaged during transportation.
+713-163446-003,"NC, Nozzle Stack Lower Body",Blank material,Wrong size of blank
+713-163446-003,"NC, Nozzle Stack Lower Body",Anneal,Material is annealed incorrectly
+713-163446-003,"NC, Nozzle Stack Lower Body",Lathe Operation,Part is out of spec
+713-163446-003,"NC, Nozzle Stack Lower Body",Critical Deburr,Part not deburred properly
+713-163446-003,"NC, Nozzle Stack Lower Body",CNC Machining,Part is out of spec
+713-163446-003,"NC, Nozzle Stack Lower Body",Critical Deburr,Part not deburred properly
+713-163446-003,"NC, Nozzle Stack Lower Body",In Process Inspection,Part not inspected properly
+713-163446-003,"NC, Nozzle Stack Lower Body",Pack the part,Part is not packed properly
+713-163446-003,"NC, Nozzle Stack Lower Body",Send part to supplier for cleaning,Part is not cleaned properly.
+713-163446-003,"NC, Nozzle Stack Lower Body",Final Inspection,Part is not inspected properly
+713-163446-003,"NC, Nozzle Stack Lower Body",Stock part,Part is damaged during transportation.
+713-143245-001,"Noz Stk, Cap Nut",Blank material,Wrong size of blank
+713-143245-001,"Noz Stk, Cap Nut",Anneal,Material is annealed incorrectly
+713-143245-001,"Noz Stk, Cap Nut",Lathe Operation,Dimension is out of spec
+713-143245-001,"Noz Stk, Cap Nut",CNC Operation,Dimension could be out of spec
+713-143245-001,"Noz Stk, Cap Nut",Critical Deburr,Part not deburred properly
+713-143245-001,"Noz Stk, Cap Nut",In Process Inspection,Part not inspected properly
+713-143245-001,"Noz Stk, Cap Nut",Pack the part,Part is not packed properly
+713-143245-001,"Noz Stk, Cap Nut",Send part to supplier for cleaning,Part is not cleaned properly.
+713-143245-001,"Noz Stk, Cap Nut",Final Inspection,Part is clean with wrong spec.
+713-143245-001,"Noz Stk, Cap Nut",Stock part,Part is damaged during transportation.
+839-130660-005,"Body, Lwr, Noz Stk, DS",Blank material,Wrong size of blank
+839-130660-005,"Body, Lwr, Noz Stk, DS",Anneal,Material is annealed incorrectly
+839-130660-005,"Body, Lwr, Noz Stk, DS",Lathe Operation,Part is out of spec.
+839-130660-005,"Body, Lwr, Noz Stk, DS",CNC Machining,Part is out of spec.
+839-130660-005,"Body, Lwr, Noz Stk, DS",Critical Deburr,Part not deburred properly
+839-130660-005,"Body, Lwr, Noz Stk, DS",CNC Machining,Part is out of spec.
+839-130660-005,"Body, Lwr, Noz Stk, DS",Critical Deburr,Part not deburred properly
+839-130660-005,"Body, Lwr, Noz Stk, DS",Lathe Operation,Part is out of spec.
+839-130660-005,"Body, Lwr, Noz Stk, DS",Critical Deburr,Part not deburred properly
+839-130660-005,"Body, Lwr, Noz Stk, DS",Assemble O-ring into groove of part.,O-ring is damaged
+839-130660-005,"Body, Lwr, Noz Stk, DS",In Process Inspection,Part not inspected properly
+839-130660-005,"Body, Lwr, Noz Stk, DS",Pack the part,Part is not packed properly
+839-130660-005,"Body, Lwr, Noz Stk, DS",Send part to supplier for cleaning,Part is not cleaned properly.
+839-130660-005,"Body, Lwr, Noz Stk, DS",Final Inspection,Part is not inspected properly
+839-130660-005,"Body, Lwr, Noz Stk, DS",Stock part,Part is damaged during transportation.
+0041-90121,"Tank, Brush/HF Module, Direct dR, Dual Cleaner, RGT",Receiving material from supplier,Wrong material is received
+0041-90121,"Tank, Brush/HF Module, Direct dR, Dual Cleaner, RGT",Issue blank material from stock to production,Wrong material is issued
+0041-90121,"Tank, Brush/HF Module, Direct dR, Dual Cleaner, RGT",Thermoforming,"Part is deformed, porous or warped not flat."
+0041-90121,"Tank, Brush/HF Module, Direct dR, Dual Cleaner, RGT",CNC programming,Bad program was made
+0041-90121,"Tank, Brush/HF Module, Direct dR, Dual Cleaner, RGT",Machining part,Part with wrong dimension
+0041-90121,"Tank, Brush/HF Module, Direct dR, Dual Cleaner, RGT",Bend the part,Part with wrong dimension
+0041-90121,"Tank, Brush/HF Module, Direct dR, Dual Cleaner, RGT",Deburr part,Burrs on part shipped to customer
+0041-90121,"Tank, Brush/HF Module, Direct dR, Dual Cleaner, RGT",Insert installation,Missing or wrong insert on part
+0041-90121,"Tank, Brush/HF Module, Direct dR, Dual Cleaner, RGT",In-Process Inspection,Incomplete inspection
+0041-90121,"Tank, Brush/HF Module, Direct dR, Dual Cleaner, RGT","Weld square block at bottom of tank (sheet 4, zone F3 on print)",Wrong orientation of part
+0041-90121,"Tank, Brush/HF Module, Direct dR, Dual Cleaner, RGT","Weld sensor window plate to tank (Sheet 4, zone C8 on print)",Sensor window plate is not clear and clean
+0041-90121,"Tank, Brush/HF Module, Direct dR, Dual Cleaner, RGT",Leak test the tank,No leak detected
+0041-90121,"Tank, Brush/HF Module, Direct dR, Dual Cleaner, RGT",Leak test the tank,No leak test performed
+0041-90121,"Tank, Brush/HF Module, Direct dR, Dual Cleaner, RGT",Mark part,Wrong part number or wrong location of part mark on part
+0041-90121,"Tank, Brush/HF Module, Direct dR, Dual Cleaner, RGT",Mark part,Missing part mark on part
+0041-90121,"Tank, Brush/HF Module, Direct dR, Dual Cleaner, RGT",Cleaning part,"Part is dirty, contaminated"
+0041-90121,"Tank, Brush/HF Module, Direct dR, Dual Cleaner, RGT",Cleaning part,Cleaning operation was not performed on part.
+0041-90121,"Tank, Brush/HF Module, Direct dR, Dual Cleaner, RGT",Black-light inspection,Part has burrs and particles on it
+0041-90121,"Tank, Brush/HF Module, Direct dR, Dual Cleaner, RGT",Black-light inspection,Black-light operation was not performed on assembly
+0041-90121,"Tank, Brush/HF Module, Direct dR, Dual Cleaner, RGT",Final Inspection,Part with burrs or particles shipped to customer
+0041-90121,"Tank, Brush/HF Module, Direct dR, Dual Cleaner, RGT",Stock part,Part is damaged
+853-163457-005,"ASSY, NOZ STACK, NC",Pull parts from stock.,Wrong part issued
+853-163457-005,"ASSY, NOZ STACK, NC",CNC Machining,Bad engraving on part.
+853-163457-005,"ASSY, NOZ STACK, NC",Critical Deburr,Part not deburred properly
+853-163457-005,"ASSY, NOZ STACK, NC",Cut tubing per OMS.,Tubing length is out of spec.
+853-163457-005,"ASSY, NOZ STACK, NC",Clean tubings with alcohol,Part is not cleaned properly.
+853-163457-005,"ASSY, NOZ STACK, NC",Assemble components together.,Wrong component is assembled
+853-163457-005,"ASSY, NOZ STACK, NC",Flow test the tubings per OMS.,Tubing is not assembled per OMS.
+853-163457-005,"ASSY, NOZ STACK, NC",In Process Inspection,Part not inspected properly
+853-163457-005,"ASSY, NOZ STACK, NC",Clean the assembly,Part is not cleaned properly.
+853-163457-005,"ASSY, NOZ STACK, NC",Blacklight the assembly.,Part has particles
+853-163457-005,"ASSY, NOZ STACK, NC",Final Inspection,Part is not inspected properly.
+853-163457-005,"ASSY, NOZ STACK, NC",Ship,Part is damaged during transportation.
+0022-25689,"O-Ring, Standard Lid, HPO",Blank material,Wrong size of blank
+0022-25689,"O-Ring, Standard Lid, HPO",CNC Machine parts,Wrong program is used on part
+0022-25689,"O-Ring, Standard Lid, HPO",,Wrong tool is used on part
+0022-25689,"O-Ring, Standard Lid, HPO",,Part is out of spec.
+0022-25689,"O-Ring, Standard Lid, HPO",In-Process Inspection,Inspect part per print
+0022-25689,"O-Ring, Standard Lid, HPO",,Inspect part per print
+0022-25689,"O-Ring, Standard Lid, HPO",,Inspect part per print
+0022-25689,"O-Ring, Standard Lid, HPO",Debur part,Remove burrs and sharp edges.
+0022-25689,"O-Ring, Standard Lid, HPO",Leak Test part,Part failed at customer
+0022-25689,"O-Ring, Standard Lid, HPO",Part mark,Wrong part mark
+0022-25689,"O-Ring, Standard Lid, HPO",In-Process Inspection,Inspect part per print
+0022-25689,"O-Ring, Standard Lid, HPO",,Inspect part per print
+0022-25689,"O-Ring, Standard Lid, HPO",,Inspect part per print
+0022-25689,"O-Ring, Standard Lid, HPO",Clean part with Alcohol,Part is not cleaned completely.
+0022-25689,"O-Ring, Standard Lid, HPO",Blacklight part,"Part is with particles, not clean"
+0022-25689,"O-Ring, Standard Lid, HPO",Final Inspection,Missing label or wrong part number on label.
+0022-25689,"O-Ring, Standard Lid, HPO",,Missing final inspection.
+0022-25689,"O-Ring, Standard Lid, HPO",Package and ship part,Missing shipping label on part
+0022-25689,"O-Ring, Standard Lid, HPO",,Part is damaged during transportation.
+0022-25689,"O-Ring, Standard Lid, HPO",,Wrong part is shipped.
+0010-64456,"Assy, Dual BBX, Relexion GT",Pull part from stock,Wrong part issued to production
+0010-64456,"Assy, Dual BBX, Relexion GT",Pull part from stock,Part is labeled wrongly
+0010-64456,"Assy, Dual BBX, Relexion GT",Loctite is applied on screws,There is no loctite on screws.
+0010-64456,"Assy, Dual BBX, Relexion GT","Bracket, O-rings installation",Bracket groove/ O-rings are dirty or damaged
+0010-64456,"Assy, Dual BBX, Relexion GT",Install drain bracket onto bottom of tank.,"Bracket is not install, missing."
+0010-64456,"Assy, Dual BBX, Relexion GT",O-ring/ clamp installation,O-ring/ clamp O-ring groove are dirty or damaged
+0010-64456,"Assy, Dual BBX, Relexion GT",O-ring/ clamp installation,O-ring/ clamp O-ring groove are dirty or damaged
+0010-64456,"Assy, Dual BBX, Relexion GT",O-ring/ adaptor installation,O-ring/ adaptor O-ring groove are dirty or damaged
+0010-64456,"Assy, Dual BBX, Relexion GT",Install O-ring/ Bellow,O-rings/ Bellows are not clean properly or damaged
+0010-64456,"Assy, Dual BBX, Relexion GT",Clean motor shaft with IPA,Motor shaft is contaminated
+0010-64456,"Assy, Dual BBX, Relexion GT",Position of bellows on adaptor.,Bellows are not behind motor adaptor flange
+0010-64456,"Assy, Dual BBX, Relexion GT",Set and verify tensioner,Belt is too loose or tight
+0010-64456,"Assy, Dual BBX, Relexion GT",Bellows lip installation,"Bellow lip could be installed at wrong location, not behind brush drive adaptor flange. "
+0010-64456,"Assy, Dual BBX, Relexion GT",Clean O-rings and shaft O-ring grooves,O-ring/ shaft O-ring groove are dirty or damaged
+0010-64456,"Assy, Dual BBX, Relexion GT",Assemble shaft drivers onto assembly,Parts are switched and installed into wrong tanks
+0010-64456,"Assy, Dual BBX, Relexion GT",Assemble mandrel,Flats between head and mandrel are not mated.
+0010-64456,"Assy, Dual BBX, Relexion GT",Clean cover / O-rings ,Cover surface/ O-ring are dirty or damaged
+0010-64456,"Assy, Dual BBX, Relexion GT",Install sensor in idler plate,Sensor is loose or at wrong location
+0010-64456,"Assy, Dual BBX, Relexion GT",Connect cable to display,Cable is installed at wrong display connector
+0010-64456,"Assy, Dual BBX, Relexion GT",Connect cable to display,Cable is installed at wrong display connector
+0010-64456,"Assy, Dual BBX, Relexion GT",Install connectors on assembly,Key position of connector is installed at wrong positions
+0010-64456,"Assy, Dual BBX, Relexion GT",Clean O-rings and tank O-ring grooves,O-ring/ tank O-ring groove are dirty or damaged
+0010-64456,"Assy, Dual BBX, Relexion GT",Loctite is applied on screws,There is no loctite on screws.
+0010-64456,"Assy, Dual BBX, Relexion GT",Torque spec applied on screw,Screw is not torqued per OMS
+0010-64456,"Assy, Dual BBX, Relexion GT",Apply screws on assembly,Missing screw on assembly
+0010-64456,"Assy, Dual BBX, Relexion GT",Assemble O-ring on part number 0041-35974,O-rings are damaged
+0010-64456,"Assy, Dual BBX, Relexion GT",Assemble O-ring on part number 0041-35974,O-rings are not clean properly
+0010-64456,"Assy, Dual BBX, Relexion GT",Assemble bellow clamp onto assembly,Wrong orientation of part
+0010-64456,"Assy, Dual BBX, Relexion GT",Assemble shaft drivers onto assembly,Parts are switched and installed into wrong tanks
+0010-64456,"Assy, Dual BBX, Relexion GT",Assemble spray bars A & B,Parts are switched and installed into wrong tanks
+0010-64456,"Assy, Dual BBX, Relexion GT",Assemble spray bars A & B,Nozzles on spray bars are set at wrong angle
+0010-64456,"Assy, Dual BBX, Relexion GT",Assemble Brush motor control assembly,Assemblies are installed at wrong orientation. Motors facing wrong orientation on brush A & B
+0010-64456,"Assy, Dual BBX, Relexion GT",Assemble tie mounts onto assembly,Tie mounts are assembled at wrong orientation (horizontal or vertical)
+0010-64456,"Assy, Dual BBX, Relexion GT",Assemble M30 nut onto tanks,Overtorqued M30 nut and crack the tank or undertorqued M30 nut.
+0010-64456,"Assy, Dual BBX, Relexion GT",Tubes are installed on cover to control open and close positions.,Tubes are installed at wrong positions either open or close positions.
+0010-64456,"Assy, Dual BBX, Relexion GT",Tubes are installed on cover to control open and close positions.,Labels are applied on wrong tubes or wrong locations
+0010-64456,"Assy, Dual BBX, Relexion GT",Tube routing,Tubes are messy or tangled
+0010-64456,"Assy, Dual BBX, Relexion GT",Tube routing,Tubes are loose at fittings
+0010-64456,"Assy, Dual BBX, Relexion GT",Install indicator lights on assembly,Indicator lights facing wrong directions
+0010-64456,"Assy, Dual BBX, Relexion GT",Install connectors on assembly,Key position of connector is installed at wrong positions
+0010-64456,"Assy, Dual BBX, Relexion GT",Toe-In Calibration,Check gap of flanges
+0010-64456,"Assy, Dual BBX, Relexion GT",Functional test the assembly,Fail functional test at site
+0010-64456,"Assy, Dual BBX, Relexion GT",Functional test the assembly,Functional test passed at site
+0010-64456,"Assy, Dual BBX, Relexion GT",In-Process Inspection,Incomplete inspection
+0010-64456,"Assy, Dual BBX, Relexion GT",Cleaning assembly,"Assembly is dirty, contaminated"
+0010-64456,"Assy, Dual BBX, Relexion GT",Cleaning assembly,Cleaning operation was not performed on assembly.
+0010-64456,"Assy, Dual BBX, Relexion GT",Black-light inspection,Assembly has burrs and particles on it
+0010-64456,"Assy, Dual BBX, Relexion GT",Black-light inspection,Black-light operation was not performed on assembly
+0010-64456,"Assy, Dual BBX, Relexion GT",Final Inspection,Incomplete inspection
+0010-64456,"Assy, Dual BBX, Relexion GT",Bag and Tag,Missing labels
+0010-64456,"Assy, Dual BBX, Relexion GT",Bag and Tag,Assembly is damaged during transportation
+0010-63906,"Core Dual BBX, STD CLNR Assy",Pull part from stock,Wrong part issued to production
+0010-63906,"Core Dual BBX, STD CLNR Assy",Pull part from stock,Part is labeled wrongly
+0010-63906,"Core Dual BBX, STD CLNR Assy",Loctite is applied on screws,There is no loctite on screws.
+0010-63906,"Core Dual BBX, STD CLNR Assy","Bracket, O-rings installation",Bracket groove/ O-rings are dirty or damaged
+0010-63906,"Core Dual BBX, STD CLNR Assy",Install drain bracket onto bottom of tank.,"Bracket is not install, missing."
+0010-63906,"Core Dual BBX, STD CLNR Assy",O-ring/ clamp installation,O-ring/ clamp O-ring groove are dirty or damaged
+0010-63906,"Core Dual BBX, STD CLNR Assy",O-ring/ adaptor installation,O-ring/ adaptor O-ring groove are dirty or damaged
+0010-63906,"Core Dual BBX, STD CLNR Assy",Install O-ring/ Bellow,O-rings/ Bellows are not clean properly or damaged
+0010-63906,"Core Dual BBX, STD CLNR Assy",Clean motor shaft with IPA,Motor shaft is contaminated
+0010-63906,"Core Dual BBX, STD CLNR Assy",Position of bellows on adaptor.,Bellows are not behind motor adaptor flange
+0010-63906,"Core Dual BBX, STD CLNR Assy",Set and verify tensioner,Belt is too loose or tight
+0010-63906,"Core Dual BBX, STD CLNR Assy",Bellows lip installation,"Bellow lip could be installed at wrong location, not behind brush drive adaptor flange. "
+0010-63906,"Core Dual BBX, STD CLNR Assy",Clean O-rings and shaft O-ring grooves,O-ring/ shaft O-ring groove are dirty or damaged
+0010-63906,"Core Dual BBX, STD CLNR Assy",Assemble shaft drivers onto assembly,Parts are switched and installed into wrong tanks
+0010-63906,"Core Dual BBX, STD CLNR Assy",Assemble mandrel,Flats between head and mandrel are not mated.
+0010-63906,"Core Dual BBX, STD CLNR Assy",Clean cover / O-rings ,Cover surface/ O-ring are dirty or damaged
+0010-63906,"Core Dual BBX, STD CLNR Assy",Install top cover cylinder slide assy,Top cover cylinder slider assy facing wrong orientation
+0010-63906,"Core Dual BBX, STD CLNR Assy",Connect harness from block to tank B,Cable is tangled or damaged at eye bolt.
+0010-63906,"Core Dual BBX, STD CLNR Assy",Locate emitter on rear and receiver on front of brush tank B,Indicator lights facing wrong directions
+0010-63906,"Core Dual BBX, STD CLNR Assy",Install sensor in idler plate,Sensor is loose or at wrong location
+0010-63906,"Core Dual BBX, STD CLNR Assy",Connect cable to display,Cable is installed at wrong display connector
+0010-63906,"Core Dual BBX, STD CLNR Assy",Connect cable to display,Cable is installed at wrong display connector
+0010-63906,"Core Dual BBX, STD CLNR Assy",Connect motor connectors,Install wrong connectors
+0010-63906,"Core Dual BBX, STD CLNR Assy",Install cable connectors on assembly,Key position of connector is installed at wrong positions
+0010-63906,"Core Dual BBX, STD CLNR Assy",Install connectors on assembly,Key position of connector is installed at wrong positions
+0010-63906,"Core Dual BBX, STD CLNR Assy",Install connectors on assembly,Key position of connector is installed at wrong positions
+0010-63906,"Core Dual BBX, STD CLNR Assy",Install connectors on assembly,Key position of connector is installed at wrong positions
+0010-63906,"Core Dual BBX, STD CLNR Assy",Clean O-rings and tank O-ring grooves,O-ring/ tank O-ring groove are dirty or damaged
+0010-63906,"Core Dual BBX, STD CLNR Assy",Loctite is applied on screws,There is no loctite on screws.
+0010-63906,"Core Dual BBX, STD CLNR Assy",Torque spec applied on screw,Screw is not torqued per OMS
+0010-63906,"Core Dual BBX, STD CLNR Assy",Apply screws on assembly,Missing screw on assembly
+0010-63906,"Core Dual BBX, STD CLNR Assy",Assemble spray bars A & B,Parts are switched and installed into wrong tanks
+0010-63906,"Core Dual BBX, STD CLNR Assy",Assemble spray bars A & B,Nozzles on spray bars are set at wrong angle
+0010-63906,"Core Dual BBX, STD CLNR Assy",Assemble Brush motor control assembly,Assemblies are installed at wrong orientation. Motors facing wrong orientation on brush A & B
+0010-63906,"Core Dual BBX, STD CLNR Assy",Assemble tie mounts onto assembly,Tie mounts are assembled at wrong orientation (horizontal or vertical)
+0010-63906,"Core Dual BBX, STD CLNR Assy",Assemble M30 nut onto tanks,Overtorqued M30 nut and crack the tank or undertorqued M30 nut.
+0010-63906,"Core Dual BBX, STD CLNR Assy",Tubes are installed on cover to control open and close positions.,Tubes are installed at wrong positions either open or close positions.
+0010-63906,"Core Dual BBX, STD CLNR Assy",Tubes are installed on cover to control open and close positions.,Labels are applied on wrong tubes or wrong locations
+0010-63906,"Core Dual BBX, STD CLNR Assy",Tube routing,Tubes are messy or tangled
+0010-63906,"Core Dual BBX, STD CLNR Assy",Tube routing,Tubes are loose at fittings
+0010-63906,"Core Dual BBX, STD CLNR Assy",Install indicator lights on assembly,Indicator lights facing wrong directions
+0010-63906,"Core Dual BBX, STD CLNR Assy",Install connectors on assembly,Key position of connector is installed at wrong positions
+0010-63906,"Core Dual BBX, STD CLNR Assy",Toe-In Calibration,Check gap of flanges
+0010-63906,"Core Dual BBX, STD CLNR Assy",Functional test the assembly,Fail functional test at site
+0010-63906,"Core Dual BBX, STD CLNR Assy",Functional test the assembly,Functional test passed at site
+0010-63906,"Core Dual BBX, STD CLNR Assy",In-Process Inspection,Incomplete inspection
+0010-63906,"Core Dual BBX, STD CLNR Assy",Cleaning assembly,"Assembly is dirty, contaminated"
+0010-63906,"Core Dual BBX, STD CLNR Assy",Cleaning assembly,Cleaning operation was not performed on assembly.
+0010-63906,"Core Dual BBX, STD CLNR Assy",Black-light inspection,Assembly has burrs and particles on it
+0010-63906,"Core Dual BBX, STD CLNR Assy",Black-light inspection,Black-light operation was not performed on assembly
+0010-63906,"Core Dual BBX, STD CLNR Assy",Final Inspection,Incomplete inspection
+0010-63906,"Core Dual BBX, STD CLNR Assy",Bag and Tag,Missing labels
+0010-63906,"Core Dual BBX, STD CLNR Assy",Bag and Tag,Assembly is damaged during transportation
+0010-63284,"Core Dual BBX, STD CLNR Assy",Pull part from stock,Wrong part issued to production
+0010-63284,"Core Dual BBX, STD CLNR Assy",Pull part from stock,Part is labeled wrongly
+0010-63284,"Core Dual BBX, STD CLNR Assy",Loctite is applied on screws,There is no loctite on screws.
+0010-63284,"Core Dual BBX, STD CLNR Assy","Bracket, O-rings installation",Bracket groove/ O-rings are dirty or damaged
+0010-63284,"Core Dual BBX, STD CLNR Assy",Install drain bracket onto bottom of tank.,"Bracket is not install, missing."
+0010-63284,"Core Dual BBX, STD CLNR Assy",O-ring/ clamp installation,O-ring/ clamp O-ring groove are dirty or damaged
+0010-63284,"Core Dual BBX, STD CLNR Assy",O-ring/ clamp installation,O-ring/ clamp O-ring groove are dirty or damaged
+0010-63284,"Core Dual BBX, STD CLNR Assy",O-ring/ adaptor installation,O-ring/ adaptor O-ring groove are dirty or damaged
+0010-63284,"Core Dual BBX, STD CLNR Assy",Install O-ring/ Bellow,O-rings/ Bellows are not clean properly or damaged
+0010-63284,"Core Dual BBX, STD CLNR Assy",Clean motor shaft with IPA,Motor shaft is contaminated
+0010-63284,"Core Dual BBX, STD CLNR Assy",Position of bellows on adaptor.,Bellows are not behind motor adaptor flange
+0010-63284,"Core Dual BBX, STD CLNR Assy",Set and verify tensioner,Belt is too loose or tight
+0010-63284,"Core Dual BBX, STD CLNR Assy",Bellows lip installation,"Bellow lip could be installed at wrong location, not behind brush drive adaptor flange. "
+0010-63284,"Core Dual BBX, STD CLNR Assy",Clean O-rings and shaft O-ring grooves,O-ring/ shaft O-ring groove are dirty or damaged
+0010-63284,"Core Dual BBX, STD CLNR Assy",Assemble shaft drivers onto assembly,Parts are switched and installed into wrong tanks
+0010-63284,"Core Dual BBX, STD CLNR Assy",Assemble mandrel,Flats between head and mandrel are not mated.
+0010-63284,"Core Dual BBX, STD CLNR Assy",Clean cover / O-rings ,Cover surface/ O-ring are dirty or damaged
+0010-63284,"Core Dual BBX, STD CLNR Assy",Install sensor in idler plate,Sensor is loose or at wrong location
+0010-63284,"Core Dual BBX, STD CLNR Assy",Connect cable to display,Cable is installed at wrong display connector
+0010-63284,"Core Dual BBX, STD CLNR Assy",Connect cable to display,Cable is installed at wrong display connector
+0010-63284,"Core Dual BBX, STD CLNR Assy",Install connectors on assembly,Key position of connector is installed at wrong positions
+0010-63284,"Core Dual BBX, STD CLNR Assy",Clean O-rings and tank O-ring grooves,O-ring/ tank O-ring groove are dirty or damaged
+0010-63284,"Core Dual BBX, STD CLNR Assy",Loctite is applied on screws,There is no loctite on screws.
+0010-63284,"Core Dual BBX, STD CLNR Assy",Torque spec applied on screw,Screw is not torqued per OMS
+0010-63284,"Core Dual BBX, STD CLNR Assy",Apply screws on assembly,Missing screw on assembly
+0010-63284,"Core Dual BBX, STD CLNR Assy",Assemble O-ring on part number 0041-35974,O-rings are damaged
+0010-63284,"Core Dual BBX, STD CLNR Assy",Assemble O-ring on part number 0041-35974,O-rings are not clean properly
+0010-63284,"Core Dual BBX, STD CLNR Assy",Assemble bellow clamp onto assembly,Wrong orientation of part
+0010-63284,"Core Dual BBX, STD CLNR Assy",Assemble shaft drivers onto assembly,Parts are switched and installed into wrong tanks
+0010-63284,"Core Dual BBX, STD CLNR Assy",Assemble spray bars A & B,Parts are switched and installed into wrong tanks
+0010-63284,"Core Dual BBX, STD CLNR Assy",Assemble spray bars A & B,Nozzles on spray bars are set at wrong angle
+0010-63284,"Core Dual BBX, STD CLNR Assy",Assemble Brush motor control assembly,Assemblies are installed at wrong orientation. Motors facing wrong orientation on brush A & B
+0010-63284,"Core Dual BBX, STD CLNR Assy",Assemble tie mounts onto assembly,Tie mounts are assembled at wrong orientation (horizontal or vertical)
+0010-63284,"Core Dual BBX, STD CLNR Assy",Assemble M30 nut onto tanks,Overtorqued M30 nut and crack the tank or undertorqued M30 nut.
+0010-63284,"Core Dual BBX, STD CLNR Assy",Tubes are installed on cover to control open and close positions.,Tubes are installed at wrong positions either open or close positions.
+0010-63284,"Core Dual BBX, STD CLNR Assy",Tubes are installed on cover to control open and close positions.,Labels are applied on wrong tubes or wrong locations
+0010-63284,"Core Dual BBX, STD CLNR Assy",Tube routing,Tubes are messy or tangled
+0010-63284,"Core Dual BBX, STD CLNR Assy",Tube routing,Tubes are loose at fittings
+0010-63284,"Core Dual BBX, STD CLNR Assy",Install indicator lights on assembly,Indicator lights facing wrong directions
+0010-63284,"Core Dual BBX, STD CLNR Assy",Install connectors on assembly,Key position of connector is installed at wrong positions
+0010-63284,"Core Dual BBX, STD CLNR Assy",Toe-In Calibration,Check gap of flanges
+0010-63284,"Core Dual BBX, STD CLNR Assy",Functional test the assembly,Fail functional test at site
+0010-63284,"Core Dual BBX, STD CLNR Assy",Functional test the assembly,Functional test passed at site
+0010-63284,"Core Dual BBX, STD CLNR Assy",In-Process Inspection,Incomplete inspection
+0010-63284,"Core Dual BBX, STD CLNR Assy",Cleaning assembly,"Assembly is dirty, contaminated"
+0010-63284,"Core Dual BBX, STD CLNR Assy",Cleaning assembly,Cleaning operation was not performed on assembly.
+0010-63284,"Core Dual BBX, STD CLNR Assy",Black-light inspection,Assembly has burrs and particles on it
+0010-63284,"Core Dual BBX, STD CLNR Assy",Black-light inspection,Black-light operation was not performed on assembly
+0010-63284,"Core Dual BBX, STD CLNR Assy",Final Inspection,Incomplete inspection
+0010-63284,"Core Dual BBX, STD CLNR Assy",Bag and Tag,Missing labels
+0010-63284,"Core Dual BBX, STD CLNR Assy",Bag and Tag,Assembly is damaged during transportation
+0010-63284,"Core Dual BBX, STD CLNR Assy",Pull part from stock,Wrong part issued to production
+0010-63284,"Core Dual BBX, STD CLNR Assy",Pull part from stock,Part is labeled wrongly
+0010-63284,"Core Dual BBX, STD CLNR Assy",Loctite is applied on screws,There is no loctite on screws.
+0010-63284,"Core Dual BBX, STD CLNR Assy",Torque spec applied on screw,Screw is not torqued per OMS
+0010-63284,"Core Dual BBX, STD CLNR Assy",Apply screws on assembly,Missing screw on assembly
+0010-63284,"Core Dual BBX, STD CLNR Assy",Assemble O-ring on part number 0041-35974,O-rings are damaged
+0010-63284,"Core Dual BBX, STD CLNR Assy",Install drain bracket onto bottom of tank.,"Bracket is not install, missing."
+0010-63284,"Core Dual BBX, STD CLNR Assy",Install O-ring/ Bellow,O-rings/ Bellows are not clean properly or damaged
+0010-63284,"Core Dual BBX, STD CLNR Assy",Clean motor shaft with IPA,Motor shaft is contaminated
+0010-63284,"Core Dual BBX, STD CLNR Assy",Check position of bellows,Bellows are not at right position.
+0010-63284,"Core Dual BBX, STD CLNR Assy",Set and verify tensioner,Belt is too loose or tight
+0010-63284,"Core Dual BBX, STD CLNR Assy",Bellows lip location,Bellow lip is at wrong location
+0010-63284,"Core Dual BBX, STD CLNR Assy",Clean O-rings,O-ring is dirty or damaged
+0010-63284,"Core Dual BBX, STD CLNR Assy",Assemble bellow clamp onto assembly,Wrong orientation of part
+0010-63284,"Core Dual BBX, STD CLNR Assy",Assemble shaft drivers onto assembly,Parts are switched and installed into wrong tanks
+0010-63284,"Core Dual BBX, STD CLNR Assy",Assemble mandrel,Flats between head and mandrel are not mated.
+0010-63284,"Core Dual BBX, STD CLNR Assy",Clean O-rings and grooves,O-ring is dirty or damaged
+0010-63284,"Core Dual BBX, STD CLNR Assy",Clean O-rings and grooves,O-ring is dirty or damaged
+0010-63284,"Core Dual BBX, STD CLNR Assy",Clean O-rings and grooves,O-ring is dirty or damaged
+0010-63284,"Core Dual BBX, STD CLNR Assy",Assemble part,Part is at wrong orientation
+0010-63284,"Core Dual BBX, STD CLNR Assy",Assemble spray bars A & B,Parts are switched and installed into wrong tanks
+0010-63284,"Core Dual BBX, STD CLNR Assy",Assemble spray bars A & B,Nozzles on spray bars are set at wrong angle
+0010-63284,"Core Dual BBX, STD CLNR Assy",Assemble Brush motor control assembly,Assemblies are installed at wrong orientation. Motors facing wrong orientation on brush A & B
+0010-63284,"Core Dual BBX, STD CLNR Assy",Assemble tie mounts onto assembly,Tie mounts are assembled at wrong orientation (horizontal or vertical)
+0010-63284,"Core Dual BBX, STD CLNR Assy",Assemble M30 nut onto tanks,Overtorqued M30 nut and crack the tank or undertorqued M30 nut.
+0010-63284,"Core Dual BBX, STD CLNR Assy",Tubes are installed on cover to control open and close positions.,Tubes are installed at wrong positions either open or close positions.
+0010-63284,"Core Dual BBX, STD CLNR Assy",Tubes are installed on cover to control open and close positions.,Labels are applied on wrong tubes or wrong locations
+0010-63284,"Core Dual BBX, STD CLNR Assy",Tube routing,Tubes are messy or tangled
+0010-63284,"Core Dual BBX, STD CLNR Assy",Tube routing,Tubes are loose at fittings
+0010-63284,"Core Dual BBX, STD CLNR Assy",Install indicator lights on assembly,Indicator lights facing wrong directions
+0010-63284,"Core Dual BBX, STD CLNR Assy",Install sensor in idler plate,Sensor is loose or at wrong location
+0010-63284,"Core Dual BBX, STD CLNR Assy",Connect cable to display,Cable is installed at wrong display connector
+0010-63284,"Core Dual BBX, STD CLNR Assy",Connect cable to display,Cable is installed at wrong display connector
+0010-63284,"Core Dual BBX, STD CLNR Assy",Routing tubing,Tubing is routing at wrong direction
+0010-63284,"Core Dual BBX, STD CLNR Assy",Assemble sensors,Sensor is loose
+0010-63284,"Core Dual BBX, STD CLNR Assy",Assemble cable assemblies,Cable is loose
+0010-63284,"Core Dual BBX, STD CLNR Assy",Cable installation,Cable installed at wrong display connector
+0010-63284,"Core Dual BBX, STD CLNR Assy",Install connectors on assembly,Key position of connector is installed at wrong positions
+0010-63284,"Core Dual BBX, STD CLNR Assy",Clean O-ring with IPA,O-ring is dirty or damaged
+0010-63284,"Core Dual BBX, STD CLNR Assy",Toe-In Calibration,Check gap of flanges
+0010-63284,"Core Dual BBX, STD CLNR Assy",Functional test the assembly,Fail functional test at site
+0010-63284,"Core Dual BBX, STD CLNR Assy",Functional test the assembly,Functional test was not performed at site
+0010-63284,"Core Dual BBX, STD CLNR Assy",In-Process Inspection,Incomplete inspection
+0010-63284,"Core Dual BBX, STD CLNR Assy",Cleaning assembly,"Assembly is dirty, contaminated"
+0010-63284,"Core Dual BBX, STD CLNR Assy",Cleaning assembly,Cleaning operation was not performed on assembly.
+0010-63284,"Core Dual BBX, STD CLNR Assy",Black-light inspection,Assembly has burrs and particles on it
+0010-63284,"Core Dual BBX, STD CLNR Assy",Black-light inspection,Black-light operation was not performed on assembly
+0010-63284,"Core Dual BBX, STD CLNR Assy",Final Inspection,Incomplete inspection
+0010-63284,"Core Dual BBX, STD CLNR Assy",Bag and Tag,Missing labels
+0010-63284,"Core Dual BBX, STD CLNR Assy",Ship assembly,Assembly is damaged during transportation
+0010-51052,"Dual Magasonic Tank, Relexion GT",Pull part from stock,Wrong part issued to production
+0010-51052,"Dual Magasonic Tank, Relexion GT",Pull part from stock,Part is labeled wrongly
+0010-51052,"Dual Magasonic Tank, Relexion GT",Torque screws in star pattern,Gasket/ Transducer plate is not flat
+0010-51052,"Dual Magasonic Tank, Relexion GT",Install Quartz sensor housing,Quartz sensor is cracked.
+0010-51052,"Dual Magasonic Tank, Relexion GT",Flare the tubes,"Tube is deformed, overheated"
+0010-51052,"Dual Magasonic Tank, Relexion GT",Torque spec applied on screw,Screw is not torqued per OMS
+0010-51052,"Dual Magasonic Tank, Relexion GT",Loctite is applied on screws,There is no loctite on screws.
+0010-51052,"Dual Magasonic Tank, Relexion GT",Apply grease on rollers,Bearing won't run properly
+0010-51052,"Dual Magasonic Tank, Relexion GT",Apply screws on assembly,Missing screw on assembly
+0010-51052,"Dual Magasonic Tank, Relexion GT",Dry the tank and PFA lines,Tank and PFA lines are not dried completely
+0010-51052,"Dual Magasonic Tank, Relexion GT",Belts installation,Belts are not aligned
+0010-51052,"Dual Magasonic Tank, Relexion GT",Tubes are installed on assembly,Tubes are installed at wrong locations. 
+0010-51052,"Dual Magasonic Tank, Relexion GT",Tubes are installed on assembly,"Tube is loose, damaged or kinked."
+0010-51052,"Dual Magasonic Tank, Relexion GT",Tube routing,Tubes are messy or tangled
+0010-51052,"Dual Magasonic Tank, Relexion GT",Tube routing,Tubes are loose at fittings
+0010-51052,"Dual Magasonic Tank, Relexion GT",Install indicator lights on assembly,Indicator lights facing wrong directions
+0010-51052,"Dual Magasonic Tank, Relexion GT",Apply labels on tubes,Labels are applied on wrong tubes or wrong locations
+0010-51052,"Dual Magasonic Tank, Relexion GT",Functional test (0260-10333) the assembly,Fail functional test at site
+0010-51052,"Dual Magasonic Tank, Relexion GT",Leak test,Leak test is not done properly
+0010-51052,"Dual Magasonic Tank, Relexion GT",In-Process Inspection,Incomplete inspection
+0010-51052,"Dual Magasonic Tank, Relexion GT",Cleaning assembly,"Assembly is dirty, contaminated"
+0010-51052,"Dual Magasonic Tank, Relexion GT",Cleaning assembly,Cleaning operation was not performed on assembly.
+0010-51052,"Dual Magasonic Tank, Relexion GT",Black-light inspection,Assembly has burrs and particles on it
+0010-51052,"Dual Magasonic Tank, Relexion GT",Black-light inspection,Black-light operation was not performed on assembly
+0010-51052,"Dual Magasonic Tank, Relexion GT",Final Inspection,Incomplete inspection
+0010-51052,"Dual Magasonic Tank, Relexion GT",Bag and Tag,Missing labels
+0010-51052,"Dual Magasonic Tank, Relexion GT",Ship assembly,Assembly is damaged during transportation
+0041-29923,"Weldment, Megasonic Tank BTM Access",Receiving material from supplier,Wrong material is received
+0041-29923,"Weldment, Megasonic Tank BTM Access",Issue blank material from stock to production,Wrong material is issued
+0041-29923,"Weldment, Megasonic Tank BTM Access",CNC programming,Bad program was made
+0041-29923,"Weldment, Megasonic Tank BTM Access",Machining part,Part with wrong dimension
+0041-29923,"Weldment, Megasonic Tank BTM Access",Thermoforming,"Part is deformed, porous or warped not flat."
+0041-29923,"Weldment, Megasonic Tank BTM Access",Critical Deburr item 2,Part has burrs
+0041-29923,"Weldment, Megasonic Tank BTM Access",In-Process Inspection,Incomplete inspection
+0041-29923,"Weldment, Megasonic Tank BTM Access",Weld components together per print.,Part is warped or deformed
+0041-29923,"Weldment, Megasonic Tank BTM Access",Deburr part,Burrs on part shipped to customer
+0041-29923,"Weldment, Megasonic Tank BTM Access",Insert installation,Missing or wrong insert on part
+0041-29923,"Weldment, Megasonic Tank BTM Access",In-Process Inspection,Incomplete inspection
+0041-29923,"Weldment, Megasonic Tank BTM Access",Leak test the tank,No leak detected
+0041-29923,"Weldment, Megasonic Tank BTM Access",Leak test the tank,No leak test performed
+0041-29923,"Weldment, Megasonic Tank BTM Access",Flow the tank,Debris inside tank.
+0041-29923,"Weldment, Megasonic Tank BTM Access",Cleaning part,"Part is dirty, contaminated"
+0041-29923,"Weldment, Megasonic Tank BTM Access",Cleaning part,Cleaning operation was not performed on part.
+0041-29923,"Weldment, Megasonic Tank BTM Access",Black-light inspection,Part has burrs and particles on it
+0041-29923,"Weldment, Megasonic Tank BTM Access",Black-light inspection,Black-light operation was not performed on assembly
+0041-29923,"Weldment, Megasonic Tank BTM Access",Final Inspection,Part with burrs or particles shipped to customer
+0041-29923,"Weldment, Megasonic Tank BTM Access",Stock part,Part is damaged

@@ -1,0 +1,209 @@
+﻿RMA Number,Part Number,Return  Qty,RMA Date,Customer,Responsibility,Type of Issue,Status,Root cause,Corrective actions,Affect to US Chawk QPPM Y/N,Inspector,"RMA closure  on time?
+Y/N(within 45 days)",Notes
+11975,0022-53688 Rev 7,15,01/06/21,Applied Materials Inc.,Chawk,Workmanship,open,,,,,,"1/5/21: Parts are with burrs in holes per customer report. There are 15X parts returning for rework. Per the agreement between AMAT and Chawk, the manufacturing process still under trial and error method. Chawk tried to remove the hand deburring to cut down the cost per customer's request. Therefore, burrs are expected to remain in holes of part. AMAT was OK to let Chawk testing on the part to find a best manufacturing method for the part with less cost as much as possible. In addition, not all parts with burrs, but the customer returned them all anyway per the agreement. 
+
+01/07/21 Chin Stiltz: 
+Hi Chin,
+Please let David Q. know whenever RMA11975 is received.
+John Phung | "
+11976,"713-800853-600,Rev C",5,01/14/21,Lam Research Corporation,Lam,Workmanship,open,,,,,,"01/13/21 Chin Stiltz: Issue the RMA to Hriday. This an old issue. A purge was requested from previous rejection at customer. An 8D was completed and closed by customer. Therefore, this is the same issue and won't count toward the QPPM. 
+NCR764076 - Both parts are cracked by the helix-coils see pictures attached to NCi
+NCR 811320 - Verified chip marks around the x8 thread inserts. see attached. Part will be moved to MRB"
+11977,0021-51885 Rev 6,1,01/14/21,Applied Materials Inc.,Chawk,Packaging,open,,,,,,01/13/21 Chin Stiltz: Issue the RMA to Ashlie.QN 40474984: Part broken
+11978,"853-A08141-001,Rev A",1,01/19/21,Lam Research Corporation,Chawk,Other,open,,,,,,"1/18//21 Chin Stiltz: Isued the RMA to Saeed, specified with rev B on attached NCI 836554 issued on 12/14/2020.NCR 836554: During inspection chamber was found to be built incorrectly. Weldment is in the wrong location. See (839-A08084-001). Supplier at fault for NBTP part."
+11979,"0041-91826, Rev 02",1,01/21/21,Applied Materials Inc.,AMAT,Customer Rework,open,,,,,,"01/21/21 Chin Stiltz: Issued the RMA to Ashlie as customer paid rework.
+QN40475706 - iOMS call for the installation of 3690-00908 x2, that particular screw is a M3
+.8mm Pitch. The screw hole on the 0041-91826 is a M3 screw with a .5 pitch. This
+cause the screw to cross thread as it is correctly installed via iOMS. The hole
+on the 0041 needs to match the screw being installed. The part received was
+REv02 but TC has an updated to Rev 03, both of these REVs call for the same M3
+.5 hole which does not comply with 3690-00908. This might be able to be reworked
+by MRB but a new part will be required to keep up production.
+
+According to Yatie, it'w reworkable.
+
+PO 4511738483 for RMA 11979"
+11980,"0010-86295, Rev 02",1,01/23/21,Applied Materials Inc.,AMAT,Customer Rework,open,,,,,,"01/22/21 Chin Stiltz: Issued the RMA to Ashlie.
+Cutomer apid rework.
+Returning P/N 0010-67797 to rework into 0010-86295."
+11981,"0041-77748, Rev 03",2,01/23/21,Applied Materials S.E.Asia Pte Ltd,Chawk,Functional,open,,,,,,"01/22/21 Chin Stiltz: Issued the RMA to Wendy Wong.
+QN#40488193 - Part failed during testing.
+1st upper membrane clamp -Test failed Z2 Pressure leak and Z7 Vacuum leak
+2nd upper membrane clamp- Test Failed Z2 and Z5 pressure and Vacuum leak
+S/N 3120-4495 , S/N  4420-4968"
+11982,"0041-77748, Rev 03",2,01/23/21,Applied Materials S.E.Asia Pte Ltd,Chawk,Functional,open,,,,,,"01/22/21 Chin Stiltz: Issued the RMA to Wend Wong.
+QN 40489073 - Description: Part failed in Testing. Part failed during testing - Pressure and Vacuum leak Z3
+S/N 4320-4919, S/N 4420-4984"
+11983,"0022-25690, Rev 05",1,01/29/21,Applied Materials Inc.,AMAT,Functional,open,,,,,,"01/28/21 Chin Stiltz: Rturned without RMA from us, issued the RMA to process thru
+QN40468147: Description: O-ring is dented. Custoer paid rework PO 4511483531
+
+According to production, failed leak test  and not able to rework.
+
+Requested Wan to contact the buyer to purchase new one, request for their shipping account# to ship it back.
+If they would like to scrap at our facility, please have them provide “DISCREPANT MATERIAL SCRAP AUTHORIZATION” to scrap here to save shipping cost."
+11984,"0010-68318, Rev 04",1,01/29/21,Applied Materials Inc.,AMAT,Customer Rework,open,,,,,,"01/28/21 Chin Stiltz: Returned back to us without RMA from us. Issued the RMA to process thru.
+
+QN 40467545: 2 fiber optic passthroughs are blacked out on device. FAiled test E265 Micro Zone ESC Verification/Verifying MZ controller state with ""Fiber OPtic Co"
+11985,"0042-30574, Rev 01",1,01/30/21,Applied Materials Inc.,Chawk,Dimensional,open,,,,,,"01/29/21 Chin Stiltz: Issued the RMA to Ashlie
+QN40471368: missing threading coil on spray bar"
+11986,0022-53759 Rev 2,4,02/02/21,AMATASIA,Chawk,Dimensional,closed,,,,,,02/01/21 Chin Stiltz: Issued the RMA to Wendy Wong.QN 40491182Description: retainer wing nut unable to install retainer wing nut unable to install. suspected thread N.G 02/11/21 Chin Stiltz: Requested job from PC and Gabby to inspect. Not reworkable per production. Scrapped in house and closed the RMA.
+11987,"0041-79637, Rev 03",1,02/04/21,AMATGSS,Cusomer,Customer Rework,Open,,,,,,"02/03/21 Chin Stiltz: issued the RMA to Ashlie as customer paid rework.PO 4511738461. QN 40481443 - Opened bag and found Input Left Cover Broken on the weldment 
+QN 40481443 - Opened bag and found Input Left Cover Broken on the weldment. 03/08/21 Chin Stiltz: Requested job from PC to evaluate."
+11988,"0041-77748, Rev 03",1,02/09/21,AMATASIA,Chawk,Dimensional,Open,,,,,,"02/09/21 Chin Stiltz: Issued the RMA to Wendy Wong.
+QN 40489745, 
+Part test failed during test Pressure and Vacuum Leak Pressure leak- RR to Z4, Vacuum Leak - RR, Z2 and Z3
+ME Comment: SHT3 / B2 Spec @ .275 ( .274 - .276) ,actual is .2769 
+SN 4320
+Addressed with John P regarding issue.
+For this particular rejection per the attachments, part will be measured to verify the customer’s finding.According to the customer, SHT3 / B2 Spec @ .275 ( .274 - .276) ,actual is .2769.  SN 301514-4320-4933”.
+Re-inspected and measured at 278/.277 per Gabby. Checking with Kenny if reworkable or not.
+"
+11989,"0010-89069, Rev 05",1,02/09/21,AMATGSS,Customer,Customer Rework,Open,,,,,,"02/08/21 Chin Stiltz: issued the RMA per request from Justin.
+
+The RMA 11989 to return P/N 0010-86803 to rework/modify to  0010-89069 on PO 4511860851.
+02/11/21 Chin Stiltz: Arrived, requested input from Justin to request for Job/sales order."
+11990,"0042-30574, Rev 01",0,02/12/21,AMATGSS,Customer,Customer Rework,Open,,,,,,"02/11/21 Chin Stiltz: Issued the RMA to Ashlei as customer paid rework.
+QN40482327: Heli-coil was damaged while installing spring tension assembly on slurry arm.
+Need replacement to continue with testing"
+11991,"0270-11799, Rev 04",1,02/13/21,AMATGSS,Chawk,WORKMANSHIP,Open,,,,,,"02/12/21 Chin Stiltz: Issued the RMA to Arcelia - authorized by John P.
+QN30155095: Broken Pin
+PPI Inspection: Broken alightment pin(item 5), Part do not meet packaging spec to protect
+SN 4720."
+11992,"2149-2004, Rev 2",20,02/24/21,WATLOW,Chawk,Dimensional,Open,,,,,,"02/23/21 Chin Stiltz: issued the RMA .
+QA has released to cleaning and need to be complete prior to shipment, however, not completed and shipped for some reason - missing pins.
+pulled 15 pcs from stock and missing pin also....Job 466759"
+11993,"0010-68059, Rev 03",1,02/24/21,AMATGSS,Customer,Customer Rework,Open,,,,,,"02/23/21 Chin Stiltz: Issued the RMA to Ashle addresed with others here.
+This DMR is originally for Ichor and according to David, quoting these reworks is okay with Chase.
+
+QN 40483999 - The modb4 BBX was received missing inserts for the lower spray bar on B side(QN
+40481108). The vendor sent x4 inserts p/n 3410-00417 and the inserts were
+installed per manufactures specs but they did not fully seat and are protruding
+about 1mm from the wall of the BBX. Seems the holes for the inserts was not
+drilled to spec and thus the inserts protrude out. Cannot rework BBX and need
+replacement. Serial Numbers - 1 113419-3620-C03401"
+11994,"2149-1898, Rev 2",10,02/25/21,WATLOW,Chawk,Dimensional,Open,,,,,,"02/24/21 Chin Stiltz: issued the RMA to Jalissa.
+the parts do not meet the print spec."
+11995,"148470, Rev A",55,02/25/21,HARTWELL,Customer,OTHER,Open,,,,,,"02/24/21 Chin Stiltz: Issue the RMA to Dan - authorized by Estuardo.
+However, we are not accounting agianst our QPPM .5% FREE FERRITE CONTENT requirement not on the print nor on quote request but on 
+3/9/21, John: There is no information of more than .5% free ferrite in print. Part is made per print. In addition, there is no redlined print provided by customer either. This cannot be Chawk's fault for this case."
+11996,713-330153-003 Rev C,11,03/04/21,LAM Research Corporation,Lam Research Corporation,OTHER SEE RMA DESCRIPTION,Open,,,,,,"03/03/21 Chin Stiltz: Issued the RMA to Jennifer.
+Ensure to measure 100% dimensions in red blocks in print. Record these inspection data per customer’s request. 
+Per customer's request, parts are returned to measure all critical dimensions for qualification approval process."
+11997,"570049801, Rev A-",10,03/04/21,Schleifring North America,Chawk,Dimensional,Closed,,,,,,"03/3/21 Chin Stiltz: Issued the RMA to Alvaro GAlindo.
+Request: 
+Non-Conformance Description:
+After we completed 100% sort of the failing dimension on this lot, CTQ dimension # B2 which is (2x) ID ø 40.512 H7 -0/ + 0.025 (MIN 40.512 and MAX 40.537mm).04/5/21 Chin Stiltz: Parts do not meet the print spec according to QA and not reworkable.
+Scrapped the parts and replacement job is opened, MT-468383 for 10 pcs.
+Closed the RMA.
+
+"
+11998,"0021-26748, Rev 04",2,03/05/21,Applied Materials Inc.,Chawk,Dimensional,,,,,,,"03/04/21 Chin Stiltz: Issued the RMA to Levi.
+DMR 4971013: The 3.16 length measures 1.586. The bottom of the part should be flat, 45° angle cut on inside edge.
+03/25/21 Chin Stiltz: Request PC to generate the job to inspect.03/29/21 Chin Stiltz: According to QA, not reworkable. pending input from others to scrap."
+11999,"853-A08141-001,Rev B",3,03/06/21,Lam Research Corporation,Customer,Customer Rework,Open,,,,,,"03/06/21 Chin Stiltz: Issued the RMA to Saeed to rework/modify to rev B as customer  paid rework.PO 4100355512, PO 4100355656, PO 4100355657. NCI 894179, NCI 894187, NCI 894182 - customer paid modification, up rev to B.
+The old Rev has too short of mounting holes in the front of the chamber causing the valve that mounts there to not seat properly.03/29/21 Chin Stiltz: Kenny is working with Lam.04/12/21 Chin Stiltz: Job is released now. informed others to process thru on Job RMA11999."
+12000,"0041-36136, Rev 04",1,03/09/21,Applied Materials Inc.,Customer,Customer Rework,Open,,,,,,"03/08/21 Chin Stiltz: Reworkable accoridng to Louie.
+Issued the RMA to Ashlie as cusotmer paid rework PO  4511925223.
+QN40490288 - Part found in the cleanroom broken.04/01/21 Chin Stiltz: Forwarded a quote 126518 to Ashalie for approval.04/5/21 Chin Stiltz: Released the job to Louie for rework."
+12001,"0010-67498, Rev 03",1,03/10/21,Applied Materials Inc.,Customer,Customer Rework,Open,,,,,,"03/09/21 Chin Stiltz: issued the RMA to Nandini. Returning for FA only.
+shipment is from 2018Requested for a PO.
+03/16/21 Chin Stiltz: received unit, damaged during transit according to Johnny.
+Requested for Job to process thru.03/18/21Chin Stiltz: John P is going to adress with Linda.
+This is second Meg tank that Linda wants Chawk to perform leak test similar to the one you are working on right now. We are going to talk to her during the meeting for instructions. 04/12/21 Chin Stiltz: Requested John for the status."
+12002,"0010-62905, Rev 02",1,03/10/21,Applied Materials Inc.,Customer,Customer Rework,Open,,,,,,"03/09/21 Chin Stiltz: issued the RMA to Dharanendhiran as cusotmer paid rework on PO 4511937410
+QN 202216905 - surface leak"
+12003,"0010-62905, Rev 02",1,03/16/21,Applied Materials Inc.,Customer,Customer Rework,Open,,,,,,"03/15/21 Chin Stiltz: Issued the RMA to Dharanendhiran as customer paid rework on PO 4511999820 
+Accordning to the customer,QN 202230689 - Could not reach/Hold set point
+03/25/21 Chin Stiltz: request for job from PC.03/31/21 Chin Stiltz: Pending quote126504  approval from Dharanendhiran"
+12004,"0270-11799, Rev 04",1,03/18/21,Applied Materials Inc.,Chawk,Packaging,Open,,,,,,"03/17/21 Chin Stiltz: Issued the RMA to Elizabeth.
+QN 30157685 - Arrived Damaged."
+12005,"1020597, Rev 03",10,03/25/21,Mission Tool & Mfg. Co.,,Dimensional,Open,,,,,,"03/24/21 Chin Stiltz: issued the RMA to Regina.
+According to the cusotmer, S1B4) Should be 10.00 +/-.01, is 10.17-10.19.04/12/21 Chin Stiltz: Not received yet and notified to check with customer."
+12006,"0010-62905, Rev 02",1,03/25/21,Applied Materials Inc.,Customer,Customer Rework,Open,,,,,,"03/24/21 Chin Stiltz: Issued the RMA to Dharanendhiran.
+QN 202245517 - Leak from idler.04/9/21 Chin Stiltz: Requested PC to generate the Job and Gabby to inspect."
+12007,"713-321989-001,Rev C",1,03/27/21,Lam Research Corporation,Customer,Customer Rework,Open,,,,,,"03/29/21 Chin Stiltz: Custtomer paid rework.
+NCR926380 - PN# 713-321989-001 was scratched.When sidecar was opened PN# 713-321989-001 hit on PN# 714-332703-017  causing it to scrat"
+12008,"713-A10001-001,Rev B",1,03/30/21,Lam Research Corporation,Chawk,Workmanship,Open,,,,,,"03/29/21 Chin Stiltz: 
+NCR930342: Silk screen missing  a letter. The ""D"" in PED 1 is missing"
+12009,"713-084678-002,Rev B",1,03/30/21,Lam Research Corporation,Lam Research Corporation,Customer Rework,Open,,,,,,"03/329/21 Chin Stiltz: Customer parid rwork.
+NCR938904: Loose / Broken piece on part"
+12010,"0041-35648, Rev 03",1,04/01/21,Applied Materials Inc.,Chawk,Dimensional,Open,,,,,,"3/31/21 Chin Stiltz: Issued the RMA to Jonas - authorized by John P.
+QN40503033 - Received an input shuttle that had the O-ring groove too big. The O-ring was not able to sit flush and tight like it is supposed to be. The bad input groove size was +2.29mm-3MM.
+measurement should be 2.10 +0.12. Reference page 7 of drawing detail R.
+Serial Numbers 301514-5020
+
+04/27/21 Chin Stiltz: Requested Job from PC and Gabby to inspect.
+4/30/21 Chin Stiltz: Pending rework sequences from Justin for rework"
+12011,"0042-36231, Rev 02",3,04/07/21,Applied Materials Inc.,Customer,Dimensional,Open,,,,,,04/06/21 Chin Stiltz: issue the RMA to Jonas.QN 40518270- The (3X) 0042-36231 were not made correctly. The tapped threads in the aluminum plate were tapped too short for the length of the helicoil. This causes the end of the helicoil to have a smaller minor diameter and prevents the leveling foot from installing fully into the plate. Job MT-RMA 12011 is reeased for rework.
+12012,"CSN-0149-01, Rev D",5,04/09/21,ESS Tech Inc,Chawk,Dimensional,Closed,,,,,,"04/08/21 Chin Stiltz: Received without RMA from us. Issued the RMA for the traceability and process thru....Flatness issue.
+According to Jen Kendall on 3/25/21.
+CSN-0149-01 are at max tolerance for Flatness. Since these have a high potential for failure, please continue working to reduce the amount of warp.04/09/21 Chin Stiltz: Job RMA12012 is relesed . Per QA, 1pc returned for lip height u/s- this was confirmed and not reworkable. 
+4pcs returned for flatness o/s. - confirmed, rework was attempted but unsuccessful. 5pc scraped and closed the RMA."
+12013,"0270-40092, Rev 02",1,04/10/21,Applied Materials Inc.,Customer,Customer Rework,Open,,,,,,"04/9/21 Chin Stiltz: Issued the RMA to Yeonhee as cutomer paid rework.
+QN 40516004 - PART 0270-40092 FOUND BROKEN DURING DETRASH, TWO PARTS CAME IN TAPPED TOGETHER AND THE BOTTOM ONE WAS BROKEN
+04/29/21 Chin Stiltz: received the part and request for job to inspect. Job RMA12013 is released to QA to inspect."
+12014,"0041-83308, Rev 06",1,04/22/21,Applied Materials S.E. Asia Pte. Ltd.,Customer,Workmanship,Open,,,,,,"04/22/21 Chin Stiltz: Issued the RMA to Jonas, it's reworkable per Louie QN 40498783 - Part received with dented according to Sam, Reversal  was submitted on 2/19/21 and rejected on 3/4/21."
+12015,"853-A02442-022,Rev B",1,04/27/21,Lam Research Corporation,Customer,Customer Rework,Open,,,,,,"04/26/21 Chin Stiltz: Issued the RMA to Ramya as cutomer paid reowrk.
+NCR890330 - Duet 2L window Micro cracks. Pre lead Pre-PSA inspection, it was discovered there was a micro cracks in Duet 2L window (P/N: 839-A02264-007). This part was not
+available in stock and tech will order next upper level (P/N: 853-A02442-022). This was caused in assembly
+
+RMA 12015, NCR890330, P/N 853-A02442-022,Rev B, 1 PC to return for customer paid rework.
+Sub-Contract PO 4100363004
+Delivery for subcon. 804254510
+TO Created 0010909042"
+12016,"839-346712-003,Rev A",1,04/27/21,Lam Research Corporation,Customer,Customer Rework,Open,,,,,,"04/26/21 Chin Stiltz: Issued a RMA to Ramya as customer paid rework.
+QN 939249 - Viewport does not meet cosmetic acceptance criteria. After de trashing part, technician noticed that viewport does not meet cosmetic acceptance criteria due to the glass being cloudy and unable to clearly see through it. Reference pictures- viewport on left is acceptable and viewport on right is not.
+RMA12016, NCR939249, P/N 839-346712-003,Rev A, 1 PC to return for customer paid rework.
+Sub-Contract PO 4100363005
+Delivery for subcon. 804254511
+TO Created 0010909554"
+12017,"713-A10001-001,Rev B",1,04/27/21,Lam Research Corporation,Customer,Customer Rework,Open,,,,,,"04/26/21 Chin Stiltz: Issued a RMA to Ramya for custoemr paid rework.
+
+NCR1026952 - H2O manifold female fitting holes stripped.
+
+Sub-Contract PO 4100363007
+Delivery for subcon. 804254546
+TO Created 0010909556"
+12018,"0042-23590, Rev 03",1,04/28/21,Applied Materials Inc.,Chawk,Dimensional,Open,,,,,,"04/27/21 Chin Stiltz: Issue the RMA to Jonas.
+QN 40518180 - Arm manifold shaped incorrectly. Arm manifold  has extra material on it that blocks the adaptor assembly from being screwed in (this step is on Build page 23; Assy# 0010-89115, OMS 0251-500"
+12019,"0045-00689, Rev 03",2,04/29/21,"Applied Materials, Inc.",Customer,Functional,Open,,,,,,"04/2821 Chin Stiltz: Issued the RMA to Wendy Wong to return to SGP site for evaluation. QN 40520212 - One of the Shield piece has serious wrappage as per attached.RTV for further FA.
+Supplier REsp. SN# is 666.
+QN 40519179 - One of the shield piece has serious warpage/deformation on the end.
+RTV for the FA. Supplier.
+Please provide outgoing photos to prove this part is good to ship in the future.
+If possible, please provide the info of
+1)How this part is formed or machined ?"
+12020,"0022-82079, Rev 01",1,04/29/21,Applied Materials Inc.,Chawk,Workmanship,Open,,,,,,"04/28/21 Chin Stiltz: Issued the RMA to Jonas
+QN 40510985 -Part crack. The shipment was from 12/28/2020, almost 4 month ago. Sam has submitted DMR reversal but rejected"
+12021,"0045-00689, Rev 03",1,04/29/21,"Applied Materials, Inc.",Customer,Functional,Open,,,,,,"04/2821 Chin Stiltz: Issued the RMA to Wendy Wong to return to SGP site for evaluation.
+QN 40521370 - When move Carriage found OUTER SHIELD too low and hit the carriage"
+12022,0022-60156,1,05/06/21,Amat,Chawk,Workmanship,Open,,,,,,"05/06/21 Chin Stiltz: Issued the RMA to Wendy Wong. According to Attached  QN  40530487,  During Foup assy preparation, found stain mark on COMB carrier plate . we try to remove the stain with IPA . but unable to clear .
+QN is specified with rev 03, however, there is no rev 03 shipment from us yet. 05/27/21 Chin Stiltz: Requested job to evaluate."
+12023,857-A11524-003,1,05/06/21,LAMRC,Customer,Customer  rework,Open,,,,,,"05/06/21 Chin Stiltz:Issued the RMA to Ramya as customer paid rework. NCR1047186 - The outside diameter of the inner step of the bushing is too big Detail:
+The outside diameter of the inner step of the bushing is too big. The print calls out 22.86mm +0/-.03mm
+The bushing measurements are as follows:
+713-A23519-001 (22.87mm) oversized by .01mm
+713-A23519-002 (22.86mm)
+713-A23519-003 (22.89mm) oversized by .03mm
+713-A23519-004 (22.88mm) oversized by .02mm
+713-A23519-005 (22.87mm) oversized by .01mm 05/28/21 Chin Stiltz: Pending response from Erik if reworkable or not."
+12024,839-341021-001,1,05/12/21,LAMRC,Customer,Customer  rework,Open,,,,,,"05/12/21 Chin Stiltz: Issued RMA to Ramya as customer paid rework.NCR 947206 - 839-341021-001 edge of weldment is broken. 05/24/21 Chin Stiltz: Received the part and request for Job from PC to evaluate.
+pending evaluation."
+12025,0045-00686,1,05/18/21,Amat,Chawk,Workmanship,Closed,,,,,,"05/18/21 Chin Stiltz: Issued the RMA to Wendy Wong.QN 40533071-Inner Shield hitting Carriage. While checking the Lowest Carriage height, team realized that Carriage is hitting inner shield. This cause dent to inner shield.
+per input from John P, will be returning back to SGP site for evaluation to save shipping cost.05/25/21 Chin Stiltz: According tto Wilber Wong at SGP site,❶ RMA 12025-1pcs, 301514-4820-633 ( 1,2,3 and 4 )❷ Part with 5.30mm gap.
+John P has autorized to scrap so closed RMA."
+12026,0010-62905,1,05/17/21,Amat,Customer,Customer  rework,Open,,,,,,05/17/21 Chin Stiltz: Issued a RMA to Sreeparna as customer paid rework on PO 4512341564. QN 202216905 - BR2 wafer rotation speed feedback abnormal. 05/27/21 Chin Stiltz: Request to PC to generate the job to process thru.
+12027,0721419-000,1,05/25/21,KLA,Chawk,OTHER SEE RMA DESCRIPTION,Open,,,,,,"05/25/21 Chin Stiltz: issued the RMA. NC W000691558-1 - As per NC comments for PN# 0721419-000 – “Failed Air Pressure Test. Air prressure is initially 100 PSI, after an hour the air pressure drops to 95 PSI. The problem is isolated to one of the water cooling manifold that is labeled on the kit as ""BAD"".05/28/21 Chin Stiltz: Received, job RMA 12027 is generated and requested QA to inspect."
+12028,15-431463-00,1,05/24/21,LAMRC,Chawk,WORKMANSHIP,Open,,,,,,05/24/21 Chin Stiltz: Issued the RMA to Ramya. Will be returning back to us one sub part.Will be returning back to us one sub part.
+12029,713-A45476-001,3,06/01/21,Lam,Chawk,Functional,Open,,,,,,"06/01/21: Customer reported that parts were leaked. Parts would be returned for failure analysis. After the investigation is done, will determine if it is Chawk's fault for this case.6/17/21 Chin: Provide the COD form to Robert Cox and pending respnse. Jalissa is workin on also.
+7/6/21: There is a 8D assigned to Chawk regarding this issue. Per the discussion with Lam, there is no confirmation if it is Chawk's fault for this case because Lam does not know why parts were leaked. The issue could be from customer's fittings. Chawk is asking the customer to remove this 8D in the meantime until the issue is confirmed."
+12030,0010-81717,1,06/02/21,AMAT,Customer,Customer Rework,Open,,,,,,06/02/21: Customer rework at customer cost. QN-40522567.06/24/21 Chin Stiltz: Requested a quote from Justin.
+12031,0010-84707,1,06/02/21,AMAT,Customer,Customer Rework,Open,,,,,,06/02/21: Customer rework at customer cost. QN-40530756; SN-0621-301514-0905. 06/24/21 Chin- pending evaluation from Assy.
+12032,0015-11344,1,06/02/21,AMAT,Customer,Customer Rework,Open,,,,,,06/02/21: Customer rework at customer cost. QN-40540275
+12033,0015-431463-00,1,06/03/21,Lam,Customer,Customer Rework,Open,,,,,,06/03/21: Customer rework at customer cost. NCR-1232037
+12034,0010-86295,1,06/10/21,AMAT,Customer,Customer Rework,Open,,,,,,"06/10/21 Chin Stiltz: Issued the RMA to Britton as customer paid rework.06/10/21 Chin Stiltz: Issued the RMA to Britton as customer paid rework.Informed the customer that if anything fails after rework and it is not a part we changed out, we are not responsible since it’s DMR is for other supplier and no warranty on the unit. PO 4512478301. 06/21/21 Chin Stiltz: Received unit and request for RMA job from PC"
+12035,0045-00686,1,06/11/21,AMAT,Chawk,Packaging,Closed,,,,,,"06/11/21 Chin Stiltz: Issued the RMA to Wendy Wong for evaluation.QN#40545073 - inner shield warp, hitting the metal track shield.06/23/21 Chin Stiltz: According to Wilber Wong (SGP QA Coordinator), evaluated, not able to rework and scrapped.
+Therefore, closed the RMA."
+12036,0721419-000,1,06/21/21,KLA,Customer,Cutomer Rework,Open,,,,,,06/21/21 Chin Stiltz: Issued a RMA to Karthik and request for cusotmer paid PO.NCW000694706 - RTV to remove broken screw. Fault: KLA-TENCOR. 6/30/21 Chin Stiltz: Received and request for RMA job to evaluate.
+12037,713-320517-035,10,06/22/21,Lam,Chawk,OTHER SEE RMA DESCRIPTION,Open,,,,,,"06/21/21 Chin Stiltz: Issued the RMA to Marla Hackett. According to the customer, received 40 pcs instead of 30, requested to cancel the line on 5/24/21 and confirmed by Jalissa."
+12038,0022-39824,1,06/30/21,AMAT,Customer,Customer Rework,Open,,,,,,"06/30/21 Chin Stiltz: Issued the RMA to Sara as customer paid rework.QN 40551721 - After removal of plastic bag & removal of tape, noticed scratch across the surface of the splash guard."

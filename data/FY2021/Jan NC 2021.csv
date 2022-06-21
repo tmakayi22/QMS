@@ -1,0 +1,55 @@
+﻿Issued Date,NCR #,Job Number,Part Number,Rev,NCR Qty,JOB QTY,Description of Defect,Defect Type,Dept/Vendor at Fault,Disposition,Action Owner,"Disposition
+ Date",Days to Close," Cost 
+(if any) "
+1/2/2021,5113,462055,713-031576-803,A,1,2,Sheet 2; D8 measure 9x .25 +/- .02 actual  .133,Dimension,Programming ,Scrapped,Erik/Kenny,1/4/2021,2,$340.96 
+1/4/2021,5114,p463708,0022-26167,2,3,3,"Parts rejected due to not meeting print
+please see sheet 1 zone D2, feature .006±.001 is missing",Workmanship,CNC,Scrapped,Erk/Olga,1/4/2021,0,$810 
+1/4/2021,5115,P462304,0022-77996,1,4,32,"Deep tool impressions on material. 
+Pls see photos for details",Cosmetics,QA,As-is,David Q./Justin,1/4/2021,0,0
+1/5/2021,5116,RPM463972,713-A42751-001,A,14,15,"Parts do not meet print 
+please see sheet 1 zone B8 125.0 ±0.5  actual is between 123.74/126.08 and zone C8 73.0±0.5 actual is between 74.02/74.54
+",Dimension,Nominal Machining LLC,Scrapped,Marcelino,1/5/2021,0,$0 
+1/5/2021,5117,ASM459494,0021-82726,2,7,100,"PARTS REJECTED FOR MATERIAL CONTAMINATION
+PICTURES ON FILE",Cosmetic,"DONG QUANG Mechanical Electrical Co., LTD",scrapped,Marco,1/5/2021,0,0
+1/6/2021,5118,P461818,0042-35340,3,3,4,Parts are broken/damged. ,Cosmetic,Applied Material,Scrapped,Marco,1/6/2021,0,0
+1/6/2021,5119,462952,713-340040-001,C,4,4,Parts missing engraving on 1 side (note 3),Workmanship,CNC,Rework,Erik,1/6/2021,0,0
+1/8/2021,5120,RPM463078,713-148897-031,A,6,6,Missing engraving,Workmanship,A&TPMI,Rework In-house,Marco/Erik,1/8/2021,0,0
+1/9/2021,5121,RPM463874,713-A48386-001,A,1,1,"Flatness is oot .100""",Dimensional,A&TPMI,Scrapped/RTV,Marco,1/9/2021,0,0
+1/9/2021,5122,464017,0042-37007,1,1,3,6.100+.020/-.000 IS 6.199 AND 5.813+.020/-.000 IS 5.904,Dimension,Inspection/Assy,As-is,David Q./Justin,1/12/2021,3,0
+1/10/2021,5123,461234,0022-29317,8,6,6,Parts failing dimensional inspection. Chamfers angle and dim. Are out of tolerance. ,Dimension,CNC,As-is,Erik,1/12/2021,2,0
+1/13/2021,5124,464234,0021-10368,P1,1,1,45 CHAMFER ON HE ID IS A LITTLE BURNED.,Cosmetic,CNC,Rework,Marcelino,1/13/2021,0,0
+1/15/2021,5125,462714,839-A08080-001,A,5,5,"PARTS FAILING  DIM. INSPECTION.
+PER PRINT DIAM 5.850 +/-.01  ACTUAL READING IS 5.871 TO 5.874.",Dimension,CNC,As-is,Erik,1/18/2021,3,0
+1/15/2021,5126,P460768,0040-45593,11,2,2,Dimension out see CMM report hole location out of print,Dimension,Chawk Malaysia,Scrapped,Chawk Malaysia,1/18/2021,3,"2,493.18"
+1/16/2021,5127,463738,713-088691-021,A,3,3, ,Dimension,CNC,Rework,Estuardo/Erik,1/18/2021,2,0
+1/16/2021,5128,461171,0022-55281,3,3,3,"SEVERAL DIMENSIONS OUT OF TOL.    13.350 +0/-.002   ACTUAL READINGS ARE 13.369
+14.220 +0/-.005  ACTUAL  14.222
+14.14 +.01/-0      ACTUAL IS 14.15
+R32.50 +/-.02      ACTUAL  IS 32.55",Dimension,QA,Rework ,Erik,1/18/2021,2,0
+1/16/2021,5129,CP460248,0040-83605,7,10,10,Thread holes on item 1 per print supposed to be 1/8 NPT. Thread gage 1/8 NPT does not go. 1/8 28 BSPT goes item 3 dist .230 +/- .015 2 pcs found measuring .255,Dimension,CNC,Rework,Erik,1/18/2021,2,0
+1/19/2021,5130,MT-RTM464075,0042-38506,1,1,1,"Parts is oversized after paint on several dims. 
+Pls see report on file for details.",Dimension,Nominal Machining LLC,RTV,Marco,1/19/2021,0,0
+1/19/2021,5131,462995,713-A09402-001,B,1,1,Drawing Note #4 part mark should be engraved spec 74-024094-00 method 3 style 3 omitted. ,Workmanship,IFQ Precision,RTV,Marco/Kenny,1/20/2021,1,0
+1/19/2021,5132,mt-asm464432,0042-35562,1,1,5,missing M3 tapping,Workmanship,Hill Mfg,RTV,Marco,1/20/2021,1,0
+1/20/2021,5133,RPM464932,713-801249-124,A,5,12,Scuffing and staining not reworkable. ,Workmanship,Nominal Machining LLC,Scrapped,Marco,1/22/2021,2,0
+1/20/2021,5134,462496,0021-19849,3,1,1,.750±.005 is .705 .750±.005 .7770and .500±.005 is.49,Dimensional,IFQ Precision,RTV,Marco,1/20/2021,0,0
+1/20/2021,5135,MT-ASM464425,0042-35143,1,1,10,1 Pem nut self clinching came off,Workmanship,Hill Mfg,RTV,Marco,1/202021,#VALUE!,0
+1/20/2021,5136,462327,0030-01085,2,1,10,Silkscreen is not uniform. Pls see phots or reference,Workmanship,Scientific Metal,RTV,Marco,1/20/2021,0,0
+1/22/2021,5137,RPM464196,713-801125-016,A,5,10,ENGRAVING WRONG SIDE AND OPPSIDE DOWN,Workmanship,A&TPMI,RTV,Marco,1/22/2021,0,0
+1/25/2021,5138,P464448,0022-83480,1,8,8,"Insufficient deburring/cutting. 
+center hole is not completely thru. 
+Thru hole looks like countersink. 
+Pls reference photos for details.",Workmanship,"Fabri-Tech Components, Inc",RTV,Marco,1/25/2021,0,0
+1/25/2021,5139,P464447,0022-83479,1,8,1,"Insufficient deburring/cutting. 
+center hole is not completely thru. 
+Thru hole looks like countersink. 
+Pls reference photos for details.",Workmanship,"Fabri-Tech Components, Inc",RTV,Marco,1/25/2021,0,0
+1/26/2021,5140,464165,0022-27727,2,6,6,"Parts failing dimensional inspection. Per print Diam. 4.5 + .3 / -0 actual dim. Is 4.44 to 4.45 depth of CB should be 2.0 + 15/-0, actual dim is 1.97 to 1.98",Dimension,CNC,REWORK,Erik,1/27/2021,1,0
+1/28/2021,5141,asm462984,0010-84316,3,1,60,"1pc fail leak test. 
+pls see phots for details.",Functional,Chawk Malaysia,Rework,Louie,1/29/2021,1,0
+1/28/2021,5142,P462763,570049816,A,69,69,1.09 +/-.03 holes should be thru.Actual dimension is 1.04 to 1.05,Dimension,Vanderveer Industrial Plastics,RTV,Marco,1/29/2021,1,0
+1/28/2021,5143,RPM464196,713-801125-016,A,5,51,"Per print note #6 Lay pattern side of part shall be convex. 
+2 parts were concave. 
+5 parts per note#7 ""code05PP"" missing half of the letter PP. Not acceptable",Workmanship,"A & T Precision Machining, Inc.",RTV,Marco,1/29/2021,1,0
+1/29/2021,5144,462720,0022-37754,2,7,10,Holes .144 +/- .005 actual dim. Is only .138 (tight). Parts are bow not flat,Dimension,IFQ Precision,RTV,Marco,1/29/2021,0,0
+,,,,,194,455,,,,,,,,

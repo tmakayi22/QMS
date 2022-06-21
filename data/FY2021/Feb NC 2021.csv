@@ -1,0 +1,66 @@
+﻿Issued Date,NCR #,Job Number,Part Number,Rev,NCR Qty,,Description of Defect,Defect Type,Dept/Vendor at Fault,Disposition,Action Owner,"Disposition
+ Date",Days to Close," Cost 
+(if any) ",,,,,,,,,,,
+2/1/2021,5145,MT-ASM464427,0042-35747,1,1,5,Damaged part during pin assembly,Workmanship,Assembly,Scrapped,Sanjay,2/1/2021,0,$0.00 ,,,,,计数项:Dept/Vendor at Fault,,,,,,
+2/2/2021,  ,RMA11962,0051-21901,5,1,1,Missing M6 thread on item 1,Workmanship,"Crist Group, Inc",Rework-inhouse,Erik/Marco,2/2/2021,0,,,,,,Dept/Vendor at Fault,汇总,,,,,
+2/2/2021,5146,MT-P463180,0021-08627,1,5,5,.250-20 UNC-2A wont go on the ring gage.,Workmanship,Marx Digital Manufacturing ,RTV,Marco,2/2/2021,0,,,,,,"A & T Precision Machining, Inc.",2,,,,,
+2/2/2021,5147,P461133,813-A39887-001,B,50,50,6-32 thread won't go,Workmanship,Stratasys ,Rework-inhouse,Marco/Marcelino,2/3/2021,1,,,,,,Assembly,3,,,,,
+2/2/2021,5148,P464503,0042-35578,2,2,2,"Dimension 3X 146 + .12/-0.00 is 145.98, and 145.98",Dimensional,"A & T Precision Machining, Inc.",RTV,Marco,2/3/2021,1,,,,,,Chawk ,1,,,,,
+2/3/2021,5149,462376,0022-27621,2,2,2,Per print dim 226.5 +/- .25 actual dim is 225.96,Dimensional,CNC,Scrapped,Erik,2/3/2021,0,"$1,876.00 ",,,,,CNC,9,,,,,
+2/3/2021,5150,462277,0022-27616,2,7,7,"Parts rejected due to not meeting print
+Please see sheet 1 zone;D11,C11,C6,E2
+1.Ø28-.065/-.086 Actual is Ø27.97-Ø28.01, 2. Run out of .013 actual is .095, 3.Ø19-.007/-.020
+Actual is Ø19.01, 4. 216±.25 Actual is 215.35-215.59, 5. Run out of .02 Actual is .466",Dimensional,Lathe,rework,David Q./Estuardo,2/4/2021,1,,,,,,"Crist Group, Inc",3,,,,,
+2/4/2021,5151,P463748,2149-2004,2,23,24,"Parts rejected due to not meeting print
+please see sheet 1 zone C1 and zone B2; Ø2.2 and Ø1.590 are not in correct location",Dimensional,CNC,Scrapped,Erik/Kenny,2/4/2021,0,"$2,599.00 ",,,,,Engineer,1,,,,,
+2/5/2021,5152,ASM461521,0041-12759,3,100,100,MARKING VENDOR CODE S/B 301514 IS 301513,Workmanship,PTEC,RTV,Marco,2/5/2021,0,,,,,,"Fabri-Tech Components, Inc",1,,,,,
+2/5/2021,5153,P461400,0051-44306,3,4,4,Parts no weld per print.,Workmanship,"Crist Group, Inc",rework,Marco,2/5/2021,0,,,,,,Hill MFG,1,,,,,
+2/6/2021,5154,ASM462101,0055-01801,2,2,4,WRONG LABEL INSTALL,Workmanship,"Crist Group, Inc",Rework-inhouse,Marco/Jose C,2/8/2021,2,,,,,,Lathe,3,,,,,
+2/6/2021,5155,P463951,0022-82828,1,2,2,"Parts rejected due to not meeting print. Sheet 2 zone C1, missing feature 3X Ø.039",Dimensional,CNC,Rework ,Erik/Kenny,2/8/2021,2,,,,,,MARX DIGITAL MANUFACTURING,1,,,,,
+2/6/2021,5156,SCI458858,0041-25201,4,1,67,"Parts rejected due to not meeting print
+Per note 9. Finish should be Everslik 1201 Dark Gray. Part does not match Everslik 1201 Dark Gray Coupon",Dimensional,MARX DIGITAL MANUFACTURING,RTV,Marco,2/8/2021,2,,,,,,Marx Digital Manufacturing ,1,,,,,
+2/8/2021,5157,SCI462813,0041-37259,2,30,30,"Parts rejected due to not meeting print
+AMAT logo is missing in all 30pcs
+10pcs have nicks, pits, and gaps in the welding
+All parts need deburr in slots",Workmanship,Welding,Rework,Louie/Erik/Olga,2/8/2021,0,,,,,,PTEC,1,,,,,
+2/11/2021,5158,MT-462498,0022-75457,2,4,4,4 parts rejected due to some dimension is out of tolerance,Dimensional,Lathe,Scrapped,Eulalo,2/12/2021,1,"$4,916.00 ",,,,,RTV,1,,,,,
+2/11/2021,5159,465430,0022-64836,3,2,2,Big AMAT logo engraved but should be part number engraved per 0250-01033 method 2,Workmanship,CNC,Scrapped,Erik,2/12/2021,1,$524.00 ,,,,,Stratasys ,13,,,,,
+2/12/2021,5160,464194,0022-70970,2,15,15,"per print MTL should be Ultem-1010 not ABS red like stated in the quote
+NonConf:5160 PLAN XPLANNER ERROR",function,Stratasys ,RTV,Marco,2/16/2021,4,$0.00 ,,,,,Stratasys Direct Inc.,1,,,,,
+2/12/2021,5161,464185,0022-70974,2,5,5,"per print MTL should be Ultem-1010 not ABS red like stated in the quote
+NonConf:5161 PLAN XPLANNER ERROR",function,Stratasys ,RTV,Marco,2/16/2021,4,$0.00 ,,,,,Vanderveer Industrial Plastics,1,,,,,
+2/12/2021,5162,464183,0022-70974,2,3,3,per print MTL should be Ultem-1010 not ABS red like stated in the quote,function,Stratasys ,RTV,Marco,2/16/2021,4,$0.00 ,,,,,Welding,1,,,,,
+2/12/2021,5163,464186,0022-70975,2,3,3,per print MTL should be Ultem-1010 not ABS red like stated in the quote,function,Stratasys ,RTV,Marco,2/16/2021,4,$0.00 ,,,,,总计,44,,,,,
+2/12/2021,5164,464187,0022-70976,2,6,6,per print MTL should be Ultem-1010 not ABS red like stated in the quote,function,Stratasys ,RTV,Marco,2/16/2021,4,$0.00 ,,,,,,,,,,,
+2/12/2021,5165,464188,0022-70977,2,3,3,"per print MTL should be Ultem-1010 not ABS red like stated in the quote
+",function,Stratasys ,RTV,Marco,2/16/2021,4,$0.00 ,,,,,,,,,,,
+2/12/2021,5166,464189,0022-70978,2,3,3,"per print MTL should be Ultem-1010 not ABS red like stated in the quote
+",function,Stratasys ,RTV,Marco,2/16/2021,4,$0.00 ,,,,,,,,,,,
+2/12/2021,5167,464190,"0022-70979,",2,9,9,"per print MTL should be Ultem-1010 not ABS red like stated in the quote
+",function,Stratasys ,RTV,Marco,2/16/2021,4,$0.00 ,,,,,,,,,,,
+2/12/2021,5168,464184,0022-70973,2,5,5,per print MTL should be Ultem-1010 not ABS red like stated in the quote,function,Stratasys ,RTV,Marco,2/16/2021,4,$0.00 ,,,,,,,,,,,
+2/12/2021,5169,464192,0022-70981,2,6,6,per print MTL should be Ultem-1010 not ABS red like stated in the quote,function,Stratasys ,RTV,Marco,2/16/2021,4,$0.00 ,,,,,,,,,,,
+2/12/2021,5170,464191,0022-70980,2,3,3,per print MTL should be Ultem-1010 not ABS red like stated in the quote,function,Stratasys ,RTV,Marco,2/16/2021,4,$0.00 ,,,,,,,,,,,
+2/15/2021,5171,463702,"0270-00735,",8,1,1,WRONG MATERIAL ITEM 3,Workmanship,CNC,Rework ,erik,2/16/2021,1,$0.00 ,,,,,,,,,,,
+2/13/2021,5172,464410,"713-A20408-002,",A,1,1,"PART NOT ENGRAVED PER NOTE 4
+PART TO BE RTV",Workmanship,Stratasys ,RTV,Marco,2/16/2021,3,$0.00 ,,,,,,,,,,,
+2/13/2021,5173,p464466,0022-82321,1,1,1,"Part not meeting print specs.
+ several dim. out of tol.",Dimensional,"Fabri-Tech Components, Inc",Scrapped,Marco,2/16/2021,3,$259.00 ,,,,,,,,,,,
+2/15/2021,5174,cp461531,0021-04297,3,8,100,missing engraving per note 5,Workmanship,CNC,reworked,Erik,2/16/2021,1,$0.00 ,,,,,,,,,,,
+2/15/2021,5175,464106,022-75458,2,2,2,PARTS REJECTED FOR DAMAGE AND OVERSIZE 1/8-27 NPT THREADED HOLE,Workmanship,CNC,Scrapped,Erik,2/16/2021,1,$740.00 ,,,,,,,,,,,
+2/17/2021,5176,RTM465630,0022-85208,1,4,4,2x 3.50 +/- .25 is 3.15  No chamfer on the drawing call out on the back side is .355,Dimensional,CNC,Rework,Erik,2/18/2021,1,$0.00 ,,,,,,,,,,,
+2/19/2021,5177,P464436,570049818,A,23,23,Per print hole dim. Should be 20.0 + . 021/ -.0 actual dim. Is 19.98-1999. See zone D4 on print hole diam 1.5 + .01/ - 0.0 actual dim is 1.49. ,Dimensional,Vanderveer Industrial Plastics,RTV,Marco/Olga,2/24/2021,5,$0.00 ,,,,,,,,,,,
+2/21/2021,5178,mt-asm464573,0042-35143,1,1,10,Missing hardware ,Workmanship,Hill MFG,RTV,Marco,2/23/2021,2,$0.00 ,,,,,,,,,,,
+2/22/2021,5179,466526,0022-29226,2,1,7,"7pcs pull from stock to verify custmer rejection, 1pcs OOT NCR on file, 
+sps needed for dim 6x .270 sheet 1 zone b5 should be 5X 
+6pcs to cleaning",Dimensional,CNC,scrapped,`Erik,2/22/2021,0,$167.22 ,,,,,,,,,,,
+2/23/2021,5180,461130,0022-70975,2,1,1,"RECEIVED WRONG P/N 0022-70970 SHOULD BE PN 0022-70975, Rev 02",Workmanship,Stratasys ,RTV,Marco,2/23/2021,0,$0.00 ,,,,,,,,,,,
+2/23/2021,P460164,P460164,0051-91132,2,1,1,F29 rejected. Order is voided,Workmanship,customer,Return to stock,Justin/Shalvin,2/23/2021,0,$0.00 ,,,,,,,,,,,
+2/24/2021,5181,464054,0022-75515,1,1,2,Parts rejected due to 1/8-27 NPT goes all the way. ,Workmanship,Lathe,Rework,Lalo,2/24/2021,0,$0.00 ,,,,,,,,,,,
+2/25/2021,5182,462567,CSN-0148-01,D,1,5,Part of the femaile groove cut off ,function,CNC,Rework,Erik,2/26/2021,1,$0.00 ,,,,,,,,,,,
+2/25/2021,5183,MT-465649,0042-37075,1,10,10,ITEM#2 REJECTED THREAD LENGTH S/B .200 IS .190,Dimensional,D-TEK MANUFACTURING,RTV,Marco,2/26/2021,1,$0.00 ,,,,,,,,,,,
+2/26/2021,5184,asm459083,0010-84316,3,1,30,Top flange of the part has a material discoloration and dirt which cannot be removed by sanding or chemical cleaning we used.,Workmanship,Assembly,Rework,Louei,2/26/2021,0,$0.00 ,,,,,,,,,,,
+2/26/2021,5185,ASM461428,0010-84316,3,1,20,Top flange of the part has a material discoloration and dirt which cannot be removed by sanding or chemical cleaning we used.,Workmanship,Assembly,Rework,Louei,2/26/2021,0,$0.00 ,,,,,,,,,,,
+2/28/2021,5186,rtm465878,0042-35555,1,2,2,"Inside diameter is damaged due to metal inserts that are bulging after installation.
+",Workmanship,"A & T Precision Machining, Inc.",RTV,Marco,3/1/2021,1,$0.00 ,,,,,,,,,,,
+,,,,,357,590,,,,,,,1.704545455,,,,,,,,,,,,

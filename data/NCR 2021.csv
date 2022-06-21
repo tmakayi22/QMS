@@ -1,0 +1,676 @@
+,Date,NCR_num,Job_Number,Part_Number,Rev,Qty,Defect,Defect_Type,Category
+0,1/2/2021,5113.0,462055,713-031576-803,A,1.0,Sheet 2; D8 measure 9x .25 +/- .02 actual  .133,Dimension,Cosmetic
+1,1/4/2021,5114.0,p463708,0022-26167,2,3.0,"Parts rejected due to not meeting print
+please see sheet 1 zone D2, feature .006±.001 is missing",Workmanship,Cosmetic
+2,1/4/2021,5115.0,P462304,0022-77996,1,4.0,"Deep tool impressions on material. 
+Pls see photos for details",Cosmetics,Material
+3,1/5/2021,5116.0,RPM463972,713-A42751-001,A,14.0,"Parts do not meet print 
+please see sheet 1 zone B8 125.0 ±0.5  actual is between 123.74/126.08 and zone C8 73.0±0.5 actual is between 74.02/74.54
+",Dimension,Cosmetic
+4,1/5/2021,5117.0,ASM459494,0021-82726,2,7.0,"PARTS REJECTED FOR MATERIAL CONTAMINATION
+PICTURES ON FILE",Cosmetic,Material
+5,1/6/2021,5118.0,P461818,0042-35340,3,3.0,Parts are broken/damged. ,Cosmetic,transit damaged
+6,1/6/2021,5119.0,462952,713-340040-001,C,4.0,Parts missing engraving on 1 side (note 3),Workmanship,Cosmetic
+7,1/8/2021,5120.0,RPM463078,713-148897-031,A,6.0,Missing engraving,Workmanship,Cosmetic
+8,1/9/2021,5121.0,RPM463874,713-A48386-001,A,1.0,"Flatness is oot .100""",Dimensional,GD&T
+9,1/9/2021,5122.0,464017,0042-37007,1,1.0,6.100+.020/-.000 IS 6.199 AND 5.813+.020/-.000 IS 5.904,Dimension,Cosmetic
+10,1/10/2021,5123.0,461234,0022-29317,8,6.0,Parts failing dimensional inspection. Chamfers angle and dim. Are out of tolerance. ,Dimension,dimension
+11,1/13/2021,5124.0,464234,0021-10368,P1,1.0,45 CHAMFER ON HE ID IS A LITTLE BURNED.,Cosmetic,Cosmetic
+12,1/15/2021,5125.0,462714,839-A08080-001,A,5.0,"PARTS FAILING  DIM. INSPECTION.
+PER PRINT DIAM 5.850 +/-.01  ACTUAL READING IS 5.871 TO 5.874.",Dimension,dimension
+13,1/15/2021,5126.0,P460768,0040-45593,11,2.0,Dimension out see CMM report hole location out of print,Dimension,dimension
+14,1/16/2021,5127.0,463738,713-088691-021,A,3.0, ,Dimension,Not Known
+15,1/16/2021,5128.0,461171,0022-55281,3,3.0,"SEVERAL DIMENSIONS OUT OF TOL.    13.350 +0/-.002   ACTUAL READINGS ARE 13.369
+14.220 +0/-.005  ACTUAL  14.222
+14.14 +.01/-0      ACTUAL IS 14.15
+R32.50 +/-.02      ACTUAL  IS 32.55",Dimension,dimension
+16,1/16/2021,5129.0,CP460248,0040-83605,7,10.0,Thread holes on item 1 per print supposed to be 1/8 NPT. Thread gage 1/8 NPT does not go. 1/8 28 BSPT goes item 3 dist .230 +/- .015 2 pcs found measuring .255,Dimension,Threads
+17,1/19/2021,5130.0,MT-RTM464075,0042-38506,1,1.0,"Parts is oversized after paint on several dims. 
+Pls see report on file for details.",Dimension,Paint
+18,1/19/2021,5131.0,462995,713-A09402-001,B,1.0,Drawing Note #4 part mark should be engraved spec 74-024094-00 method 3 style 3 omitted. ,Workmanship,Part Mark
+19,1/19/2021,5132.0,mt-asm464432,0042-35562,1,1.0,missing M3 tapping,Workmanship,Cosmetic
+20,1/20/2021,5133.0,RPM464932,713-801249-124,A,5.0,Scuffing and staining not reworkable. ,Workmanship,Cosmetic
+21,1/20/2021,5134.0,462496,0021-19849,3,1.0,.750±.005 is .705 .750±.005 .7770and .500±.005 is.49,Dimensional,Cosmetic
+22,1/20/2021,5135.0,MT-ASM464425,0042-35143,1,1.0,1 Pem nut self clinching came off,Workmanship,Cosmetic
+23,1/20/2021,5136.0,462327,0030-01085,2,1.0,Silkscreen is not uniform. Pls see phots or reference,Workmanship,Silk Screen
+24,1/22/2021,5137.0,RPM464196,713-801125-016,A,5.0,ENGRAVING WRONG SIDE AND OPPSIDE DOWN,Workmanship,Cosmetic
+25,1/25/2021,5138.0,P464448,0022-83480,1,8.0,"Insufficient deburring/cutting. 
+center hole is not completely thru. 
+Thru hole looks like countersink. 
+Pls reference photos for details.",Workmanship,Burrs
+26,1/25/2021,5139.0,P464447,0022-83479,1,8.0,"Insufficient deburring/cutting. 
+center hole is not completely thru. 
+Thru hole looks like countersink. 
+Pls reference photos for details.",Workmanship,Burrs
+27,1/26/2021,5140.0,464165,0022-27727,2,6.0,"Parts failing dimensional inspection. Per print Diam. 4.5 + .3 / -0 actual dim. Is 4.44 to 4.45 depth of CB should be 2.0 + 15/-0, actual dim is 1.97 to 1.98",Dimension,dimension
+28,1/28/2021,5141.0,asm462984,0010-84316,3,1.0,"1pc fail leak test. 
+pls see phots for details.",Functional,Leaking
+29,1/28/2021,5142.0,P462763,570049816,A,69.0,1.09 +/-.03 holes should be thru.Actual dimension is 1.04 to 1.05,Dimension,dimension
+30,1/28/2021,5143.0,RPM464196,713-801125-016,A,5.0,"Per print note #6 Lay pattern side of part shall be convex. 
+2 parts were concave. 
+5 parts per note#7 ""code05PP"" missing half of the letter PP. Not acceptable",Workmanship,Cosmetic
+31,1/29/2021,5144.0,462720,0022-37754,2,7.0,Holes .144 +/- .005 actual dim. Is only .138 (tight). Parts are bow not flat,Dimension,dimension
+0,2/1/2021,5145,MT-ASM464427,0042-35747,1,1.0,Damaged part during pin assembly,Workmanship,Assembly
+1,2/2/2021,  ,RMA11962,0051-21901,5,1.0,Missing M6 thread on item 1,Workmanship,Threads
+2,2/2/2021,5146,MT-P463180,0021-08627,1,5.0,.250-20 UNC-2A wont go on the ring gage.,Workmanship,Cosmetic
+3,2/2/2021,5147,P461133,813-A39887-001,B,50.0,6-32 thread won't go,Workmanship,Threads
+4,2/2/2021,5148,P464503,0042-35578,2,2.0,"Dimension 3X 146 + .12/-0.00 is 145.98, and 145.98",Dimensional,dimension
+5,2/3/2021,5149,462376,0022-27621,2,2.0,Per print dim 226.5 +/- .25 actual dim is 225.96,Dimensional,dimension
+6,2/3/2021,5150,462277,0022-27616,2,7.0,"Parts rejected due to not meeting print
+Please see sheet 1 zone;D11,C11,C6,E2
+1.Ø28-.065/-.086 Actual is Ø27.97-Ø28.01, 2. Run out of .013 actual is .095, 3.Ø19-.007/-.020
+Actual is Ø19.01, 4. 216±.25 Actual is 215.35-215.59, 5. Run out of .02 Actual is .466",Dimensional,GD&T
+7,2/4/2021,5151,P463748,2149-2004,2,23.0,"Parts rejected due to not meeting print
+please see sheet 1 zone C1 and zone B2; Ø2.2 and Ø1.590 are not in correct location",Dimensional,Cosmetic
+8,2/5/2021,5152,ASM461521,0041-12759,3,100.0,MARKING VENDOR CODE S/B 301514 IS 301513,Workmanship,Subcontractor
+9,2/5/2021,5153,P461400,0051-44306,3,4.0,Parts no weld per print.,Workmanship,Cosmetic
+10,2/6/2021,5154,ASM462101,0055-01801,2,2.0,WRONG LABEL INSTALL,Workmanship,Cosmetic
+11,2/6/2021,5155,P463951,0022-82828,1,2.0,"Parts rejected due to not meeting print. Sheet 2 zone C1, missing feature 3X Ø.039",Dimensional,Cosmetic
+12,2/6/2021,5156,SCI458858,0041-25201,4,1.0,"Parts rejected due to not meeting print
+Per note 9. Finish should be Everslik 1201 Dark Gray. Part does not match Everslik 1201 Dark Gray Coupon",Dimensional,surface finish
+13,2/8/2021,5157,SCI462813,0041-37259,2,30.0,"Parts rejected due to not meeting print
+AMAT logo is missing in all 30pcs
+10pcs have nicks, pits, and gaps in the welding
+All parts need deburr in slots",Workmanship,Burrs
+14,2/11/2021,5158,MT-462498,0022-75457,2,4.0,4 parts rejected due to some dimension is out of tolerance,Dimensional,dimension
+15,2/11/2021,5159,465430,0022-64836,3,2.0,Big AMAT logo engraved but should be part number engraved per 0250-01033 method 2,Workmanship,Cosmetic
+16,2/12/2021,5160,464194,0022-70970,2,15.0,"per print MTL should be Ultem-1010 not ABS red like stated in the quote
+NonConf:5160 PLAN XPLANNER ERROR",function,Material
+17,2/12/2021,5161,464185,0022-70974,2,5.0,"per print MTL should be Ultem-1010 not ABS red like stated in the quote
+NonConf:5161 PLAN XPLANNER ERROR",function,Material
+18,2/12/2021,5162,464183,0022-70974,2,3.0,per print MTL should be Ultem-1010 not ABS red like stated in the quote,function,Material
+19,2/12/2021,5163,464186,0022-70975,2,3.0,per print MTL should be Ultem-1010 not ABS red like stated in the quote,function,Material
+20,2/12/2021,5164,464187,0022-70976,2,6.0,per print MTL should be Ultem-1010 not ABS red like stated in the quote,function,Material
+21,2/12/2021,5165,464188,0022-70977,2,3.0,"per print MTL should be Ultem-1010 not ABS red like stated in the quote
+",function,Material
+22,2/12/2021,5166,464189,0022-70978,2,3.0,"per print MTL should be Ultem-1010 not ABS red like stated in the quote
+",function,Material
+23,2/12/2021,5167,464190,"0022-70979,",2,9.0,"per print MTL should be Ultem-1010 not ABS red like stated in the quote
+",function,Material
+24,2/12/2021,5168,464184,0022-70973,2,5.0,per print MTL should be Ultem-1010 not ABS red like stated in the quote,function,Material
+25,2/12/2021,5169,464192,0022-70981,2,6.0,per print MTL should be Ultem-1010 not ABS red like stated in the quote,function,Material
+26,2/12/2021,5170,464191,0022-70980,2,3.0,per print MTL should be Ultem-1010 not ABS red like stated in the quote,function,Material
+27,2/15/2021,5171,463702,"0270-00735,",8,1.0,WRONG MATERIAL ITEM 3,Workmanship,Material
+28,2/13/2021,5172,464410,"713-A20408-002,",A,1.0,"PART NOT ENGRAVED PER NOTE 4
+PART TO BE RTV",Workmanship,Cosmetic
+29,2/13/2021,5173,p464466,0022-82321,1,1.0,"Part not meeting print specs.
+ several dim. out of tol.",Dimensional,dimension
+30,2/15/2021,5174,cp461531,0021-04297,3,8.0,missing engraving per note 5,Workmanship,Cosmetic
+31,2/15/2021,5175,464106,022-75458,2,2.0,PARTS REJECTED FOR DAMAGE AND OVERSIZE 1/8-27 NPT THREADED HOLE,Workmanship,transit damaged
+32,2/17/2021,5176,RTM465630,0022-85208,1,4.0,2x 3.50 +/- .25 is 3.15  No chamfer on the drawing call out on the back side is .355,Dimensional,Cosmetic
+33,2/19/2021,5177,P464436,570049818,A,23.0,Per print hole dim. Should be 20.0 + . 021/ -.0 actual dim. Is 19.98-1999. See zone D4 on print hole diam 1.5 + .01/ - 0.0 actual dim is 1.49. ,Dimensional,dimension
+34,2/21/2021,5178,mt-asm464573,0042-35143,1,1.0,Missing hardware ,Workmanship,Cosmetic
+35,2/22/2021,5179,466526,0022-29226,2,1.0,"7pcs pull from stock to verify custmer rejection, 1pcs OOT NCR on file, 
+sps needed for dim 6x .270 sheet 1 zone b5 should be 5X 
+6pcs to cleaning",Dimensional,dimension
+36,2/23/2021,5180,461130,0022-70975,2,1.0,"RECEIVED WRONG P/N 0022-70970 SHOULD BE PN 0022-70975, Rev 02",Workmanship,Cosmetic
+37,2/23/2021,P460164,P460164,0051-91132,2,1.0,F29 rejected. Order is voided,Workmanship,Cosmetic
+38,2/24/2021,5181,464054,0022-75515,1,1.0,Parts rejected due to 1/8-27 NPT goes all the way. ,Workmanship,Cosmetic
+39,2/25/2021,5182,462567,CSN-0148-01,D,1.0,Part of the femaile groove cut off ,function,Cosmetic
+40,2/25/2021,5183,MT-465649,0042-37075,1,10.0,ITEM#2 REJECTED THREAD LENGTH S/B .200 IS .190,Dimensional,Threads
+41,2/26/2021,5184,asm459083,0010-84316,3,1.0,Top flange of the part has a material discoloration and dirt which cannot be removed by sanding or chemical cleaning we used.,Workmanship,Color
+42,2/26/2021,5185,ASM461428,0010-84316,3,1.0,Top flange of the part has a material discoloration and dirt which cannot be removed by sanding or chemical cleaning we used.,Workmanship,Color
+43,2/28/2021,5186,rtm465878,0042-35555,1,2.0,"Inside diameter is damaged due to metal inserts that are bulging after installation.
+",Workmanship,Cosmetic
+1,3/1/2021,5188,P464466,0022-82321,1,1.0,Part not meeting print specs several feature locations are out of tolerance.,Dimensional,GD&T
+2,3/2/2021,5189,RTM466218,0042-35578,2,4.0,"Parts rejected due to not meeting print missing engraving per note 7, and missing M5 x. 8 inserts (item 2)",Workmanship,Cosmetic
+3,3/2/2021,5190,RTM465877,0042-35578,2,2.0,"Parts rejected due to not meeting print missing engraving per note 7, and missing M5 x. 8 inserts (item 2)",Workmanship,Cosmetic
+4,3/2/2021,5191,P464503,0042-35578,2,2.0,"Parts rejected due to not meeting print missing engraving per note 7, and missing M5 x. 8 inserts (item 2)",Workmanship,Cosmetic
+5,3/2/2021,5192,p465131,0042-36748,2,1.0,"Parts not to print. Missing 8-32 insert x4 (item 2)
+all 4 threaded holes have burrs. Please see picture on file. ",Workmanship,Threads
+6,3/2/2021,5193,MT-RTM465786,0022-83919,1,24.0,Bad true position,Dimensional,GD&T
+7,3/3/2021,5194,p465132,0042-37610,2,1.0,"Part not to print 
+burrs in all holes
+sps needed for part marking method(not enough room)
+item 2(4x) missing hardware",Workmanship,Cosmetic
+8,3/4/2021,5195,MT-P466498,502680.001,A1,1.0,"Part rejected due to not meeting print. Sheet 1 zone B6, thread to be 1/8 BSPT but gage goes all the way",Workmanship,Threads
+9,3/4/2021,5196,MT-P466500,502679.001,A1,1.0,"Part rejected due to not meeting print. Sheet 1 zone C7, thread to be 1/8 BSPT but gage goes all the way",Workmanship,Threads
+10,3/5/2021,5197,SCI463923,0051-84747,3,20.0,1/4 NPT threat gage going to deep,Workmanship,Threads
+11,3/8/2021,5198,ASM461522,0041-25148,2,5.0,Parts rejected due to wrong engraving.,Workmanship,Cosmetic
+12,3/8/2021,5199,465909,713-254628-124,A,25.0,0.131 +/- .005 is .133 and 0.148 + .000/-.002 is .1488,Dimensional,Cosmetic
+13,3/9/2021,5200,465244,713-A08900-001,C,40.0,"Parts rejected due to not meeting print or form fit and function. See sheet 1 zone C6, both walls of the part cracked after hardware was installed",Workmanship,cracked
+14,3/9/2021,Unofficial ,ASM460550,0042 24175,2,1.0,"This part is out of tolerance at F/5..
+Part need to be rework  to pn 0042 35005 rev 02 ",Workmanship,GD&T
+16,3/9/2021,5202, RPM467105,713-002617-023,B,4.0,PARTS HAVE SCRATCHES AND MISSING 2x 1MMX 45° CHAMFE,Workmanship,Scratches
+17,3/11/2021,5203,RMA11963,0042-23590,3,1.0,Crack ,Workmanship,cracked
+18,3/11/2021,5204,AS-MT466799,01457245-001,3,14.0,12 OUT OF 14 PCS IS REJECTED ONLY TWO PCS ARE GOOD. PLS SEE PICTURES ON FILE,Workmanship,GD&T
+19,3/11/2021,5205,RMA11953,0015-11652,3,12.0,"Hole to hole dimensions are oot. 
+Not reworkable. Programming team was made aware. 
+Ok to scrap...
+",Dimensional,dimension
+20,3/15/2021,5206,465914,0042-28853,1,5.0,R5.0 +/- .25 IS 7.18,Dimensional,Cosmetic
+21,3/15/2021,5207,SCI465497,0022-04019,4,100.0,"(F-8): (2x) R 2.5 +/- .5 - Missing material S/B PET, White is CPBC White",Dimensional,Material
+22,3/15/2021,5208,SCI460797,0041-77446,3,1.0,Insert came off,Workmanship,Cosmetic
+23,3/15/2021,5209,466423,0022-75458,2,2.0,"                   PARTS REJECTED DUE TO NOT MEETING PRINT 
+ PLEASE SEE SHEET 1 ZONE D2 Ø60 -.03/-.06 ACTUAL AT Ø59.934/Ø59.928",Dimensional,Cosmetic
+24,3/15/2021,5210,sci460798,0041-85132,6,10.0,"Cosmetic problem with the window unacceptable
+",Cosmetic,Cosmetic
+25,3/16/2021,5211,RPM464196,713-801125-016,A,2.0,"
+2pcs rejected for oot flatness please see NCR on file",Dimensional,GD&T
+26,3/16/2021,5212,463979,0022-82911,4,11.0,Parts not meetin gprint specs. .25 hole locations on X direction are out of Tol. Thruth POS. Out of Tol. For same reason,Dimensional,GD&T
+27,3/16/2021,5213,463471,0041-28496,5,1.0,Part cracked closed to 1 slotted hole in the bottom.,Workmanship,cracked
+28,3/17/2021,5214,466481,713-088691-021,A,1.0,Cosmetics issue: found foreign material on the surfaces of the part,Workmanship,Material
+29,3/17/2021,5215,SCI461625,0022-14027,4,4.0,Flatness should be .002 is .0039,Dimensional,Cosmetic
+30,3/18/2021,5216,467130,0022-62007,4,90.0,"EA 03/18: thermostat malfunction on oven increased temp higher than set (set to 200°C, heated to 230°C); resulting in material melted, damaged blanks
+NonConf:5216 EMAL XEQUIP. MALFUNCTION",Equipment Malfunction,Material
+31,3/18/2021,5217,465265,0021-44940,3,9.0,Bubbling/dimpling on underside of the cover after forming due to excess moisture in material,Workmanship,Material
+32,3/19/2021,5218,P466534,713-803051-001,A,2.0,"PARTS NOT MEETING PRINT SPECS
+SEVERAL DIMENSIONS  OUT OF TOLERANCE",Dimensional,dimension
+33,3/19/2021,5219,P466227,713-801249-017,A,6.0,"PARTS REJECTED DUE TO NOT MEETING PRINT. PER NOTE 6 PARTS TO BE SILKSCREEN WITH INDICATED NOMENCLATURE. PLEASE SEE SHEET 1 ZONE C7 SILKSCREEN SHOULD BE ""SOV1-8B EXH DIVERTER"" ACTUAL IS ""SOV1-8A SPARE"" PLEASE SEE PICTURE ATTACHED",Workmanship,Silk Screen
+34,3/22/2022,5220,464212,0042-25579,2,10.0,HOLE LOCATIONS SHORT   THRU POS  O.T   FOR SAME REASON  (AFTER ANNEALING),Dimensional,Cosmetic
+35,3/22/2021,5221,466777,71-438282-00,1,10.0,"PARTS REJECTED DUE TO NOT MEETING PRINT PLEASE SEE SHEET 1 ZONE C5 AND D5 4PCS ARE OOT AND HAVE NICKS; D5- THICKNESS SHOULD BE .225±.002 ACTUAL IS BETWEEN .2227 AND .2244,C5- THICKNESS SHOULD BE .245±.002 ACTUAL IS BETEEN .2429 AND .2440.PARTS ARE TAPERED
+ALL 10PCS NEED ENGRAVING, PLEASE SEE PICTURES ATTACHED FOR DETAILS ",Workmanship,GD&T
+36,3/22/2021,5222,SCI465055,0030-00876,5,1.0,CRAKED CORNER,Cosmetic,Cosmetic
+37,3/22/2021,5223,sci461605,0041-85128,4,2.0,Window have dents,Cosmetic,Cosmetic
+38,3/22/2021,5224,466290,CSN-0149-01,D,1.0,part is cracked at the 47.76 diameter,Cosmetic,cracked
+40,22-Mar,5226,464296,0042-28612,4,1.0,↓ .270 ± .005 IS .284,Dimensional,Cosmetic
+41,3/23/2021,5227,mt-p465352,0040-80605,4,49.0,"Dimension 16.625 ±.005 per CHAWK Gubdrill Layout print is out of tolerance, actual dimension = 16.505",Dimensional,dimension
+42,3/24/2021,5326,466471,0021-55030,3,1.0,Dimension of  hole should be  18.25 +/-.12   actua,Dimensional,dimension
+43,3/24/2021,5327,P467440,0042-20091,3,3.0,"SHI A6 ACTUAL  .130  +-.005  I CHECK ONLY  .124 ,1235",Dimensional,Cosmetic
+45,3/29/2021,5422,MT-RPM467424,524-A14746-002,a,1.0,DIM. 336-59 +/- .12 (TSC) actual dim is 335.47,Dimensional,dimension
+46,3/30/2021,5423,ASM463354 to 457161,0090-07541,6,1.0,DAMAGED CABLE SHIELD,Workmanship,Cosmetic
+47,3/31/2021,5424,MT-468405,713-183503-102-A02,A,60.0,"Parts rejected due to not meeting print please see ncr on file 
+sheet 1 zone b7 Ø.1880+.003/+.005",Dimensional,Cosmetic
+48,3/31/2021,5427,SCI465458,0041-78120,2,38.0,VOIDS AND BUBBLES VISIBLE ON DIFFERENT SURFACES,Workmanship,Cosmetic
+49,3/31/2021,5429,ASM461429,0022-62686,2,10.0,SILKSCREEN NOT LEGIBLE,Cosmetic,Silk Screen
+50,3/31/2021,5430,ASM461517,0022-62686,2,10.0,SILKSCREEN NOT READABLE,Cosmetic,Silk Screen
+51,3/31/2021,5431,ASM463286,0022-62686,2,40.0,SILKSCREEN NOT READABLE,Cosmetic,Silk Screen
+0,4/2/2021,5436,ASM463025,0021-45239,3,10.0,"      PARTS REJECTED DUE TO NOT MEETING PRINT AND FAILS FORM FIT AND FUNCTION 
+PLEASE SEE SHEET 1 ZONE D7 SHOULD BE Ø19.99+0.00/-0.05 ACTUAL IS BETWEEN Ø20.00-Ø20.03",Dimensional,Cosmetic
+1,4/2/2021,5437,458126,0090-05371,2,2.0,"WRONG SENSOR RECEIVED AND FAILS FUNCTIONALITY TEST  
+P/N SHOULD BE KG5069 ACTUAL SENSOR RECEIVED IS P/N KG5067",Functional,Cosmetic
+2,4/2/2021,5439,asm460401,0042-24171,2,7.0,"parts rejected due to cosmetic issue with ANODIZE BLEED OUT 
+",Cosmetic,Cosmetic
+3,4/2/2021,5441,mt-asm464432,0042-35562,1,1.0,"Part rejeceted for missing m3 x .05 replacement has an overisze thread and form fit and function fails
+",Workmanship,Threads
+4,4/8/2021,5452,465003, 15-431471-00,C,4.0,"PARTS REJECTED DUE TO COSMETIC ISSUES 
+DEEP PITS, SCRATCHES, AND PARTICLE WITHIN THE ESD COATING",Cosmetic,Scratches
+5,4/13/2021,5462,465598,15-431463-00,E,2.0,Parts rejected due to cosmetic issues. Parts have scratches nicks and haze after ESD coating. ,Cosmetic,Scratches
+6,4/15/2021,5464,467429,0042-35578,2,2.0,Part mark - method 2 - missing insert M5x0.8 4 ea - missing. Thread .125-27 NPT unacceptable. ,Workmanship,Threads
+7,4/19/2021,5466,MT-462685,0042-27947,2,1.0,"After anodizing, found rust alike formation around the the lip of DIAMETER Ø547.00 @C2B8",Workmanship,Cosmetic
+8,4/19/2021,5470,ASM462792,0022-62679,4,50.0,PRATS REJECTED DUE TO SILKSCREEN WORKMANSHIP SHEET 1 ZONE B11 SILKSCREEN SMEARED ,Workmanship,Silk Screen
+9,4/19/2021,5471,asm463062,0022-62679,4,20.0,"PARTS REJECTED DUE TO SILKSCREEN WORKMANSHIP
+SHEET 1 ZONE B11 SILKSCREEN SMEARED",Workmanship,Silk Screen
+10,4/21/2021,5473,SCI465541,0041-37259,2,4.0,"PARTS REJECTED DUE TO NOT MEETING PRINT.  SEE SHEET 1 ONE C6
+ITEM 1, 2 AND 3 ARE BONDED IN WRONG ORIENTATION AND LOCATION",Workmanship,Cosmetic
+11,4/19/2021,5472,ASM466273,0041-30145,2,20.0,PARTS REJECTED FOR WORKMANSHIP/ COSMETICS PARTS HAVE NICKS CHIPS AND DAMAGE PINS PLEASE SEE PICTURES ATTACHED,Workmanship,transit damaged
+18,4/23/2021,5482,RW469170,0190-29897,4,1.0,Damage Connector,Functional,transit damaged
+19,4/28/2021,5483,RW469171,0041-14343,3,1.0,Damage Connector cover,Functional,transit damaged
+20,4/28/2021,5487,ASM466273,0041-30145,2,80.0," item #2, 3 and 4 are not meeting drawing requirements.  BOM item #2, As per pdf of 3550-00544, OEM part number should be BERG part D50M-4, 
+aCTAUAL: M58PD-SS. 
+item #3, SS insert used wrongly instead of Nitronic 60 insert. As per pdf of 3410-00247, OEM part number should be 1084-4EN080, Actual used:  1084-4CN080. 
+item #4, SS insert used wrongly instead of Nitronic 60 insert. As per pdf of 3410-00379,  part number should be 1185-4EN625,
+Actual used: part 1185-4CN62",Functional,Cosmetic
+21,4/28/2021,5488,MT-468367,570049801,A,1.0,"PART REJECTED DUE TO NOT MEETING PRINT 
+PLEASE SEE SHEET 1 ZONE D4, SHOULD BE Ø40.512 +.025/-0.000, ACTUAL IS Ø40.538",Dimensional,Cosmetic
+22,4/30/2021,5490,CP467062,0042-22013,2,1.0,"Failed QC inspection - detail AB - .122 is OOT, Section A-A - 1.110 is OOT",Dimensional,GD&T
+0,5/3/2021,5491.0,cp468038,0022-86022,2,8.0,"Failed QC inspection - Ø2.658 is OOT, .001 Runout is OOT, 1.640 OOT",Dimensional,GD&T
+1,5/4/2021,5492.0,CP468037,0022-86005,2,8.0,"Failed QC inspection - 2.100 is OOT and tapered, 2.658 is OOT, runnouts are OOT, 1.402 is OO",Dimensional,GD&T
+2,5/4/2021,5493.0,RPM469719,713-A19564-001,A,3.0,Damaged middle slot/bad deburr.,Cosmetic,Burrs
+3,5/4/2021,5494.0,RTM465878,0042-35555,1,2.0,True position S/B .12 is .1216-.6543,Dimensional,GD&T
+4,5/5/2021,5495.0,RPM469814,713-A56469-025,B,2.0,We have an external radius of .005 and the under radius was done above the radius not per drawing detail B.,Dimensional,Cosmetic
+5,5/6/2021,5496.0,RPM469357,713-A43391-014,A,1.0,"PARTS REJECTED DUE TO COSMETIC ISSUES
+PART HAS DEEP PIT /CRACK IN AREA ZONE C6 SHEET 1
+ PLEASE SEE PICTURE ATTACHED",Cosmetic,cracked
+7,5/6/2021,5498.0,7,CSN-0149-01/Incorrect P/N,D,2.0,"Tonque Hight fail
+ (Part desc:Negative endplate frame)",Functional,Cosmetic
+9,5/6/2021,5500.0,RW469666,0021-53996,2,11.0,Part is out of tolerance,Dimensional,GD&T
+10,5/10/2021,5501.0,rtm469388,0022-87137,2,1.0,"wrong MTL provided to Nominal 
+Nominal failed to catched MTL change also 
+parts to be scrap",Workmanship,Material
+11,5/10/2021,5502.0,P468376,0022-60156,3,3.0,Nominal failed to catched MTL change also ,Dimensional,Material
+12,5/11/2021,5503.0,mt-468383,570049801,a,3.0,"PARTS REJECTED DUE TO NOT MEETING PRINT SEE SHEET 1 ZONE D4 SHOULD BE Ø40.512 +0.025/ -0.000 ACTUALS ARE Ø40.509, Ø40.505, Ø40.498",Dimensional,Cosmetic
+13,5/13/2021,5504.0,sci468833,0022-18521,2,8.0,Go no go gage 1/5,Dimensional,Cosmetic
+14,5/14/2021,5505.0,468302,515-224153-007,A,5.0,SLOT S/B .420 ±.005 IS .410,Dimensional,Cosmetic
+15,5/14/2021,5506.0,468419,0022-76049,2,4.0,tooling mark unacceptable,Workmanship,Part Mark
+16,5/14/2021,5507.0,CP468132,0042-09391,10,1.0,Dimension out,Dimensional,dimension
+17,5/18/2021,5508.0,469444,0022-76049,2,2.0,Tooling mark and dimension out,Workmanship,dimension
+18,5/18/2021,5509.0,ASM467659,0022-04958,3,3.0,"EA 05/18:
+Section A-A and B-B views, E2 and E7: 2x M3x0.5 thread locations on discrepant parts (in X-direction) are flipped
+
+Section A-A: threads should be located at 42.00, 174.50 and 60.00, 144.50; on discrepant parts threads are located at 60.00, 174.50 and 42.00, 144.50
+Section B-B: threads should be located 42.00, 144.50 and 60.00, 174.50; on discrepant parts threads are located at 60.00, 144.50 and 42.00, 174.50
+NonConf:5509 DIME DIMENSIONAL",Dimensional,dimension
+19,5/18/2021,5510.0,466559,524-326223-001,B,4.0,parts failing  Thru pos. and Run out,Dimensional,Cosmetic
+20,5/19/2021,5511.0,ASM462480,0022-18298,4,50.0,"PART IS NOT SYMETRIC  PARTS NOT MADE PER PRINT.
+DIM 24.0 +/-.5   IS  26.5   AND 21.5  ACTUAL DIM IS 18.5",Dimensional,dimension
+21,5/19/2021,5512.0,465953,713-229661-002,d,22.0,PARALLEL OUT OF TOLERANCE,Dimensional,GD&T
+22,5/21/2021,5513.0,sci464652,0045-00689,3,2.0,9 sets to clean 2 sets rejected missing features,Workmanship,Cleaning
+23,5/21/2021,5514.0,SCI466837,0041-85130,4,4.0,"COSMETICS 
+SCRATCHES ON WINDOWS (ITEM 4)",Cosmetic,Scratches
+24,5/24/2021,5515.0,RTM469597,0022-84107,5,12.0,"True position .1 is .770
+ True position .5 is .954",Dimensional,GD&T
+25,5/25/2021,5516.0,468691,0022-75260,2,6.0,"Some dimensions are out of tolerance;
+Parallelism S/B=0.02 actual is 0.027
+SHI-B9 Distance 30+0.021/-0.00, actual is 30.059
+CMM reports attached.
+SH1-B11 Distance 30+0.021/-0.00, actual is 30.059
+SH1-E5_Distance_7 ±0.25, actual 7.45 - 7.65",Dimensional,dimension
+26,5/25/2021,5517.0,466559,524-326223-001,B,4.0,"RUN OUT  OFF TOL.  PER PRINT SHOULD BE.001 ACTUAL IS .002 TO .003
+THRU POS  PER PRINT SHOULD BE .002 ACTUAL  DIM IS .003 TO .004",Dimensional,dimension
+27,5/25/2021,5518.0,RPM470394,713-432005-001,C,2.0,"PARTS REJECTED DUE TO COSMETICS AND WORKMANSHIP 
+PARTS NOT RECEIVED WITH PROTECTIVE FILM PER NOTE 5
+PARTS HAVE SCRATCHES AND NICKS IN ZONE D4 NOT ALLOWED PER NOTE 4",Cosmetic,Scratches
+28,5/26/2021,5519.0,469856,"0022-87539, ",1,1.0,"1pcs not part mark per print 
+",Workmanship,Part Mark
+29,5/26/2021,5520.0,469972,0022-70689,2,6.0,Parst do not meet cosmetic call out per print note 5 ,Cosmetic,Cosmetic
+30,5/27/2021,5521.0,467918,0042-35578,2,2.0,Part was quoted with inserts  . Supplier suppossed to provide them on part complete,Cosmetic,Cosmetic
+31,5/27/2021,5522.0,ASM463785,0041-55016,5,94.0,TRUE POSITION OF INSERT .1 IS .558,Dimensional,GD&T
+32,5/27/2021,5523.0,ASM462484,0022-04958,3,5.0,M3 Thread gage won't go.,Workmanship,Threads
+0,6/1/2021,5524.0,466514,15-431468-00,E,6.0,"3pcs to cleaning 
+6pcs rejected due to nicks, scrataches and specks",Cosmetic,Cleaning
+1,6/2/2021,5525.0,460211,0022-27050,4,1.0,"parts rejected due to missing feature 
+1pcs is missing allen head see sheet 1 zone ",Dimensional,Cosmetic
+2,6/2/2021,5526.0,466889,0015-10703,03,5.0,"Recieved wrong part 
+should be 0015-10703 but physically received 0015-10779
+",Workmanship,Cosmetic
+3,6/3/2021,5527.0,asm463065,0021-61063,02,1.0,DAMAGED IN THE SIDE CORNER (Accidently dropped during inspection. ,Workmanship,Cosmetic
+4,6/3/2021,5528.0,RPM469539,839-A32354-002,B,3.0,COUNTER SINK Ø.420±.010 IS .390,Dimensional,Cosmetic
+5,6/3/2021,5529.0,CP467059,0041-83493,07,1.0,Qty 1 blank found to have material defects per 0250-63743,Workmanship,Material
+6,6/4/2021,5530.0,P469288,0022-70736,1,3.0,"PARTS MISSING ENGRAVED S/N PER NOTE 7
+-16 FINISH ON HOLES IS OUT OF SPECS (tool marks through entire length of cylinder) SEE PRINT ZONE D3, D4, A2 &  B7, 
+- PARTS HAVE BURRS ON THIS MENTIONED HOLE ALL THE WAY TO THE END WHEN TOOL BREAKS THRU
+- MISSING 2X SPHERICAL DIA.  .255 Zone A-3 AT INTERSECTION
+-MISSING SPHERICAL DIA.  .170 zone D-4 AT INTERSECTION",Workmanship,surface finish
+7,6/8/2021,5531.0,468876,713-035108-005,B,100.0,THE TAP 4-40 UNC 2B NO GO THRU LOCATION D,Workmanship,Cosmetic
+8,6/9/2021,5532.0,SCI467124,0041-77445,6,1.0,UNACCEPTABLE WELD IN CORNER CAUSING A STEP,Cosmetic,Cosmetic
+9,6/9/2021,5533.0,SCI465272,0041-77573,4,1.0,FOREIGN OBJECT UNDER PAINT,Cosmetic,Paint
+10,6/10/2021,5534.0,RW469666,0021-53996,02,11.0,SHEET 1 0F 1 SHOULD BE: DIA 47.01 -.000/+ 0.04 @ 46.983 - 47.007,Dimensional,Cosmetic
+11,6/10/2021,5535.0,466439/ RW471711,0041-90121,02,1.0,BLOCK WELD THE WRONG WAY,Workmanship,Cosmetic
+12,6/10/2021,5536.0,MT-ASM468620,0022-81433,01,20.0,MISSING EGRAVING,Workmanship,Cosmetic
+13,6/10/2021,5537.0,MT-ASM465420,0022-81433,01,10.0,MISSING ENGRAVING,Workmanship,Cosmetic
+14,6/10/2021,5538.0,MT-ASM465672,0022-81433,01,20.0,MISSING ENGRAVING,Workmanship,Cosmetic
+15,6/11/2021,5539.0,MT-468383,570049801,A,5.0,Parts rejected due to chemical stains after anodizing. ,Workmanship,Cosmetic
+16,6/15/2021,5542.0,ASM463666,0041-59727,03,50.0,"PARTS REJECTED DUE TO NOT MEETING PRINT 
+PLEASE SEE SHEET 1 ZONE C7, SHOULD BE 0.50±0.05 ACTUAL IS BETWEEN 0.42 AND 0.43",Dimensional,Cosmetic
+17,6/15/2021,5543.0,CP467059,0041-83493,07,4.0,"PARTS REJECTED FOR COSMETIC ISSUES S/N 0001,0003,0007 AND 0008 HAVE SPECKS, CRAZING, AND HAZE WITHIN THE MATERIAL
+PLEASE SEE PICTURES ON FILE ",Cosmetic,Material
+18,6/16/2021,5544.0,468553,0020-28240,1,10.0,6-32 THREAD DOES NOT GO THRU,Workmanship,Threads
+19,6/17/2021,5545.0,CP466026,0041-93533,07,1.0,"Incomplete machining. 
+Step on top surface. See photos on file for details. S/N 0004",Workmanship,surface finish
+20,6/18/2021,5546.0,469003, 713-320957-001(item 2),A,71.0,"PARTS REJECTED DUE TO WRONG COLOR OF MATERIAL PER PRINT ITEM 2 IS GREY, ACTUAL PARTS ARE ORANGE ",Workmanship,Color
+21,6/18/2021,5547.0,CP467060,0041-87805,07,1.0,"SHEET 2 OF 7, ZONE C-2 SPEC. .200 -/+ .005 ACTUAL: .339-.343 (DEPTH)
+",Dimensional,Cosmetic
+22,6/18/2021,5548.0,CP470644,0041-83493,07,1.0,"SHEET 2 OF 7, ZONE C-2 SPEC. .200 -/+ .005 ACTUAL: .339-.343 (DEPTH)",Dimensional,Cosmetic
+23,6/18/2021,5549.0,CP467059,0041-83493,07,9.0,"SHEET 2 OF 7, ZONE C-2 SPEC. .200 -/+ .005 ACTUAL: .339-.343 (DEPTH)
+DIMENSIONAL S/N: 301514-2221-0003, 0004, 0005, 0006, 0007, 0008
+0009, 0011, 0012",Dimensional,dimension
+24,6/21/2021,5550.0,P470019,0022-87610,01,5.0,"Sht 1, dr loc C1 s/b 16XR0118 =-.005 actual is 16XR.188-.196.",Dimensional,Cosmetic
+25,6/21/2021,5551.0,470093,2149-2004,02,24.0,true position out of tolerances,Dimensional,GD&T
+26,6/24/2021,5552.0,ASM464944,0042-11896,03,10.0,iTEM 2 NOT INSTALLED.,Workmanship,Cosmetic
+27,6/24/2021,5553.0,P470909,0022-89220,02,8.0,"PARTS REJECTED DUE TO NOT MEETING PRINT.
+SUPPLIER HAS PROVIDED PARTS WITHOUT STRIP FORMING PROCESS, PART IS OVER SIZE. Causing dimensins to be O.O.T after strip forming. PLEASE SEE SHEET 1 ZONE B5 AND B4; 1.00±.02 ACTUAL IS 1.245 AND 4.25±.02 ACTUAL IS 4.492. ZONE D4 SHOULD BE 1.82±.02 ACTUAL IS 1.846 AND SHEET 1 ZONE A5 SHOULD BE 6.20+.04/-.00 ACTUAL IS 6.706 ",Dimensional,Cosmetic
+28,6/24/2021,5554.0,470095,2129-6905,4,31.0,DIMENDION OUT OF TOLERANCE,Dimensional,GD&T
+31,6/25/2021,5557.0,ASM467578,0090-07776,02,4.0,"2ea do not power on
+2 ea are clocked wrong",Workmanship,Cosmetic
+32,6/29/2021,5558.0,SCI468352,0022-20200,05,12.0,"THICKNES PER PRINT SHOULD BE  1.700 +0/-.005 ACTUAL DIM IN 12 PCS IS 1.690 TO 1.694   
+ONE SIDE STILL NEED TO BE SANDED TO MEET SURFACE FINISH BUT THERE IS NO MATERIAL LEFT TO FIX IT.",Dimensional,surface finish
+33,6/29/2021,5559.0,asm464616,0041-61630,03,20.0,OPER XOPERATOR ERROR-OTHER,Workmanship,Cosmetic
+34,6/29/2021,5560.0,457788,0042-02401,02,4.0,"   PARTS REJECTED DUE TO NOT MADE PER PRINT 
+ The MTL per print, item 1 should be WHITE DELRIN but quoted with ACETAL COPOLYMER  instead of Homopolymer.",Workmanship,Material
+35,6/30/2021,5561.0,rpm470856,713-347702-013,B,1.0,"
+1 part rejected  used the set up part.",Workmanship,Cosmetic
+36,6/30/2021,5562.0,P466495,0022-54075,02,40.0,PER SPS SOLUTION DIMENSION 1.93 ±.03 IS 2.00,Dimensional,dimension
+37,6/30/2021,5563.0,p470817,0022-76769,01,25.0,"Sht 1, dr loc B3 s/b  Ø.139+.000-.005 actual is Ø.128.",Dimensional,Cosmetic
+38,6/30/2021,5564.0,469243,0022-55291,03,6.0,DIMENSION OF C.S PER PRINT SHOULD BE  13.95 +.07/-.03  ACTUAL DIM IN ALL PARTS  ARE 14.2 TO 14.3,Dimensional,dimension
+39,6/30/2021,5565.0,467880,CSN-0149-01,D,3.0,true position out of toleranc,Dimensional,GD&T
+40,6/30/2021,5566.0,469544,0042-28969,03,3.0,"parts rejected due to not meeting print 
+please see sheet 1 zone B6 and C5 radius and diameter are undersize  aslo zone c6 is not drilled th",Dimensional,Cosmetic
+41,6/30/2021,5567.0,mt-468383,570049801,A,10.0,"Anodizing thickness
+Nominal 3microns +- 1.5 (1.5 - 4.5microns); 
+Actual 2.03 - 9.43microns",Dimensional,GD&T
+0,7/6/2021,5568.0,sci466833,0041-85132,6,5.0,Window area has nicks scratches and pits,Cosmetic,Scratches
+1,7/6/2021,5569.0,CP471996,0041-94029,10,7.0,"THRU POS IN MOS OF HOLE  LOCATIONS ARE OFF 
+DIM   .239 +.001/.00   ARE UNDERSIZE .238  DIM .276 +.00/-.002 UNDERSIZE ACTUAL .2735",Dimensional,dimension
+2,7/6/2021,5570.0,MT-470011,0042-31724,02,1.0,DIMENSION OUT OF TOLERANCE,Dimensional,dimension
+3,7/6/2021,5571.0,469249,713-102458-005,E,5.0,"Sht 1, dr loc B5 dims s/b Ø11.696+-.012 actual is Ø11.681, s/b Ø10.856+-.015 actual is 
+Ø10.837-10.838, s/bØ11.656+-.012 actual is 11.604-11.6",Dimensional,Cosmetic
+4,7/12/2021,5573.0,RPM468556,515-290952-001,B,2.0,"PART SCRATCHED AT PENTAGON CLEANING REWORK WAS DONE 2X IF DONE A 3RD PARTS WILL GET STRESS CRACKS THEREFORE PARTS CANT BE REWORKED 
+PARTS TO BE SCRAP",Workmanship,cracked
+5,7/12/2021,5574.0,MT-P471561,0022-83919,03,1.0,"SHEET  1 OF 1 ZONE: G-8 SPEC: 9.52 
+ACTUAL : 9.16",Dimensional,Cosmetic
+6,7/12/2021,5575.0,rw472663,0195-06854,3,1.0,"Motor has no motion during testing.
+Model: R2AA06020FXP3XM
+SERIAL #10191000241E
+Lot:  20-47-49",Functional,Cosmetic
+7,7/12/2021,5576.0,471433,0022-78129,02,15.0,"PARTS REJECTED DUE TO OD BEING OVERSIZE 
+PLEASE SEE SHEET 1 ZONE D2 Ø5.570±.010 ACTUAL IS Ø5.830/Ø5.840",Dimensional,Cosmetic
+8,7/13/2021,5577.0,470802,0042-01927,03,4.0,1.000 ±.005 IS .99,Dimensional,Cosmetic
+9,7/13/2021,5578.0,as-mtp471764,570050369,A,21.0,"PARTS FAILING DIMENSIONAL INSP.
+C SINKS PER PRINT SHOULD BE 6.0 +/-.1   NAGLE SHOULD BE 90*   ACTUAL DIM IN ALL  AF THEM IS 6.23 TO 6.25  ANGLE IS 87.5 ONLY
+DIAM OF HOLE SHOULD BE 8.0 +.1/-0.0  ACTUAL DIM IN ALL 6 HOLES IS 8.105 TO 8.12",Dimensional,dimension
+10,7/14/2021,5579.0,469174,"15-431469-00,",D,1.0,"DAMAGED PART WITH DEEP NICKS, NO POSSIBLE WAY TO REWORK PART TO BE SCRAP",Cosmetic,Cosmetic
+11,7/14/2021,5580.0,469021,15-431469-00,D,2.0,"SCRATCHES/SPECKS AND DISCOLORATION 
+PARTS ESD COATED NO SUCCESS REWORKING COTED PARTS 
+2PCS TO BE SCRAP",Cosmetic,Color
+12,7/14/2021,5581.0,465598,15-431463-00,E,2.0,"PART REJECTED FOR COSMETICS, PARTS TO BE SCRAP FOR DEEP SCRATCHES",Cosmetic,Scratches
+13,7/16/2021,5582.0,469836,0022-85280,01,1.0,"Diameters undersize:
+1. SHEET 1 OF 2 ZONE : C:6/7 **3X 14.980 +.00/-.02  Actual:  14.9596, 14.9569, 14.955
+2. SHEET 1 OF 2 ZONE : C:6/7 **3X COAXIALITY  SPEC: .02 ACTUAL: .0206-.0224",Dimensional,Cosmetic
+14,7/19/2021,5583.0,MT-P467271,0041-55017,05,1.0,"RELEASED TO STOCK
+1 PART GOT DAMAGED DURING INSPECTION ( EDGARD) NEED TO ANODIZE CHIPPED  EDGES",Workmanship,Cosmetic
+15,7/20/2021,5584.0,P471816,K17255594,4,25.0,See inspection reports: Q:\Inspection Reports\ASM_Nexx\K17255594 REV 4\P471816,Dimensional,Cosmetic
+16,7/23/2021,5585.0,P472213,713-A15460-012,A,11.0,DEPTH 8.00 ±.25 IS 9.4,Dimensional,Cosmetic
+17,7/23/2021,5586.0,SCI469331,0041-85630,03,2.0,"RELEASED TO CLEANING
+2PCS FOUND WITH  CONTAMINATION (MATERIAL ATTACHED CANT BE REMOVED)",Cosmetic,Cleaning
+18,7/23/2021,5587.0,469112,15-431472-00,E,1.0,"part was damaged, craked on the edge sheet 1 zone c7. see pictures on file",Cosmetic,Cosmetic
+19,7/23/2021,5588.0,466577,15-431463-00,E,6.0,"PARTICLES IN THE COATING AND DEEP SCRATCHES 
+PARTS TO BE SCRAP",Cosmetic,Scratches
+20,7/26/2021,5589.0,469393,0042-24584,02,5.0,52.3 ±.5 IS 48.53,Dimensional,Cosmetic
+21,7/26/2021,5590.0,cp469951,0021-04297,03,1.0,"S/N: 301514-2721-03165 SHEET 1 OF 2 ZONE: B-2 PART GOT DROPPED WHILE BEING INSPECTED, DAMAGING THE PART ON ONE OF THE CORNERS",Dimensional,Cosmetic
+22,7/26/2021,5591.0,P467752,0815792-001,AA,1.0,"S/N: CHA-0001 SHEET 4 OF 4, ZONE B-2, WELD PER BEST PRACTICE.
+NOTE 7:
+A. HELIUM LEAK TEST UNDER VACUUM AT 10^-4 mbar L/S LIMIT
+B. POSITIVE CDA PRESSURE @ 100 +/-5 PSI. ASSEMBLY SHALL HOLD PRESSURE FOR 2 HOURS
+WITHOUT LOSING MORE THAN 5 PSI. LEAKS AT PLUGS AND WELDED FEATURES ARE NOT
+ACCEPTABLE. 
+
+ACTUAL : LEAKS",Functional,Leaking
+23,7/27/2021,5592.0,MT-P467506,0042-36567,03,2.0,"Sh4, Section M-M -- qty 2 rejected
+parts are Rev 02, should be Rev 03
+(Laser engraved) part marking of ""ROBOT AUTOCALIBRATION FOUP"" missing. Supplier part marked per Rev 02",Workmanship,Cosmetic
+24,7/28/2021,5593.0,469183,515-269973-400,C,25.0,PR-081226 WAS DENIED AND PARTS TO BE REJECTED FOR DISCOLORATION IN,Cosmetic,Color
+25,7/28/2021,5594.0,465952,515-269973-400,C,14.0,"PARTS REJECTED DUE TO MTL DISCOLORATION, PR-081226 WAS REJECTED",Cosmetic,Color
+26,7/28/2021,5596.0,MT-P471436,0021-53975,02,1.0,"Zone C3: 2x M2 x 0.4 thread depth should be .157"" ± .005"", measures undersized at .130"" and .147""",Dimensional,Threads
+27,7/29/2021,5597.0,sci469313,0022-18897,03,41.0,Parts failing dimensions per print. …..,Dimensional,dimension
+28,7/30/2021,5598.0,467146,212T0351-17,31,1.0,Ø.713 +.002/-000 IS .731,Dimensional,Cosmetic
+29,7/30/2021,5599.0,468378,0041-93977,02,1.0,Flatness OOT. Actual is 3.4mm s/b  .06mm ,Dimensional,GD&T
+30,7/30/2021,5600.0,MT-471563,0022-63395,1,4.0,"Ref Zone D4, note 7: Part marking orientation is flipped 180° (should follow orientation of logo per print); parts pass dimensionally",Workmanship,dimension
+31,7/30/2021,5601.0,P470097,0051-44078,3,5.0,"PARTS REJECTED FOR BAD NPT THREAD
+1/4 NPT GAGE GOES ALL THE WAY",Workmanship,Threads
+0,8/2/2021,5602,470463,0042-35485,2,1.0,Scratches,Cosmetic,Scratches
+1,8/3/2021,5603,P472490,713-256314-305,C,26.0,PARTS REJECTED DUE TO COSMETICS PARTS HAVE SCRATCHES ALL THRU THE PART,Cosmetic,Scratches
+2,8/3/2021,5604,P472489,713-256314-007,B,26.0,PARTS REJECTED DUE TO COSMETICS PARTS HAVE SCRATCHES ALL THRU THE PART,Cosmetic,Scratches
+3,8/3/2021,5605,P472488,713-256314-004,C,26.0,PARTS REJECTED DUE TO COSMETICS PARTS HAVE SCRATCHES ALL THRU THE Part,Cosmetic,Scratches
+4,8/3/2021,5606,P472486,713-256314-006,B,26.0,"PARTS REJECTED FOR COSMETIC ISSUES. SCRATCHES ALL THRU THE PARTS,",Cosmetic,Scratches
+5,8/3/2021,5607,RTM473425,0022-91515,01,1.0,"Part is cracked/torn in half at 2 places, pics stored in job folder. RTV
+NonConf:5607 WORK WORKMANSHIP",Workmanship,cracked
+6,8/6/2021,5608,it-e470619,CHP-INT-00090,01,12.0,SEVERAL DIMENSIONS ARE OUT OF TOLERANCE PART DOES NOT MEET PRINT  SPECS .,Dimensional,dimension
+7,8/6/2021,5609,P469955,0022-82527,02,5.0,DIMENSION OUT OF TOLERANCE,Dimensional,dimension
+8,8/9/2021,5610,CP472269,0041-79463,07,6.0,EA 08/06: qty 6 rejected due to defects within material. Reference 0250-63743 Rexolite Insulater Plate Inspect,Defective Mtrl(cosmetic),Material
+9,8/9/2021,5611,RTM472618,0042-29227,01,2.0,"C.B IN ALL HOLES PER PRINT SHOULD BE .305 +.001/-.000
+ ACTUAL DIM. IS .298 /.299",Dimensional,dimension
+10,8/10/2021,5612,P472491,713-284202-001,B,26.0,PER MANUFACTURE RECOMENDATIONS Ø SIZE SHOULD BE .187+.003 /-.000 ACTUAL IS BETWEEN .240/.242,Dimensional,Cosmetic
+11,8/10/2021,5613,P472487,713-284202-002,B,26.0,PARTS REJECTED DUE TO NOT FOLLOWING MANUFACTURER RECOMMENDATIONS CAUSING Ø TO BE OVER SIZE FOR HARDWARE INSTALLATION,Dimensional,Cosmetic
+12,8/10/2021,5614,472648,0022-88436,01,22.0,DIMENSION OUT,Dimensional,dimension
+13,8/10/2021,5615,P469014,839-A40615-001,B,6.0,"Reference Sh2, Section B-B. 2x ø1.112"" ± .002"" measures oversized (as high as 1.132""). Does not fit in mating assembly as is
+Job also does not have inspection OP after welding",Dimensional,Assembly
+14,8/12/2021,5616,P473541,0022-50283,03,3.0, parts rejected due to not meeting print missing chamfer per sheet 1 zone D,Dimensional,Cosmetic
+15,8/13/2021,5617,RPM470994,713-002617-009,B,1.0,DING ON EDGE OF THE PART NEXT TO ENGRAVING,Cosmetic,Cosmetic
+16,8/16/2021,5618,P470495,0022-81883,02,11.0,EDGE OF PLANE FOR  95 DEGREES DAMAGED WHEN POLISHING PARTS DEFORMED EDGE NOT POSSIBLE TO MEASURE THIS FEATUIRE,Workmanship,Cosmetic
+17,8/17/2021,5620,P471910,K17270038,P01,1.0,DIMENSION OUT,Dimensional,dimension
+18,8/17/2021,5621,p470493,"0022-81823,",01,40.0,THRU POS O. TOL IN BOTH THREADED HOLES  NEED TO ADJUST TO NOMINAL DISTANCE,Dimensional,Threads
+19,8/17/2021,5622,P470491,"0022-81884, ",01,36.0,THRU POS OUT OF TOL. IN BOTH THREADED HOLES  NEED TO ADJUST TO NOMINAL DISTANCE,Dimensional,GD&T
+20,8/17/2021,5623,asm465945,0010-84316,03,2.0,Leaks ,Workmanship,Leaking
+21,8/17/2021,5624,SCI464770,0041-90121,02,36.0,"1) Inserts are not installed properly: either below or above surface of tanks.
+2) There are something like rust (corrosion or oxidation) on inserts.",Workmanship,surface finish
+22,8/19/2021,5625,P471912,K17270040,P01,1.0,Dimensional Issue,Dimensional,dimension
+23,8/19/2021,5626,CP471589,0041-83493,07,1.0,EA 08/18: qty 1 (SN 2921-0004) rejected due to damage while installing 1x item 3. reference location Sh1 C6,Cosmetic,transit damaged
+24,8/19/2021,5627,P473082,0042-46475,02,1.0,Broken side,Workmanship,transit damaged
+25,8/20/2021,5628,CP471589,0041-83493,07,4.0,PARTS HAVE SPEC / FOREIGN OBJECT IN PLASTIC,Cosmetic,Cosmetic
+26,8/20/2021,5629,469658,715-212651-001,C,12.0,Dim  3.260 +.003/-.000   is under size  actual dim. in all parts ranges from 2.556 to 2.558,Dimensional,dimension
+27,8/20/2021,5630,MT-473000,19-431355-00,A,11.0,"qty 11 pieces undersized in OAL: .750"" ± .005"" measures .718-.734""",Dimensional,Cosmetic
+28,8/23/2021,5631,P471861,713-A15228-005,B,5.0,"DIM 1.065 +/-.005 OUT OF TOL.   ACTUAL RANGES FROM  1.071 TO 1.0725
+DIM  1.496 +/- .005   ACTUAL   1.5025
+FLATNESS  PER PRINT SHOULD BE .005  ACTUAL IS .006/.007",Dimensional,dimension
+29,8/25/2021,5632,p472259,0042-41479,01,5.0,Item #2 - damage. Cosmetic unacceptable,Cosmetic,transit damaged
+30,8/25/2021,5633,CP472876,0022-86022,02,2.0,PER PRINT DIAM SHOULD BE 2.658 +.004/-.000  ACTUAL DIM IN 2 PARTS IS 2.654,Dimensional,dimension
+31,8/30/2021,5634,P472991,713-330513-021,E,2.0,WIDTH OF SLOT S/B .236±.010 IS .247 TO .248,Dimensional,Cosmetic
+32,8/30/2021,5635,MT-ASM470992,0022-81433,01,40.0,EA 08/27: qty 40 pieces rejected; parts are not engraved per print (method 2 per note 10),Workmanship,Cosmetic
+33,8/30/2021,5636,P472992,713-330513-022,G,2.0,Dimension Out,Dimensional,dimension
+34,8/30/2021,5637,E473778,713-121109-202,A,5.0,If dimension is calling out 14.5 with ISO tolerance of ±0.2 then part can only be between 14.7 and 14.3. Actual parts are measuring between 16.95 and 17.00 ,Dimensional,dimension
+35,8/30/2021,5638,473992,713-121109-202,A,5.0,If dimension is calling out 14.5 with ISO tolerance of ±0.2 then part can only be between 14.7 and 14.3. Actual parts are measuring between 16.95 and 17.01,Dimensional,dimension
+36,8/30/2021,5639,474283,"0022-81883, ",02,12.0,R.10 MAX  OVER SIZE DUE TO  EDGE BEEN DEFORMED WHEN POLISHING,Workmanship,Cosmetic
+37,8/30/2021,5640,469655,713-A09402-001,B,1.0,MISSING P/N ENGRAVING,Workmanship,Cosmetic
+38,8/30/2021,5641,CP471700,0042-35193,03,2.0,"PER PRINT THRU POS .25 OF 12.7 HOLES OUT OF TOL.   ACTUAL READINGS ARE .35 AND .37
+DEPTH OF 6.0 HOLE SHOULD BE 55 +.5/-0   ACTUAL IS 54.7",Dimensional,GD&T
+39,8/31/2021,5642,470840,0042-28853,01,1.0,THRU POS ON SEVERAL  HOLES ARE OUT OF TOLERANCE,Dimensional,GD&T
+40,8/31/2021,5643,P460888,0020-54198,03,3.0,DIMENSION OUT OF TOLERANCE,Dimensional,dimension
+41,8/31/2021,5644,p474297,0200-29468,01,1.0,Flatness .002 is .005 and nick on the flatnees side,Dimensional,Cosmetic
+42,8/31/2021,5645,472258,0042-39441,01,3.0,"PARTS FAILING   THRU POS. 
+SPECS ARE THRU POS. .13 FOR 12.0 +.12/-0 HOLES 
+THRU POS .13 FOR  4.5+.18/-0  HOLES   ACTUAL READINGS RANGE FROM .1",Dimensional,Cosmetic
+43,8/31/2021,5646,474666,713-264541-401,E,8.0,EA 08/31: qty 8 rejected due to material discoloration (inventory purge; reference NCR5594),DMAT XDEFECTIVE MATERIAL(cosmetic),Color
+44,8/31/2021,5647,474665,713-264541-400,D,14.0,EA 08/31: qty 14 rejected due to material discoloration (reference NCR5593),DMAT XDEFECTIVE MATERIAL(cosmetic),Color
+45,9/1/2021,5648,SCI469220,0041-77449,07,3.0,Broken. Not reworkable. ,Damage(functional),transit damaged
+46,9/2/2021,5649,473407,0022-76049,02,3.0,7.50±.25 actual is 7.08-7.13,Dimensional,Cosmetic
+47,9/7/2021,5650,RMA12067,0042-25537,01,2.0,"Customer Return; 
+Shafts/Pins installed on parts are OOT and have issues with mating parts at the customer end. This was confimed at CHawk.",Functional ,GD&T
+48,9/9/2021,5651,ASM464632,0022-03764,09,1.0,Reference Sh1 Detail E and Sh2 Section J-J: qty 1 found machined incomplete. missing features,Functional ,Cosmetic
+49,9/9/2021,5652,ASM463404,0190-53195,03,2.0,EA 09/08: sensor gets stuck when threaded onto mating part; sensor is damaged when remove,Equipment Malfunction(functional),Threads
+50,9/10/2021,5653,cp473795,0042-34520,07,8.0,"Sht 1, dr loc E7 s/b Ø4.80+-0.25 actual is Ø5.18-5.2",Dimensional,Cosmetic
+51,9/11/2021,5654,RTM474908,0022-94423,01,30.0,"EA 09/09: qty 30 rejected
+Reference Section A-A view -- both sides of .250 +.000 / -.003 dimension have stepped surfaces (radius not blending into part?).  Measurement ranges from .240 to .253 due to step.
+Vendor is Condor Mfg",Dimensional,dimension
+52,9/14/2021,5655,471585,0022-82527,02,4.0,"Sht 1, dr loc D2 s/b Ø13.040+.005-.000 actual is Ø13.036-13.037.",Dimensional,Cosmetic
+53,9/14/2021,5656,473584,713-256314-004,C,26.0,".870 is .500”
+see sheet 1 zone C7 should be .87 ±.03 actula is .500 parts to be RTV per Chins Email",Dimensional,Cosmetic
+54,9/16/2021,5657,472191,CSN-0148-01,G,1.0,true position out of tolerance s/b .5 is .776,Dimensional,GD&T
+55,9/17/2021,5658,e468470,CHP-AMT-00046-1,01,1.0,"Sht2, dr loc F7 s/b R21.797 is R21.805-21.816, dr loc F8 s/b R21.697 is R21.710-21.717, dr loc F8 s/b R20.777 is R20.763-20.785, dr loc F8 s/b R20.877 is R20.883-20.885.",Dimensional,Cosmetic
+56,9/17/2021,5659,MT-P472832,0022-82547,02,2.0,"EA 09/16: qty 2 ok to release, qty 2 rejected for dimensional discrepancies.
+B2: .290 +.000 / -.005 measures .280 (1pc at one end, 1pc at center of part)
+B2: 2x .150 +.000 / -.005 measures .136 (1pc at one end)",Dimensional,dimension
+57,9/17/2021,5660,ASM466097,0022-62686,02,10.0,"M3 threads in top and bottom rows (near bends) are tight, some do not accept thread gage or will cause screw to bind when installing matin",Workmanship,Threads
+58,9/17/2021,5661,ASM466098,0022-62686,02,100.0,"M3 threads in top and bottom rows (near bends) are tight, some do not accept thread gage or will cause screw to bind when installing matin",Workmanship,Threads
+59,9/17/2021,5662,ASM468323,0022-62679 ,04,50.0,"Parts are laser engraved instead of ink stamp per note 9
+Some parts found bent, collapsing inward (see D6 on print, where 56.9 dimension is)",Workmanship,dimension
+60,9/20/2021,5664,SCI470290,0022-16225,03,3.0,478 PCS RECEIVED IN 53 BOXES ON 2 PALLETS. 3PCS HAD A REALLY BAD FINISH AND DIDNT PASS THE COSMETIC SPEC.,Workmanship,surface finish
+61,9/20/2021,5665,MT-P472990,CHM-AMT-00032,02,15.0,Parts are not silver plated per print/PO,Workmanship,Silk Screen
+62,9/21/2021,5666,sci461151,0010-68318,04,2.0,"
+two assemblies (sn 1083 and 1093 ) received from Collimated with loose or broken item 3,4 or 5
+This affects functionality, no light goes thru optical comm. 
+",Functional ,transit damaged
+63,9/21/2021,5667,MT-464906,0042-35975,06,1.0,EA 09/20: part is missing part marking per print (engraving per Note 13),Workmanship,Cosmetic
+64,9/21/2021,5668,p474583,0042-35578,03,2.0,parts rejected due to missing 4x hardware per note4 item 2 M,Workmanship,Cosmetic
+65,9/21/2021,5669,CP475419,0022-70736,02,2.0,"Sht 1, dr loc B4 s/b Ø.250+-.005 actual is Ø.264-.265,  dr loc C4 s/b tr. position .008 actual is .0176.  Serial # - mi",Dimensional,GD&T
+66,9/22/2021,5671,MT-473549,0042-31724,2,1.0,"EA 09/22: qty 1 rejected
+C7: 5.496"" ± .005"" measures 5.504"" (one side only)
+C6: 2x 2.014"" ± .005"" measures 1.986"" and 2.042""
+C6: 2x .875"" ± .005"" measures .908"" and .840""",Dimensional,Cosmetic
+67,9/27/2021,5672,470599,713-A02304-008,B,1.0,Dimesional issue,Dimensional,Cosmetic
+68,9/27/2021,5673,P474733,0022-49075,02,6.0,"DIM  58.00 +.10/ -.00  ACTUAL  IN ALL PARTS IS 57.88 TO 57.94
+GROOVE WIDTH PER PRINT SHOULD BE 1.45+/-.05 (THEORETICAL SHARP CORNER)
+ACTUAL DIM IS 1.65 TO 1.",Dimensional,dimension
+69,9/27/2021,5674,P467752,0815792-001,AA,1.0,"EA 09/24: qty 1 found leaking at 3 locations during helium test
+Reference Sh2, C4 view: leaking is found at plugs located at (33.00, 6.00) and (143.00, 20.50)
+Reference Sh2, B3 view: leaking found at plug located at (25.00, 8.50)",Workmanship,Leaking
+70,9/28/2021,5675,IT-E473810,CHP-INT-00060,05,8.0,"Dim 6.10 +/-.05    actual dim is 6.18 to 6.22
+R.250  +/-.05 actual dim . is 2.60 to 2.68
+dim 11.00 +/-.05   actualdim is 11.06 to 11.08",Dimensional,dimension
+71,9/29/2021,5676,IT-E473811,CHP-INT-00069,04,8.0," PART FAILING DIMENSIONAL INSP.
+SEVERAL DIMENSIONS ARE OUT OF TOL. 
+PART NOT MADE PER PRINT",Dimensional,dimension
+72,9/30/2021,5677,IT-E474111,CHP-INT-00068,04,8.0,PARTS  DO NOT MEET PRINT SPECS IN SEVERAL DIMENSIONS,Dimensional,dimension
+73,9/30/2021,5678,rpm472535,524-A46774-021,B,8.0,3x120° is 115.58 -128.39 and Ø419 is 417.79,Dimensional,Cosmetic
+74,10/4/2021,5679,472244,853-A18805-001 ,AA,28.0,"EA 10/04: parts have cosmetic defects; dings/dents along bottom side of air cylinder (item 1, purchased item, was received damaged from Steven Engineering). remaining parts ok to release",Cosmetic,Cosmetic
+75,10/5/2021,5680,MT-473465,0022-80171,1,2.0,"EA 10/05:
+Section A-A view: 60° chamfer measures 45°",Dimensional,Cosmetic
+76,10/7/2021,5681,P474098,0042-28191,3,11.0,"Sheet 2 of 2 Zone C-2
+Spec: .070 +/- .005
+Actual: .060 - .064 on 11pcs",Dimensional,Cosmetic
+77,10/12/2021,5682,CP474049,0041-77746,4,4.0,BLACK COMTAMINATION IN MATERIAL,Cosmetic,Material
+78,10/12/2021,5683,rtm474966,0042-47089,1,1.0,"missing part mark, fab will attempt to part mark per note 8, if not successful an sps will need to be submi",Workmanship,Part Mark
+79,10/12/2021,5684,rtm475146,0022-93215,1,1.0,"missing part mark per note 7, fab to attempt to ink-stamp sps might be needed due to small area",Workmanship,Part Mark
+80,10/13/2021,5685,RW475995,0022-24182,4,138.0,"Material color is light compared to other Chawk supplier, failing sensor test at assembly. ",Material Issue(cosmetic),Color
+81,10/14/2021,5686,ASM467735,"0051-27619, ",4,56.0,"EA 10/14: qty 56 rejected
+Item 4 (FLOW FLOW N2) labels are green, should be white",Workmanship,Cosmetic
+82,10/15/2021,5687,MT-RTM475255,0022-93694,2,4.0,PART MARK S/B ENGRAVED IS STA,Workmanship,Part Mark
+83,10/15/2021,5688,475273,713-256314-004 ,C,10.0,Missing part mark,Workmanship,Part Mark
+84,10/15/2021,5689,475274,713-256314-007,B,10.0,"Parts are rejected for cosmetics, scratches and missing part mark.",Cosmetic,Part Mark
+85,10/15/2021,5690,475275,713-256314-305,C,10.0,Missing part mark,Cosmetic,Part Mark
+86,10/15/2021,5691,MT-E474400,0022-92926,1,1.0,Missing engraving per method 2 or 16 per note 4 (machine or laser engrave),Workmanship,Cosmetic
+87,10/18/2021,5692,ASM466179,0041-25148,2,85.0,Ink stamping is rubbing off with finger (not permanently stamped per print/note),Workmanship,Part Mark
+88,10/18/2021,5693,ASM466180,0041-25148,2,15.0,Ink stamping is rubbing off with finger (not permanently stamped per print/note),Workmanship,Part Mark
+89,10/18/2021,5694,ASM467659,0022-04958,3,11.0,"Two discrepancies
+qty 3 - Section B-B view, E7: 1x M3x0.5 thread closest to bend does not accept screw
+qty 8 - Section A-A and B-B views, E2 and E7: 2x M3x0.5 thread locations on discrepant parts (in X-direction) are flipped",Workmanship,Threads
+90,10/18/2021,5695,MT-473549,0042-31724,2,1.0,"B6/7: .253"" ± .001"" wide slot and Ø .253"" ± .001"" pinhole not masked per print (see note 7)",Dimensional,Cosmetic
+91,10/19/2021,5696,MT-P471436,0021-53975,2,1.0,"EA 10/19: qty 1 rejected
+M2 thread depth measures undersized; should be .157"" ± .005"", measures .137""
+dimpling/raised surfaces outside of ",Dimensional,Threads
+92,10/20/2021,5697,RTM476163,0042-46746,1,1.0,1.485±.005 IS 1.494,Dimensional,Cosmetic
+93,10/20/2021,5698,ASM468411,0090-10016,2,6.0,"EA 10/19: qty 6 rejected
+Item 17 (tubing p/n 3860-00772) does not fit into mating part (elbow fitting p/n 3300-15201). Tube should be Ø 6.0mm, measures 6.26-6.37mm",Dimensional,Cosmetic
+94,10/20/2021,5699,471895,713-083736-001,B,1.0,PART CRACKED DURING HARDWARE INSTALLATION PLEASE SEE PICTURES ON FILE,Workmanship,cracked
+95,10/20/2021,5700,ASM468411,0090-10016,2,2.0,"EA 10/20: qty 2 rejected
+SH1 B8: Main key on J8141/J8181 BUF HD MTR connector is rotated 90°, cannot install onto assembly due to 90° rotation of elbow connector (clearance issue",Workmanship,Cleaning
+96,10/20/2021,5701,472200,CSN-0149-02,2,1.0,Flatness 3mm is 5mm,Dimensional,Cosmetic
+97,10/20/2021,5702,473504,15-431472-00,E,1.0,"Part Received Damaged from SubContractor, Corner chipped, Page 1 Zone C8, See Pictures.",Cosmetic,Cosmetic
+98,10/20/2021,5703,ASM463786,0041-61630,3,5.0,"EA 10/20: qty 5 rejected
+qty 1 o-ring groove oversized; o-ring does not stay in groove when assembled
+qty 4 damaged due to handling, cannot be repaired",Cosmetic,Assembly
+99,10/20/2021,5704,ASM470438,0022-55328,4,31.0,PER IPI DATA PARTS HAD NO ADJUSTMENT SHEET 1 ZONE E10 ADN E6 BOTH Ø ARE UN,Dimensional,Cosmetic
+100,10/21/2021,5705,P474915,0022-79895,3,4.0,"Material is PVC. Required material should be CPVC
+AMAT can only approve CPVC clear (FM4910)",Material Issue(functional),Cleaning
+101,10/22/2021,5706,474030,0022-64364,2,2.0,"Parts are missing counterbore D4, Is suppose to be .312"" with .180"" deep
+",Dimensional,Cosmetic
+102,10/22/2021,5707,SCI471170,0041-40794,3,28.0,3x .100±.010 IS .115-.135,Dimensional,Cosmetic
+103,10/22/2021,5708,p474588,0022-78868,3,9.0,Thru pos.  out of  tolerance in all ,Dimensional,GD&T
+104,10/25/2021,5709,cp473166,0021-04297,3,1.0,Surface damage,Workmanship,transit damaged
+105,10/25/2021,5710,p476313,701-021371-0001 ,6,77.0,"data collection for edgard and justin 
+73pcs to cleaning 
+77pcs rejected for workmanship and dims oot","Dimensional/
+Workmanship",GD&T
+106,10/25/2021,5711,476137,0022-82527,2,4.0,DIMENSION OUT SEE CMM REPORT,Dimensional,dimension
+107,10/25/2021,5712,RW476889,0090-10016,2,8.0,"(these are rejected parts due to inventory purge, reference NCR5700)
+SH1 B8: Main key on J8141/J8181 BUF HD MTR connector is rotated 90°, cannot install onto assembly due to 90° rotation of elbow connector (cleara",Workmanship,Cleaning
+108,10/25/2021,5713,475974,0042-18664,2,4.0,Incorrect insert used : Actual is MCMC# 96246A242 Should be: DBPN# HELT1185-4E37,Workmanship,Incorrect Part
+109,10/26/2021,5714,472247,839-A552200-001,A,40.0,"Item 1 (tube) material is incorrect. Should be 75A durometer FKM, is made out of PFA",Workmanship,GD&T
+110,10/26/2021,5715,472614,839-A552200-001,A,24.0,"Item 1 (tube) material is incorrect. Should be 75A durometer FKM, is made out of PFA
+NOTE: qty 4 of 24 are from (already were kitted to) assembly job 472240",Workmanship,GD&T
+111,10/27/2021,5716,473088,CSN-0149-02,PR.1,1.0,"Section A-A Sheet B8 Torque Width Mean 3.000 =/- 0.12mm, Values are under size. Ex 2.65mm to 2.81mm",Defective Mtrl(dimensional),Cosmetic
+112,10/27/2021,5717,P471558,0042-44581,7,2.0,PARTS ENGRAVED WITH WRONG PART #. SEE NCR FOR MULTIPLE DICREPANCIES,Dimensional,Cosmetic
+113,10/27/2021,5718,CP473637,0042-39886,3,1.0,"Sheet 2 of 9, Zone B-2,3 SPEC: DIA. 12.396 +.000/-.005 
+ACTUAL: Serial Number 301514-3721-0005 UNDERSIZE @ 12.3896",Dimensional,Cosmetic
+114,10/29/2021,5719,it-e476165,CHP-INT-00057,4,898.0,overal part dont meet print thickness should be 4.0 actual is between .36-.48 all dimesnions are oos,Dimensional,GD&T
+115,10/29/2021,5720,MT-P472990,CHM-AMT-00032,2,15.0,RING GAGE WON'T GO AND Ø.153 +.000/-.002 IS .150,sub(dimensional),Cosmetic
+0,11/3/2021,5725.0,RTM475901,0022-70095,3,3.0,Extra radius zone F5,Workmanship,Cosmetic
+1,11/3/2021,5726.0,MT-471042,0015-07316,4,1.0,"EA 11/02: damaged part
+qty 1 gasket found broken into two piece",Cosmetic,transit damaged
+2,11/3/2021,5727.0,ASM468411,0090-10016,2,2.0,"SH1 B8: Main key on J8141/J8181 BUF HD MTR connector is rotated 90°, cannot install onto assembly due to 90° rotation of elbow connector (clearance issue)",Workmanship,Cleaning
+3,11/4/2021,5728.0,476790,713-256314-004,C,10.0,Missing Part Mark,Workmanship,Part Mark
+4,11/5/2021,5729.0,474626,0022-78868,3,6.0,"6 pcs  failing for thru pos.  per specs   Thru pos. should be  .1  
+In all 6 pcs readings range from .2 to .45",Dimensional,Cosmetic
+5,11/5/2021,5730.0,ASM466595,0041-12760,3,84.0,"INVENTORY PURGE
+4x pemnuts (item 2, 3500-59011) not installed per print
+parts also not part marked per print",function,Cosmetic
+6,11/5/2021,5731.0,476628,713-256314-004,C,11.0,PARTS QUOTED COMPLET BUT RECEIVED WITH NO PART MARK,Workmanship,Part Mark
+7,11/5/2021,5732.0,472206,CSN-0149-02 ,PR.1,2.0,Ø24 is ±.13 is 24.16,Dimensional,Cosmetic
+8,11/5/2021,5733.0,472204,CSN-0148-01,G,2.0,Ø24±.13 is 24.19,Dimensional,Cosmetic
+9,11/8/2021,5734.0,475580,2532-10069,2,15.0,Part do not meet print specs.    several dimensions out of tolerance,Dimensional,dimension
+10,11/8/2021,5735.0,P476522,0270-09572,3,2.0,Roughness is out of spec,Workmanship,GD&T
+11,11/8/2021,5737.0,MT-RPM475485,715-A39209-001,B,16.0,"EA 11/08: qty 16 rejected
+Reference Sh2 A6: part is missing Ø 1.5 thru hole",Workmanship,Cosmetic
+12,11/8/2021,5738.0,475974,0042-18664,2,1.0,extra counter bore hole not per drawing,Workmanship,Cosmetic
+13,11/8/2021,5739.0,p475360,0042-47685,1,1.0,slot dimension out of tolerance,Dimensional,dimension
+14,11/8/2021,5740.0,P468388,0041-54894,4,1.0,"Overall length should be 260.5 +/- .25 
+overall length is 259mm.",Dimensional,Cosmetic
+15,11/9/2021,5743.0,P476184,0020-22262,B,2.0,Thickness is out of spec. should be 0.19 is 0.168,dimensional,GD&T
+16,11/9/2021,5744.0,ScI467193,0041-91826,3,2.0,1/2 NPT over size unacceptable,Dimensional,Cosmetic
+17,11/10/2021,5745.0,p476582,713-A35128-001,A,4.0,"Zone C7 should be .236 is .148-.152
+
+",Dimensional,Cosmetic
+18,11/11/2021,5746.0,P475397,515-304522-001,B,1.0,"PARTS REJECTED FOR MISSING ENGRAVING PER NOTE 4 AND MISSING FAI REPORT
+SUPPLIER HAS EMAILED FAI REPORT AND SHEET 1 ZONE A7 SHOWS Ø OOS. SHOULD
+BE Ø.625±.005 ACTUAL IS Ø.631",Workmanship,GD&T
+19,11/15/2021,5747.0,asm467270,0041-61630,3,1.0,damaged part on corner collapsing the oring openning,Workmanship,Cosmetic
+20,11/15/2021,5748.0,474030,0022-64364,2,2.0,Counterbore D4 should be 0.312 is 0.291-0.296,Dimensional,Cosmetic
+21,11/15/2021,5749.0,P474972,0042-47812,2,4.0,Dowel pin should be peek material is SST,Workmanship,Material
+22,11/15/2021,5750.0,ASM468048,0020-53118,3,20.0,Burr on hole zone B2,Workmanship,Burrs
+23,11/15/2021,5751.0,476316,0022-90388,2,5.0,Part was not identified by SubCotractor per Note 5.,Workmanship,Cosmetic
+24,11/15/2021,5752.0,ASM466242,0020-53118,3,100.0,Burr on hole zone B2,Workmanship,Burrs
+25,11/15/2021,5753.0,472264,713-262060-004,B,1.0,qty 1 rejected due to cosmetic damage (found at cleaning). Cannot be reworked per S.Lopez due to material,Cosmetic,transit damaged
+26,11/16/2021,5754.0,ASM466640,0041-12913,3,100.0,"Zone E7: thread for item 2 keensert (3410-00432) not accepting full length of insert, need to be chased in order to install hardware per print",Workmanship,Threads
+27,11/16/2021,5755.0,475087,713-083736-001,B,2.0,"PARTS REJECTED FOR CRACKS WITHIN THE MTL AFTER HARDWARE INSTALLATION
+PLEASE SEE SHEET 1 ZONE D8 AND C5. PICTURES SAVED ON FILE FOR MORE DETAIL
+PARTS TO BE SCRAP",Workmanship,cracked
+28,11/17/2021,5756.0,CP476066,K17271831,P2.1,2.0,dimension out of tolerace see cmm report,Dimensional,dimension
+29,11/18/2021,5757.0,472982,0022-23074,4,6.0,"PER PRINT DIM SHOULD BE   .165 +.000/-.004 ACTUAL   .16515 TO .1658
+DIM.126 +.000/-.004   ACTUAL IS .12615",Dimensional,dimension
+30,11/18/2021,5758.0,P476799,0022-90834,1,4.0,Flatness and parallelism is out of spec. Should be 0.05 is 0.18-0.20,Dimensional,GD&T
+31,11/18/2021,5759.0,CP470604,0042-22013,2,1.0,TRUE POSITION OF .001 IS .0045,Dimensional,GD&T
+32,11/18/2021,5760.0,ASM471015,0020-53118,3,97.0,Burr inside hole zone B2.,Dimensional,Burrs
+33,11/19/2021,5762.0,P472813,0270-08506,3,2.0,TP .003 IS .012,Dimensional,Cosmetic
+34,11/22/2021,5763.0,p475495,0022-30141,2,2.0,dim 14.00  -.006/-.017  out of tol. in 2 pcs actual dim is 13.78 and 13.89,Dimensional,dimension
+35,11/22/2021,5764.0,RW477668,0022-79895,3,2.0,Wrong material. Actual is PVC should be CPVC,Workmanship,Material
+36,11/22/2021,5765.0,sci471168,0041-37259,2,1.0,1 part rejected due to chip,Cosmetic,Cosmetic
+37,11/22/2021,5766.0,p473680,701-021371-0001,5,25.0,"Overall dimensions are out of spec.
+Zone B3 should be 12 is 14.63
+Zone A4 should be 8 is 10",Workmanship,dimension
+38,11/23/2021,5767.0,P475529,0042-47687,2,1.0,DIMENSION OUT OF TOLERANCE SEE CMM REPORT,Dimensional,dimension
+39,11/23/2021,5768.0,472158,129T1298,30,21.0,"SH1 E6 Thru Hole should be .150 +/- .005, 21 Parts actual is .160 - .185.",Dimensional,Cosmetic
+40,11/23/2021,5769.0,476814,1029532,1,10.0,"PART DO NOT MEET COSMETIC REQUIREMENTS 
+AFTER COATING STRESS LIKE CRACKS AND LINT ARE ON THE SURFACE PLEASE SEE PICTURES ATTACHED",Cosmetic,cracked
+41,11/24/2021,5770.0,mt-p476010,0042-47565,1,2.0,"Sht PMI_2  s/b Ø5.8+0.3-0 actual is Ø5.76.  Mark part unacceptable ( see sample ).
+Passivate cert missing ( note #9 ).",Dimensional,Part Mark
+42,11/24/2021,5771.0,476508,713-320517,B,80.0,SHT1 ZONE C6 SHOULD BE .025 IS 0,Dimensional,Cosmetic
+43,11/24/2021,5772.0,476518,713-320517-029,A,38.0,SHT1 Zone C6 should be .025 is 0,Dimensional,Cosmetic
+44,11/29/2021,5774.0,P477862,1034668,1,3.0,"SH1 B3, The height of the part is .80 - .81 when it should be .75 ± 0.0",Dimensional,Cosmetic
+45,11/29/2021,5775.0,P476248,15-374603-00,A,1.0,Zone C-5 should be 1.206 is 1.196,Dimensional,Cosmetic
+46,11/30/2021,5776.0,MT-ASM467795,0022-24590,4,100.0,"EA 11/30: qty 100 rejected; female G1/8 port does not accept mating part fully. Thread found to be tapered, should be parallel thread per ISO 228 for pipe threads.",Workmanship,Threads
+47,11/30/2021,5777.0,SCI471274 , 0022-18897,3,30.0,Slot has incorrect dimensions,Dimensional,dimension
+48,11/30/2021,5778.0,sci473209,0022-18898,3,30.0,NCR for Central Slot Dimensions. See NCR inspection report. Needs Rework,Dimensional,dimension
+49,11/30/2021,5779.0,ASM471015,0020-53118,3,97.0,BURR INSIDE HOLE ZONE B2,Workmanship,Burrs
+0,12/1/2021,5780.0,ASM463419,0090-10016,2,1.0,SH1 B8: Main key on J8141/J8181 BUF HD MTR connector is rotated 90°,Workmanship,Cosmetic
+1,12/3/2021,5781.0,MT-473549,0042-31724,2,1.0,Quote missed the addition of the 0250-52749 welding spec and not approved for the 0250-52749 welding spec. ,Workmanship,Cosmetic
+2,12/3/2021,5782.0,478511,0041-77455,3,1.0,"Part is damaged, RTV",Cosmetic,Cosmetic
+3,12/3/2021,5783.0,mt-rpm477475,515-A46865-010,B,5.0,"Sht 2, dr loc B8 s/b Ø.188+-.005 actual is Ø.194-.195.",dimensions,Cosmetic
+4,12/7/2021,5784.0,MT-477619,0040-82882,6,2.0,"Zone C6 should be .138+/-.005 is .125-.130
+Zone C8 should be 1.250+/-.005 is 1.237",Workmanship,Cosmetic
+5,12/7/2021,5785.0,mt-477619,0040-82882,6,2.0,"Zone C6 should be .138+/-.005 is .125-.130
+Zone C8 should be 1.250+/-.005 is 1.237",Workmanship,Cosmetic
+6,12/7/2021,5786.0,sci470151,0010-66750,2,1.0,19 parts is good ready for cleaning. 1 part received from stock have deep scratches ,Cosmetic,Cleaning
+7,12/6/2021,5787.0,sci470338,0041-87615,4,30.0,"PARTS REJECTED DUE TO WORKMANSHIP/ COSMETIC ISSUES
+PARTS HAVE TOOL MARKS AND SCRATCHES THROUGHT THE PARTS
+PLEASE SEE PICTURES ATTACHED",Cosmetic,Scratches
+8,12/6/2021,5788.0,475163,713-330153-003,C,8.0,"REJECTED/ C-5 STEP, 2.50 DIAMETER UNACCEPTABLE",Workmanship,Cosmetic
+9,12/6/2021,5789.0,SCI470338,0041-87615,4,80.0,REJECTED/ NO TOOLING MARK ACCEPTABLE,Workmanship,Part Mark
+10,12/6/2021,5790.0,CP476802,0041-79463,7,1.0,SN 0128 REJECTED DUE TO COSMETIC ISSUES AND MINOR SCRATCHES,Cosmetic,Scratches
+11,12/8/2021,5791.0,rtm477893,0022-86555,3,4.0,"THRU POS  FOR 2.00-.05/-.02  STUD  I OUT OF TOLERANCE IN ALL  4 PARTS.
+RADIUS 140.0 AND 150.9 +/-.25        THIS DIM. CAN NOT BE OBTAINED CORRECTLY DUE TO THE AREA OF THE CIRCUMFERENCE BEEN MEASURED IS TO SMALL.",dimensions,dimension
+12,12/8/2021,5792.0,SCI470573,0030-00527,3,1.0,1PC SCRAP ON SURFACE,Workmanship,surface finish
+13,12/8/2021,5793.0,P475914,119T0378-05,31,2.0,"Extra radius at zone D5, 1pc Zone B6 is out of spec",Workmanship,GD&T
+14,12/10/2021,5795.0,P477931,0015-10703,4,6.0,"EXPOSE MATERIAL, PAINT IS CHIPPING",Workmanship,Paint
+16,12/14/2021,5797.0,476735,0022-76769,1,3.0,Not complete radius.,Workmanship,Cosmetic
+17,12/14/2021,5798.0,476428,713-102458-009,E,8.0,"Sht 1, dr loc B5 s/b Ø11.716+-.012 actual is Ø11.691-11.693;  s/b Ø11.676+-.012 actual is Ø11.660-11.647.",dimensions,Cosmetic
+18,12/14/2021,5799.0,CP477028,0041-83493,8,1.0,SN: 207 scrapped on surface. The part was dropped.,Cosmetic,surface finish
+19,12/15/2021,5800.0,CP476802,0041-79463,7,1.0,"SN 0162
+NonConf:5800 COSM COSMETIC",Cosmetic,Cosmetic
+20,12/15/2021,5801.0,RPM475897,713-A70997,B,1.0,.02 THRU POS OUT OF TOLERANCE. IN  SEVERAL LOCATIONS.  HOLE SIZE IS  UNDER NOMINAL NO BONUS ADDED FOR THRU POS. READINGS RANGE FROM .035 TO .045.  HOLE SIZE  RANGES FROM.286 TO .291,dimensions,GD&T
+21,12/15/2021,5802.0,P478086,1035292,1,1.0,AFTER VERIFING OOT TRUE POSSITION PART FOUND TO BE OOT ON OVERAL THICKNESS SHEET 1 ZONE D3,dimensions,GD&T
+22,12/15/2021,5803.0,476885,0022-64750,2,4.0,"SH1 C4 Wrong Engraving, Subcon engraved ""AMG"" Instead of ""AWG"",",Workmanship,Cosmetic
+23,12/16/2021,5804.0,p475935,0022-95364,1,3.0,Per print  Thru pos should be .025.     parts are out of tolerance  actual readings are.045 to .10,dimensions,GD&T
+24,12/16/2021,5805.0,478879,0041-12760,3,85.0,"EA 12/16: qty 98 ok to release back to inventory
+qty 85 rejected due to missing hardware item #3 (4x 3500-59011, M3 pemnuts)",Functional,Cosmetic
+25,12/20/2021,5807.0,rtm476426,0042-47983,2,39.0,dimension 14.10 -.50/+2.5,DImensions,dimension
+26,12/20/2021,5808.0,CP476669,0022-86429,2,17.0,"TO CLEAN.
+17 UNITS: SHEET 1 ZONE B5 SHOULD BE 1.15 IS OUT OF SPEC",DImensions,GD&T
+27,12/20/2021,5809.0,cp476802,0041-79463,7,1.0,1unit was broken inside cleanroom. SN: 0164,Workmanship,transit damaged
+29,12/21/2021,5810.0,CP476669,0022-86429,2,3.0,SHEET 1 ZONE B5 SHOULD BE 1.15 IS OUT OF SPEC,Workmanship,GD&T
+30,12/21/2021,5811.0,SCI469697,0041-91826,3,3.0,NO GO FOR M3 THREAD GAGE GOES DRAWIG SH6D,Workmanship,Threads
+31,12/21/2021,5812.0,cp475630,0042-50003,1,2.0,Units 0006 and 0007   Thru pos  found out of tol.     per specs  thru pos of slots should be .003  actual readings are .005 to,dimensions,GD&T
+32,12/21/2021,5813.0,p473066,0270-11043,1,1.0,TICKNESS 1.00 ±.010 IS .920 TO .966,dimensions,Cosmetic
+33,12/22/2021,5814.0,477760,0022-94545,1,1.0,note#13 part marking omitted,Workmanship,Cosmetic
+34,12/23/2021,5815.0,MT-rpm477477,515-A46865-030,A,5.0,Exposed material after anodizing,Workmanship,Material
+35,12/23/2021,5816.0,SCI476693,0041-82718,3,20.0,"ITEM 3 DID NOT INSTALL PERPENDICULAR WITH TOP SURFACE. 
+1 UNITS HAS TOOL MARK IN TOP SURFACE",Workmanship,surface finish
+36,12/23/2021,5817.0,478084,713-256314-006,B,26.0,Missing ink stamp,Workmanship,Part Mark
+37,12/23/2021,5818.0,478080,713-256314-305,C,26.0,Missing ink stamp,Workmanship,Part Mark
+38,12/23/2021,5819.0,mt-rpm477475,515-A46865-010,B,5.0,Exposed material after anod,Workmanship,Material
+39,12/28/2021,5820.0,CP476787,0021-04297,3,1.0,"SN 04101 WAS DROPPED DURRING CLEANING AND DAMAGED CORNER ON AREA
+SHEET 1 ZONE B2",Workmanship,Cleaning
+40,12/28/2021,5821.0,RTM478651,0022-91515,2,30.0,"PARTS DAMAGED DURRING CLEANING AND PACKAGING
+2PCS TORN AND CANT BE REWORKED, SEE PICTURES ON FILE",Workmanship,Cleaning
+41,12/29/2021,5822.0,MT-472965,0040-77461,BB,20.0,"Multiple dimensions along the length of part oversized by ~.100-.150""
+See attached print",dimensions,dimension
+42,12/29/2021,5823.0,P477679,0022-48940,3,3.0,"IPI PARTS REJECTED DUE TO DIMENSIONAL ISSUE, PLEASE SEE SHEET 1 ZONE E8, C8, AND C2
+SLOT SHOULD BE 12.0±0.5 ACTUAL IS BETWEEN 17.66 AND 17.80
+DISTANCE SHOULD BE 40.0±0.5 ACTUAL IS BETWEEN 30.01 AND 30.06
+DISTANCE SHOULD BE 10.0±0.5 ACTUAL IS BETWEEN 14.76 AND 14.82",Dimensions,dimension
+43,12/30/2021,5824.0,473416,0035-00418,2,5.0,"SHT2 Zone A5: 2 holes have no diameter. Zone A5: 3.61 is 3.334-3.340, 3.17 is 2.903 - 2.916.
+Zone B4: 13.33 is 13.114-13.159, 13.78 is 13.547-13.571
+Zone A8: 4.82 is 4.720-4.770
+Zone C4: 12.93 is 13.010 - 13.025, 9.43 is 9.497
+Zone C1: 12.63 is 12.680 - 12.682",Workmanship,Cosmetic
+44,12/30/2021,5826.0,ASM459502,0021-53070,2,100.0,EA 12/30: qty 100 rejected due to missing silk screening per print,Workmanship,Silk Screen
+45,12/30/2021,5827.0,ASM463714,0195-06854,3,1.0,EA 12/31: encoder cable connector (at motor side) damaged/broken,Workmanship,transit damaged

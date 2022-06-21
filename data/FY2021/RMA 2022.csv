@@ -1,0 +1,481 @@
+﻿RMA Number,Part Number,Print,Return  Qty,RMA Date,Customer,Responsibility,Type of Issue,Status,Root cause,Corrective actions,Affect to US Chawk QPPM Y/N,Inspector,"RMA closure  on time?
+Y/N(within 45 days)",Notes
+12162,0010-62905,,1,1/4/22,AMETAGS,Customer,FUNCTIONAL,Open,,,,,,"01/04/22 Julian Deocareza: Issued RMA to Manju as Customer Paid Rework
+QN 202541791 - What: Tool brush wafer rotation speed abnormal, SP is 50 during brush open, but actual is around 38 randomly, not all wafers suffer this issue, FDC hold tool. When: During production. Where: BB2 tank. How: Need check rotation condition. Impact: FDC hold tool.  Take action: Replace Idler assy. Root cause: idler assy problem PO 4513607734 .
+01/21/22 Chin Stiltz: Received and request for RMA job.
+01/26/22 Chin Stiltz: received and released to US Assy.
+02/01/22 Zeeshan Shaukat: all operations are still open, part is still in US Assy.
+03/07/22 Zeeshan Shaukat: request sent to Yatie to provide a quote."
+12163,0010-66750,,1,1/4/22,AMATGSS,Chawk,WORKMANSHIP,Open,,,,,,"01/04/22 Julian Deocareza: Issued RMA to Jonas for evaluation
+QN 40578395 - Description: CLNR - coating issue
+wet robot door has paint defect from supplier, overlooked by previous shift attached are pictures of the affected corner. Assembly is not Physically identified with a part marking. Only lower lever part markings are present. Part was not installed on system. 01/26/22 Chin Stiltz: Received and request for RMA job from PC.
+03/10/22 Zeeshan Shaukat: the part is delivered to Zonia.
+"
+12164,0041-94880,,1,1/4/22,AMATGSS,Chawk,WORKMANSHIP,Closed,,,,,,"01/04/22 Julian Deocareza: Issued RMA to Jonas for Evaluation
+QN 40680552 - Description: Large Scratch on Drip Tray
+Found a Large Scratch on Drip Tray 0041-94880. We will need a replacement in order to ship tool. 
+Part is incorrectly stamped as 0041-94380. 01/26/22 Chin Stiltz: Received and reqeusted for RMA Job from PC.
+ 02/01/22 Zeeshan Shaukat: No open PO according to Wan Zulaikha, need to address this with Jonas
+04/06/22 Zeeshan Shaukat: shipped against S/O 64407."
+12165,04-438879-00,,1,1/7/22,LAMRC,Customer,WORKMANSHIP,Open,,,,,,"01/07/22 Chin Stiltz: Issued the RMA to Gurpreet as customer paid rework.
+NCI 1655888 - Kit is missing qty 1 of 15-431471-001. moving to MRB for possible rework. This material was picked for Bag and Tag. During the auditing process they noticed that the kit was missing 15-431471-00 qty 1. Replacement has been given. 
+This kit was received originally RTS from MRB under NCI 1389035 which was for rework for the 15-438881-00.
+Hi, 
+Please note RTV PO 4100399142 DN 805880208 for NCR 1655888.
+02/9/22 Zeeshan Shaukat: received and requested RMA job.
+02/10/22 Zeeshan Shaukat:  S/O 94996 linked to RMA.
+02/9/22 Zeeshan Shaukat: RMA job is generated and the part is notified to QA for evaluation."
+12166,713-330153-003,,1,1/7/22,LAMRC,Customer,FUNCTIONAL,Closed,,,,,,"01/07/22 Chin Stiltz: issued the RMA to Gurpreet as customer paid rework.
+NCI 1850213 - Part was opened to inspect and now needs to be cleaned to the 508-097925-001 Spec
+01/20/22 Chin Stiltz: 
+Hi, 
+Kindly note RTV PO 4100399767 DN 805914870 for NCR 1850213.
+01/21/22 Chin Stiltz: Received, request for  RMA job from PC and quote from Shalvin.
+01/24/22 Chin Stiltz: forwarded quote 129841 to the customer for approval.
+01/27/22 Chin Stiltz: Notified the customer again.
+02/15/22 Zeeshan Shaukat: Quote not approved, Lam have approved to scrap on site, form received.
+02/18/22 Zeeshan Shaukat: Part scraped in house, Singed COD form and picture sent to customer via email and relating documents saved in the RMA folder."
+12167,04-435960-00,,1,1/7/22,LAMRC,Customer,FUNCTIONAL,Closed,,,,,,"01/07/22 Chin Stiltz: Issued the RMA to Rajat as customer paid rework.
+NCI 1837623 : Scratched Window
+Please note below RTV PO details 
+Sub-Contract PO 4100398366
+Delivery for subcon. 0805840375
+TO Created 0011989841
+01/12/22 Chin Stiltz: Received, request for RMA job from PC and S/O from Jalissa.
+Quote need to be issued.
+01/13/22 Chin Stiltz: printed the  Job and request Karen to evaluate.
+01/20/22 Chin Stiltz: according to QA,
+Only one window found with scratches. However, I have rejected the balance of 7pcs due to contamination under the coating. Parts have lint, black spots and a haze with in the viewing area 
+Please note we have tried to rework ESD coated windows in the past and ended up scrapping for stress cracks. I will hold parts and wait for your instructions 
+Informed the customer per input from QA and suggest to palce new order.
+Provided COD form.
+02/01/22 Zeeshan Shaukat: No reply from customer, regarding the signed COD form, need to send another reminder.
+02/16/22 Zeeshan Shaukat: Signed COD form received from the customer, need to scrap in house. 
+02/17/22 Zeeshan Shaukat: parts given to Martin to scrap.
+02/18/22 Zeeshan Shaukat: Part scraped in house, Singed COD form and picture sent to customer via email and relating documents saved in the RMA folder."
+12168,0040-46451,,1,1/12/22,AMATGSS,Customer,FUNCTIONAL,Open,,,,,,"01/12/22 Chin Stiltz: Issued the RMA to Wendy Wong
+QN: 40600250 -   Part was received in original supplier carton box with minimal protection. 
+Multiple torn was found on the inner and outer plastic bagging. 
+Observed that the physical part is damaged.
+Original shipment is to Austin TX and DMR reversal will be submitted.
+01/13/22 Chin Stiltz: 
+Sam has submitted DMR reversal and pending.
+02/02/22 Zeeshan Shaukat: Still pending DMR reversal, need to follow up with Sam. "
+12169,0041-92905,,1,1/14/22,AMATGSS,CHAWK,FUNCTIONAL,Open,,,,,,"01/13/22 Zeeshan Shaukat:
+The RMA 12169, P/N 0041-92905, 20 pcs back to us for evaluation.
+QN no. 5727845
+0041-92905 cover is not to spec - thickness of part isn't thick enough causing damage when shipped
+All stock needs purged and QC'd - Ping Kay to look at.
+"
+12170,713-803052-001,,1,1/14/22,LAMRC,CHAWK,FUNCTIONAL,Closed,,,,,,"01/14/22 Chin Stiltz: Issued the RMA to Farhat.
+NCE number :1475659 MRBe Number :1848328
+Parts out of spec, cannot screw to bottom, casued leak 
+happened
+01/21/22 Chin Stiltz: Received and request for RMA job.
+01/24/22 Chin Stiltz: Released to QA for evaluation.
+02/3/22 Zeeshan Shaukat: Part is still with QA for evaluation, ( no S/O has been provided by Jalissa an email was sent ). notifed to Jalissa for the S/O. 02/04/22 Zeeshan Shaukat: S/O 64884 is linked to the Job RMA 12170. sent a follow up email to Gabby and Karen stating ( Gabby/Karen,
+Can we please confirm who have these parts, and if there is any update on the evaluation, So that we come to a conclusion on whose fault it is.
+Thank you,
+Zeeshan ) 
+02/07/22 Zeeshan Shaukat: the part is with Karen for evaulation.
+04/16/22 Zeeshan Shaukat: labor comments ( 2PCS OK
+1PC- not belong to CHawk- scrap and ship from stock. )."
+12171,713-229661-002,,1,1/19/22,UCT,CHAWK,DIMENSIONAL,Closed,,,,,,"01/19/22 Chin Stiltz: Issued the RMA to Regina to forward it to the customer.
+QN 200029932- Leak Check Failure
+01/26/22 Chin Stiltz: Received and request Job from PC, S/O from Regina.
+01/27/22 Chin Stiltz: Released to QA/Karen for evaluation.
+02/01/22 Zeeshan Shaukat: Parts are still with QA for evaluation."
+12172,304-15695-00,,1,1/20/22,MATT,CHAWK,DIMENSIONAL,Closed,,,,,,"01/20/22 Chin Stiltz: Issued the RMA .
+QN200018128/ Reject for I.D. out of spec.
+Should be Ø13.080""±.005""
+Measures Ø13.0716""
+The I.D. for the four pieces measured:
+Ø13.0705”
+Ø13.0688”
+Ø13.0703”
+Ø13.0725”
+01/20/22 Chin Stiltz: 
+Received and request for RMA job from PC.
+01/22/22 Chin Stiltz: According to QA, do not meet the print spec.
+Will need address.
+02/01/22 Zeeshan Shaukat: Parts are OOS, need to follow up with Ron Colombo and team. 02/03/22 Chin: adressed with Ron again and pending his input. 02/04/22 Zeeshan Shaukat: A follow up email was sent to Ron by Chin Stating ( Hi Ron,
+ 
+Is that it?  There are other future orders as I have mentioned below.
+How can we improve our process? Not sure if you have a chance to address with production or not.
+ 
+Please advise.
+ 
+Thanks
+Chin ) waiting for a reply from Ron.
+04/12/22 Zeeshan Shaukat: parts are not reworkable per Karen systematically scrapped physically moved to Chin."
+12173,0010-68059,,1,1/19/22,AMATGSS,Customer,FUNCTIONAL,Closed,,,,,,"01/19/22 Chin Stiltz: Issued the RMA as customer paid rework.
+QN40633118 - BB1 B Side Tank Indention.
+Noticed an indention on the top of BB1 B side tank. Looked up the Workmanship standards for the tank PN (0041-90121) and
+it is an II-C, which rejects indentions with widths greater than 1.50mm. We measured the indention and it is slightly greater
+than 1.50 mm.**SN01144
+02/04/22 Zeeshan Shaukat: Part not received yet. 02/9/22 Zeeshan Shaukat: email sent to PC team to generate a job for the RMA.
+02/9/22 Zeeshan Shaukat: Job was generated by PC team.
+04/15/22 Zeeshan Shaukat: part shipped aganst S/O 65570."
+12174,0045-00689,,1,1/20/22,AMATSCI,Customer,FUNCTIONAL,Open,,,,,,"01/20/22 Chin Stiltz: Issued the RMA to Wendy Wong for customer paid rework.
+QN 40651504 - CT outer shield deform.
+CT outer shield deform causing problem when rotating the carriages, it will knock on each other that creating loud banging.
+02/03/22 Zeeshan Shaukat: recieved and requested RMA job from PC.
+02/05/22 Zeeshan Shaukat: RMA job created and requeated Wan to provide a zero $ S/O, and hold the S/O. and the part is notified to QA Karen for evaluation.
+02/9/22 Zeeshan Shaukat: Parts with QA for evaluation.
+03/08/22 Zeeshan Shaukat: S/O linked to the RMA job, part handed to June for rework."
+12175,853-A08141-001,,1,1/20/22,LAMRC,CHAWK,DIMENSIONAL,Open,,,,,,"01/20/22 Chin Stiltz: Issued the RMA to the Customer.
+ NCR1781989 - Front Chamber mounting holdes not built to print.
+Front chamber mounting holes S/B 0.600 in, was measured to be 0.433 in. PO 4100399898
+02/01/22 Zeeshan Shaukat: Not received yet. 
+02/9/22 Zeeshan Shaukat: part is with QA for evaluation."
+12176,0010-62724,,1,1/25/22,AMATGSS,Customer,COSMETIC,Open,,,,,,"01/25/22 Chin Stiltz: Issued the RMA to Jonas as custoemr paid rework.
+QN 40598388 - 0010-62724 dented
+when we opened the pack to install the label and found the dent right at the corner of the middle door, see pic attached.
+****Will need verify the rev prior to request for Job from PC***
+PO 4513147522 (Rev 03) 
+02/10/22 Zeeshan Shaukat: RMA received requested PC to create a job.
+02/16/22 Zeeshan Shaukat: Part evaulated, have to request for Quote.
+03/15/22 Zeeshan Shaukat: Quote not approved non transactable form received part will be sent back to the customer."
+12177,0045-00689,,1,1/26/22,AMATSCI,CHAWK,FUNCTIONAL,Closed,,,,,,"01/26/22 Chin Stiltz: Issued the RMA to wendy Wong.
+QN#40661545- Description: Part received with-out screw hole
+During de-trash team spot one of the outer shield with-out screw mounting hole (refer the attachment)
+02/01/22 Zeeshan Shaukat: Not received yet.
+02/10/22 Zeeshan Shaukat: RMA received requested PC to create a job.
+03/16/22 Zeeshan Shaukat: Job closed part reworked and moved to stock."
+12178,713-256314-004,,6,1/31/22,TKF,CHAWK,WORKMANSHIP,Open,,,,,,"01/31/22 Chin Stiltz: Issued the RMA to Jalissa.
+NCI-2022-00899: 
+1.       Received 19pcs and 6pcs – NG
+2.       Can’t be used as it is, as NG parts are not able to be readable accordingly when assembled.
+02/01/22 Zeeshan Shaukat: Pending arrival.
+02/24/22 Zeeshan Shaukat: Part received, new RMA job generated, pending QA evaulation."
+12179,0022-89355,,1,2/1/22,AMATGSS,Chawk ,WORKMANSHIP,Closed,,,,,,"02/0122 Chin Stiltz: Issued the RMA to Jennifer.
+QN40656367 - This is the replacement for QN 40646199. It has the same issue , side walls came
+loose. part is still in original package. 02/04/22 Zeeshan Shaukat: pending arrival. 
+02/10/22 Zeeshan Shaukat: RMA received requested PC to create a job.
+02/16/22 Zeeshan Shaukat: to stock against S/O 63037."
+12180,0022-89355,,1,2/1/22,AMATGSS,Chawk ,WORKMANSHIP,Closed ,,,,,,"02/01/22 Chin Stiltz: Issued the RMA to Jennifer.
+QN40663224 - Poor Bonding per engineering. 02/04/22 Zeeshan Shaukat: Pending arrival.
+02/10/22 Zeeshan Shaukat: RMA received requested PC to create a job.
+02/16/22 Zeeshan Shaukat: to stock against S/O 63568."
+12181,0010-43785,,1,2/7/22,AMETAGS,AMAT,FUNCTIONAL,Closed,,,,,,"02/07/22 Zeeshan Shaukat: RMA 12181 PN 0010-43785, Rev 02, 1 pc to return as customer paid rework on PO 4513773486 . issued to Malik. QN: 202529703 Failure Description: Rotation error. 02/9/22 Zeeshan Shaukat: pending arrival. 
+02/14/22 Zeeshan Shaukat: Part received requested PC to generate a job for evaluation.
+03/07/22 Zeeshan Shaukat: request sent to Yatie to provide a quote. 
+03/17/22 Zeeshan Shaukat: shipped back to the customer, tracking info provided to the customer."
+12182,0010-43785,,1,2/7/22,AMETAGS,AMAT,FUNCTIONAL,Closed,,,,,,"02/07/22 Zeeshan Shaukat: RMA 12182 PN 0010-43785, Rev 02, 1 pc to return as customer paid rework on PO4513773490 . issued to Malik. QN: 202529722 Failure Description: Rotation error. 02/9/22 Zeeshan Shaukat: pending arrival. 
+02/14/22 Zeeshan Shaukat: Part received requested PC to generate a job for evaluation.
+03/07/22 Zeeshan Shaukat: request sent to Yatie to provide a quote.
+ 03/17/22 Zeeshan Shaukat: shipped back to the customer, tracking info provided to the customer."
+12183,0022-89355,,1,2/8/22,AMETAGS,Chawk,FUNCTIONAL,Closed,,,,,,"02/08/22 Zeeshan Shaukat: issued the RMA to Jennifer, need to verify the rev, once arrived.
+QN 40654515
+This is the replacement and is bad again
+Side walls of Gantry housing 0022-89355 separated from each other due to
+inefficient adhesive. 02/9/22 Zeeshan Shaukat: pending arrival.
+02/21/22 Zeeshan Shaukat: Part received job generated for evaluation, QA notified.
+03/07/22 Zeeshan Shaukat: part reworked and sent to stock. "
+12184,0022-89355,,1,2/8/22,AMETAGS,Chawk,FUNCTIONAL,Closed,,,,,,"02/08/22 Zeeshan Shaukat: issued the RMA to Jennifer, need to verify the rev, once arrived.
+QN40656241
+This one is the replacement for QN 40654515 but it has the same issue.
+Side walls of Gantry housing 0022-89355 separated from each other due to
+inefficient adhesive. 02/9/22 Zeeshan Shaukat: pending arrival.
+02/21/22 Zeeshan Shaukat: Part received job generated for evaluation, QA notified.
+03/07/22 Zeeshan Shaukat: part reworked and sent to stock. "
+12185,0010-62905,,1,2/9/22,AMETAGS,AMAT,FUNCTIONAL,Closed,,,,,,"02/09/22 Zeeshan Shaukat: RmA 12185 is issued to Manju as a customer paid rework on PO 4513797860.
+QN: 202585824.
+Description: [Hardware Malfunction] During process, BB2 B side RPM drop issue occurred. 02/9/22 Zeeshan Shaukat: pending arrival. 
+02/21/22 Zeeshan Shaukat: Part received job generated for evaluation. part need to be handed to Assembly for evaluation.
+03/07/22 Zeeshan Shaukat: request sent to Yatie to provide a quote. 
+03/14/22 Zeeshan Shaukat: Quote approved by customer.
+03/21/22 Zeeshan Shaukat: part shipped gainst S/O 65636."
+12186,1020597,,1,2/9/22,Mission,Chawk,WORKMANSHIP,Closed,,,,,,"02/9/22 Chin Stiltz: Issued the RMA to Regina.
+DMR03874: Material cracked
+03/12/22 Zeeshan Shaukat: part received job generated, waiting for QA evaulation.
+04/01/22 Zeeshan Shaukat: part scrapped per Gabby."
+12187,0041-93719,,1,2/11/22,AMATGSS,Chawk,WORKMANSHIP,Closed,,,,,,"02/10/22 Zeeshan Shaukat: RMA PN 0041-93719, Rev 11, Qty 1 for issued to Jennifer.
+QN 30218192: PPI INSPCETION. NON-COMPLIANCE TO DRAWING NOTE
+FAILED PER NOTE 10, TOOL MARKS AND SCRATCHES.
+0041-93719 REV 11 SN 4721-0006 NON-COMPLIANCE TO DRAWING NOTE.
+02/21/22 Zeeshan Shaukat: Part received job generated for evaluation, QA notified.
+04/15/22 Zeeshan Shaukat: reworked to STK.
+"
+12188,0042-17914,,1,2/11/22,AMATGSS,Chawk,WORKMANSHIP,Closed,,,,,,"02/10/22 Zeeshan Shaukat: RMA PN 0042-17914, Rev 08, Qty 1 issued to Jennifer.
+QN 30219859: PPI INSPECTION. NON-COMPLIANCE TO DRAWING NOTE
+FAILED PER NOTE 11, TOOL MARKED AND SCRATCHES ON SEALING SURFACE.
+0042- 17914 REV 08 SN 0001 NON-COMPLIANCE TO DRAWING NOTE.
+02/21/22 Zeeshan Shaukat: Part received job generated for evaluation, QA notified.
+04/15/22 Zeeshan Shaukat: reworked to STK.
+"
+12189,04-438879-00,,1,2/11/22,LAMRC,LAMRC,CUSTOMER REWORK,Open ,,,,,,"02/11/22 Chin Stiltz: Issue the RMA to Rajat as customer paid rework.
+NCR1503810 - Windows on PPT have marks/scratches."
+12190,0021-34335,,1,2/11/22,AMATASIA,Chawk,DIMENSIONAL,Closed ,,,,,,"02/10/22 Chin Stiltz: Issued the RMA to Wendy Wong.
+QN#30222205 - Dimensional over size. Dia 2.452 +0/-.004 (SH1-C4) _Act: 2.459 O/S
+Requested PC to provide the Job to pull 1 pc to re-inspect prior to ship.
+02/24/22 Zeeshan Shaukat: Part received, new RMA job generated, pending QA evaluation.
+03/25/22 Zeeshan Shaukat: part no reworkable scrapped by Mylene."
+12191,0010-43785,,1,2/11/22,AMETAGS,AMAT,FUNCTIONAL,Closed,,,,,,"02/11/22 Zeeshan Shaukat: RMA issued to Navya as customer paid rework on PO 4513824545. for evaluation.
+QN: 202571094: Brush roller motor adaptor damage cause Brush roller RPM abnormal
+Where: UMC12A
+When: Tool production
+Who: Cu-A02
+How:  plan replace roller adaptor
+03/07/22 Zeeshan Shaukat: request sent to Yatie to provide a quote. 
+03/17/22 Zeeshan Shaukat: shipped back to the customer, tracking info provided to the customer."
+12192,0010-62905,,1,2/11/22,AMETAGS,AMAT,FUNCTIONAL,Closed,,,,,,"02/11/22 Zeeshan Shaukat: RMA 12192 issued to Navya as a customer paid rework on PO 4513749932.
+QN 202574997: Tool BB2 B side brush gap open wafer rotation speed abnormal, SP is 50rpm, but actual is 0rpm. When: During production. Where: BB2 B side. How: Need check Idler assy. Impact: Tool FDC hold. Take action: Replace idler Assy kit. Root cause: Idler kit pro
+03/18/22 Zeeshan Shaukat: part received job requested from PC.
+04/12/22 Zeeshan Shaukat: RMA shipped against S/O 66312"
+12193,0010-62905,,1,2/11/22,AMETAGS,AMAT,FUNCTIONAL,Open,,,,,,"02/11/22 Zeeshan Shaukat: Rma 12193 issue to Navya, as a customer paid re work on PO 4513790103.
+QN 202581408: 11.3 customer run product wafer
+what: brush 1 B site wafer rotation can't reach setpoint 50RPM, actual speed was 43 RPM
+where: cleaner BB1 B side
+how: 4 hours uptime impact for hardware check"
+12194,515-002617-042,,2,1/15/22,LAMRC,LAMRC,WORKMANSHIP,Open,,,,,,"02/15/22 Chin Stiltz: Issued the RMA to Jairo.
+Input from the customer: 
+The outside holes with inserts show cracking. There are also other holes within the part show no issues and the theory is that the cleaning supplier is possibly using these same outside holes to hold the part and as a result inducing stress and cracking.
+Potential Design issue. Also, Parts approved by LAM to ship, when received, there was cracks in the insert holes. Responsibility being challenged."
+12195,0042-34520,,1,2/16/22,AMATGSS,CHAWK,FUNCTIONAL,Open/on hold before we scrap it.,,,,,,"02/16/22 Zeeshan Shaukat: RMA is issued to Jonas as supplier fault, the RMA will be evaluated and Estuardo have instructed Sam to, already submit a DMR reversal with following comments: Can we get a reversal going for this part. There is no flow test requirements, only leak test.  Please QN.
+QN 40633171: Chem Manifold did not flow to the right output in Testing. It is supposed to reach a certain value, but fails to do so. Probably a functional issue of the part. 
+Additions comments from the customer: The Chem manifold is installed on the HPC, CLNR. We do functional testing of the HPC on the CLNR and with this part installed we weren’t getting the correct water output reading on the Test fixture. It is supposed to reach the setpoint set and doesn’t reach the value desired. We got a new part and it worked fine. It might have been something with the part itself. It might have been damaged because nozzles are installed on the holes in the manifold and I think we installed the same nozzles on the different manifolds and it worked fine.
+03/07/22 Zeeshan Shaukat: the part was built wrong by us, but a DMR reversal was submitted and it was approved by the customer ( the part is on hold, before we scrap it )."
+12196,0041-77954,,1,2/16/22,AMATGSS,AMAT,FUNCTIONAL,Open,,,,,,"02/16/22 Zeeshan Shaukat: RMA issued to Jonas as customer paid rework on PO 4513767818.
+QN 40595942: CLN Crack On Module Drip Tray
+When calibrating Running Beams I put too much weight on the corner of the Module Drip Tray causing it to crack."
+12197,0041-32264,,1,2/17/22,AMATGSS,CHAWK,DIMENSIONAL,Closed,,,,,,"02/17/22 Chin Stiltz: Issued the RMA to Jonas.
+QN 30217948 - 
+Description: 0041-32264;SN0007;Rev03;Out Of Spec
+PPI Inspection. The following dimensions are out of tolerance
+SHT7-B7, Parallelism, spec. is .010"" Max, actual .0236""
+SHT8-A4, Dimension, spec. is .450 ±.010"", actual .445 - .423"" Slot is tapered inside to out.
+SHT8-A4, Dimension, spec. is 2.500 ±.010"", actual 2.4844
+SHT8-A4, Dimension, spec. is 4.500 ±.010"", actual 2.4838
+SHT8-C4, Dimension, spec. is 3.833 ±.005"", actual 3.8200
+SHT8-C4, Dimension, spec. is 3.883 ±.005"", actual 3.8706
+SHT8-B3,Dimension, spec. is 7.106 ±.010"", actual 7.1178 - 7.1209
+**Shipped rev 03 parts on S/O 61614 without ESW or approval from the customer***
+04/06/22 Zeeshan Shaukat: part ok to scrap per Justin, part scrapped systematically ( physically moved to SGP CR to help with packaging )."
+12198,0041-32264,,1,2/17/22,AMATGSS,Chawk,DIMENSIONAL,Closed,,,,,,"02/17/22 Chin Stiltz: Issued the RMA to Jonas.
+QN 30218329
+Description: 0041-32264;SN0004;Rev03;Out Of Spec
+Containment Inspection. The following dimensions are out of tolerance
+SHT7-B7, Parallelism, spec. is .010"" Max, actual .0111""
+SHT8-A4, Dimension, spec. is .450 ±.010"", actual .4345 - .413"" Slot is tapered inside to out.
+SHT8-A4, Dimension, spec. is 2.500 ±.010"", actual 2.4829
+SHT8-A4, Dimension, spec. is 4.500 ±.010"", actual 2.4851
+SHT8-C4, Dimension, spec. is 3.833 ±.005"", actual 3.8231
+SHT8-C4, Dimension, spec. is 3.883 ±.005"", actual 3.8734
+SHT8-B3, Dimension, spec. is 7.106 ±.010"", actual 7.1198 - 7.1204
+04/06/22 Zeeshan Shaukat: part ok to scrap per Justin, part scrapped systematically ( physically moved to SGP CR to help with packaging )."
+12199,0041-92905,,10,2/18/22,AMATGSS,Chawk,OTHER SEE RMA DESCRIPTION,Closed,,,,,,"02/18/22 Zeeshan Shaukat: RMA is issued to Alexis, An on going FA is taking place and if the root cause is due to adesign issue a DMR reversal will sent to the customer.
+QN 30218510: : PN 0041-92905, cover is too thin, being damaged during assembly. additional comments: All covers are too thin, causing them to be crushed during installation.
+03/18/22 Zeeshan Shaukat: Parts have been scaraped, picture saved in the RMA folder."
+12200,0010-59820,,1,02/18/22,AMATGSS,Chawk,WORKMANSHIP,Open,,,,,,"02/18/22 Zeeshan Shaukat: RMA is issued to Jonas as a supplier fault.
+QN 40669343: Door can built incorrectly
+0010-59820, door assembled incorrectly, bottom of door is too  low and unable to close even when readjusting hinges. Lower lip of door hits frame when trying to close."
+12201,0022-82911,,1,2/22/22,AMATGSS,Chawk,DIMENSIONAL,Open,,,,,,"02/22/22 Zeeshan Shaukat: RMA issued to Jonas as supplier fault.
+QN 30221266 : SPRAY BAR HPC
+0022-82911 REV05; Serial#CP472183; Fail to meet Spec 
+CON Inspection. The following dimensions are out of tolerance 
+ SHT1-B2, Flatness, spec. is .3mm Max, actual .50 mm 
+ SHT1-B2, Parallelism, spec. is .5mm Max, actual 1.60 mm 
+Part is bowed*
+NOTE: the location specified on the QN is incorrect its SHT1-B2, whereas the location should be SHT1-D6. (for flatness and parallelism) per drawing."
+12202,0022-82911,,1,2/18/22,AMATGSS,Chawk,DIMENSIONAL,Open,,,,,,"02/22/22 Zeeshan Shaukat: RMA issued to Jonas as supplier fault.
+QN 30222024: Description: SPRAY BAR HPC
+0022-82911 REV05; Lot#CP472183; Fail to meet Spec 
+CON Inspection. The following dimensions are out of tolerance 
+SHT1-B2, Parallelism, spec. is .5mm Max, actual 1.40 mm.
+NOTE: the location specified on the QN is incorrect its SHT1-B2, whereas the location should be SHT1-D6. (for flatness and parallelism) per drawing."
+12203,0022-82911,,1,2/22/22,AMATGSS,Chawk,DIMENSIONAL,Open,,,,,,"02/22/22 Zeeshan Shaukat: RMA issued to Jonas as supplier fault.
+QN 30221266: SPRAY BAR HPC
+0022-82911 REV05; Fail to meet Spec 
+CON Inspection. The following dimensions are out of tolerance 
+ SHT1-B2, Flatness, spec. is .3mm Max, actual .50 mm 
+ SHT1-B2, Parallelism, spec. is .5mm Max, actual 1.60 mm 
+Part is bowed*
+NOTE: the location specified on the QN is incorrect its SHT1-B2, whereas the location should be SHT1-D6. (for flatness and parallelism) per drawing."
+12204,0022-82911,,1,2/22/22,AMATGSS,Chawk,DIMENSIONAL,Open,,,,,,"02/22/22 Zeeshan Shaukat: RMA issued to Jonas as supplier fault.
+QN 30221266: SPRAY BAR HPC
+0022-82911 REV05; Fail to meet Spec 
+CON Inspection. The following dimensions are out of tolerance 
+ SHT1-B2, Flatness, spec. is .3mm Max, actual .50 mm 
+ SHT1-B2, Parallelism, spec. is .5mm Max, actual 1.60 mm 
+Part is bowed*
+NOTE: the location specified on the QN is incorrect its SHT1-B2, whereas the location should be SHT1-D6. (for flatness and parallelism) per drawing."
+12205,0022-82911,,1,2/22/22,AMATGSS,Chawk,DIMENSIONAL,Open,,,,,,"02/22/22 Zeeshan Shaukat: RMA issued to Jonas as supplier fault.
+QN 30221266: SPRAY BAR HPC
+0022-82911 REV05; Fail to meet Spec 
+CON Inspection. The following dimensions are out of tolerance 
+ SHT1-B2, Flatness, spec. is .3mm Max, actual .50 mm 
+ SHT1-B2, Parallelism, spec. is .5mm Max, actual 1.60 mm 
+Part is bowed*
+NOTE: the location specified on the QN is incorrect its SHT1-B2, whereas the location should be SHT1-D6. (for flatness and parallelism) per drawing."
+12206,0022-82911,,1,2/22/22,AMATGSS,Chawk,DIMENSIONAL,Open,,,,,,"02/22/22 Zeeshan Shaukat: RMA issued to Jonas as supplier fault.
+QN 30221266: SPRAY BAR HPC
+0022-82911 REV05; Fail to meet Spec 
+CON Inspection. The following dimensions are out of tolerance 
+ SHT1-B2, Flatness, spec. is .3mm Max, actual .50 mm 
+ SHT1-B2, Parallelism, spec. is .5mm Max, actual 1.60 mm 
+Part is bowed*
+NOTE: the location specified on the QN is incorrect its SHT1-B2, whereas the location should be SHT1-D6. (for flatness and parallelism) per drawing."
+12207,713-213582-510,,1,2/22/22,LAMRC,Chawk,WORKMANSHIP,Open,,,,,,"02/22/22 Chin Stiltz: Issued the RMA to Sergio.
+NCI 1777094 - part not to print, Silkscreen incorrect color.
+Zero in stock and no open orders but informed QA.
+03/15/22 Zeeshan Shaukat: Part received job generated, requested Yatie to provide a internal quote."
+12208,713-A78663-002,,1,2/23/22,LAMRC,Chawk,OTHER SEE RMA DESCRIPTION,Closed,,,,,,"02/23/22 Zeeshan Shaukat: the RMA is issued to LAM per Gabby, we shipped the part without a FAIR, whereas the fair was required. but it was not added by the PC team.
+03/08/22 Chin Stiltz: FAI is approved and shipped back to the cutomer, tracking number : 1Z46885W1295107765.
+Closed the RMA"
+12209,713-256314-004,,1,2/23/22,TKF,Chawk,WORKMANSHIP,Open,,,,,,"02/2/22 Chin Stiltz: Issued the RAMA to Jae.
+ NCI-2022-01666 - Received 29pcs and found out 1pc that marking direction in reverse and letter seems removed as well."
+12210,713-256314-006,,5,2/24/22,TKF,Chawk,WORKMANSHIP,Open,,,,,,"02/23/22 Chin Stiltz: Issued the RMA to Jae.
+NCI-2022-01664: Direction of Part marking issue.
+03/18/22 Zeeshan Shaukat: parts handed to Olga team, by Gabby."
+12211,713-229661-002,,3,2/25/22,UCT,Chawk,FUNCTIONAL,Closed,,,,,,"02/25/22 Zeeshan Shaukat: RMA is issued to Regina for UCT. 
+QN 200031038 : failed leak test rtv. (already issued three different RMA's to the same customer with the same part number). ( the whole batch of this part number was affected due to wrong surface finish)."
+12212,0041-32264,,1,2/28/22,AMATGSS,Chawk,DIMENSIONAL,Open ,,,,,,"02/28/22 Zeeshan Shaukat: RMA issued to Jonas on part no. 0041-32264. two more RMA's has been issued on the same issue QN 30219193: 0041-32264;SN0005;OOS -CON
+See QNs 30217948 and 30218329 for reference - RTV. ( description from the previous QN:0041-32264;SN0004;Rev03;Out Of Spec
+Containment Inspection. The following dimensions are out of tolerance 
+SHT7-B7, Parallelism, spec. is .010"" Max, actual .0111"" 
+SHT8-A4, Dimension, spec. is .450 ±.010"", actual .4345 - .413"" Slot is tapered inside to out. 
+SHT8-A4, Dimension, spec. is 2.500 ±.010"", actual 2.4829 
+SHT8-A4, Dimension, spec. is 4.500 ±.010"", actual 2.4851 
+SHT8-C4, Dimension, spec. is 3.833 ±.005"", actual 3.8231 
+SHT8-C4, Dimension, spec. is 3.883 ±.005"", actual 3.8734 
+SHT8-B3, Dimension, spec. is 7.106 ±.010"", actual 7.1198 - 7.1204 )."
+12213,0041-32264,,1,2/28/22,AMATGSS,Chawk,DIMENSIONAL,Open ,,,,,,"02/28/22 Zeeshan Shaukat:  RMA issued to Jonas on part no. 0041-32264. two more RMA's has been issued on the same issue QN 30219194: : 0041-32264;SN0006;OOS -CON
+See QNs 30217948 and 30218329 for reference - RTV. ( description from the previous QN:0041-32264;SN0004;Rev03;Out Of Spec
+Containment Inspection. The following dimensions are out of tolerance 
+SHT7-B7, Parallelism, spec. is .010"" Max, actual .0111"" 
+SHT8-A4, Dimension, spec. is .450 ±.010"", actual .4345 - .413"" Slot is tapered inside to out. 
+SHT8-A4, Dimension, spec. is 2.500 ±.010"", actual 2.4829 
+SHT8-A4, Dimension, spec. is 4.500 ±.010"", actual 2.4851 
+SHT8-C4, Dimension, spec. is 3.833 ±.005"", actual 3.8231 
+SHT8-C4, Dimension, spec. is 3.883 ±.005"", actual 3.8734 
+SHT8-B3, Dimension, spec. is 7.106 ±.010"", actual 7.1198 - 7.1204 )."
+12214,0022-86003,,10,2/28/22,AMATGSS,AMAT,WORKMANSHIP,Open,,,,,,"02/28/22 Zeeshan Shaukat: RMA issued to Jennifer. for QN 30222237: Wrong parts from vendor. PTN and vendor label on boxes state 0022-86003 but
+individual parts inside have label for 0022-83003. No current stock for
+0022-83003. Two boxes for total of x10 parts.
+2.18.22 CR - Package has label from vendor with 0022-86003 but parts in box are
+0022-83003. RTV supplier fault
+RTV'd x10 2/22/2022
+NOTE: Need to verify the part number and label, prior requesting for a RMA Job. Shipping Error."
+12216,0021-34335,,1,3/1/22,AMATASIA,Chawk,DIMENSIONAL,Closed,,,,,,"03/01/22 Zeeshan Shaukat: RMA issued to Wendy.
+QN 30226614: Dimension out of spec
+Dimension out of spec: 
+Spec: SH1,C4_Ø2.452 +0.000/-0.004 
+Actual: 2.4607
+03/16/22 Zeeshan Shaukat: Part received requested PC to generate a job.
+03/25/22 Zeeshan Shaukat: part no reworkable scrapped by Mylene."
+12217,713-079387-010,,1,3/3/22,LAMRC,Chawk,OTHER SEE RMA DESCRIPTION,Closed,,,,,,"03/03/22 Zeeshan Shaukat: RMA is issued to Jalissa, for LAM due to a Missing FAIR-VC# 1030456/PN# 713-079387-010/PO# 4502384003/REV - A.
+03/15/22 Zeeshan Shaukat: part received requested PC to generate a job.
+03/28/22 Zeeshan Shaukat: Part shipped against S/O 66000."
+12222,0041-32264,,2,3/9/22,UCT,TBD,WORKMANSHIP,Open,,,,,,"03/10/22 Chin Stiltz: Issued the RMA for rework -Justin ahs authorized.
+*****Will need verify if RTV is from UCT or Amat and upate the RMA.***
+Hello Justin,
+We have 2 here in Austin
+• Unit 1 – has corner broken and broken fittings
+• Unit 2 – has broken fittings
+thanks
+ John San Miguel  |  Program Manager  |   C: +1-512-902-5091"
+12223,0010-43785,,1,3/9/22,AMETAGS,AMAT,FUNCTIONAL,Closed,,,,,,"03/10/22 Zeeshan Shaukat: RMA is issued to Malik as a customer paid rework on PO 4513970206.
+QN 202496738 : Eval and repair
+04/12/22 Zeeshan Shaukat: the part was not reworkable and shipped back to the customer against S/O 66310."
+12224,15-431472-00,,1,3/10/22,LAMRC,LAMRC,COSMETIC,Closed,,,,,,"03/10/22 Zeeshan Shaukat: RMA issued to Lakshay as customer paid rework(PO not provided yet, requested already in the email).
+QN 1887600: FI Front Window has black flecks inside.
+04/13/22 Zeeshan Shaukat: RMA shipped against S/O 66020."
+12225,713-284202-002,,7,3/10/22,TKF,AMAT,WORKMANSHIP,Open,,,,,,"03/10/22 Chin Stiltz: Issued the RMA to Jae.
+NCI-2022-02109  - No marking & Part NFPC-632 not installed.
+We are going to arrange RMA# and hope you to prepare 7pcs of replacement at the same time"
+12226,839-346712-003,,2,3/11/22,LAMRC,LAMRC,COSMETIC,Open,,,,,,"03/11/22 Zeeshan Shaukat: RMA issued to Kanika as a customer paid rework, customer will provide a PO after the RMA is issued.
+QN 1906525 : Viewport Windows Near STN 2-3 Have Damaged Outer Window."
+12227,713-A57518-001,,1,3/15/22,LAMRC,Chawk,WORKMANSHIP,Open,,,,,,"03/14/22 Zeeshan Shaukat: the RMA is issued to jalissa, the part was shipped without a FAIR.
+customer comments ( We have PN 713-A57518-001 qty 14 on variance for missing the FAIR. The material was delivered referencing PO 4502344376. Please advise if you will be submitting the FAIR or providing an RMA number to have them returned.)"
+12231,0022-95536,,1,3/21/22,AMAT,Chawk,FUNCTIONAL,Open,,,,,,"03/21/22 Zeeshan Shaukat: RMA is issued to Carl on QN 30228059 A broken part was found at location 30RK-AHK-38-PC1
+RFID: 40700000000013872397
+PTN 693033582
+PO: 4513495953
+RTV'd x1 3/10/2022
+DMR Reversal QN: 21009595"
+12233,0022-82911,,1,3/21/2022,Chawk,Chawk,DIMENSIONAL,Open,,,,,,"03/21/22 Zeeshan Shaukat: RMA issued to Jonas, on QN 30225682 SPRAY BAR HPC
+CON Inspection. The following dimensions are out of tolerance 
+SHT1-B2, Parallelism, spec. is .5mm Max, actual 1.40 mm"
+12234,0022-82911,,1,3/21/2022,Chawk,Chawk,DIMENSIONAL,Open,,,,,,"03/21/22 Zeeshan Shaukat: RMA issued to Jonas on QN 30227904 SPRAY BAR HPC
+0022-82911 REV05; Lot#CP472183; Fail to meet Spec 
+CON Inspection. The following dimensions are out of tolerance 
+SHT1-B2, Parallelism, spec. is .5mm Max, actual 1.23 mm"
+12235,0042-34520,,1,3/22/2022,Chawk,Chawk,DIMENSIONAL,Open,,,,,,"03/22/22 Zeeshan Shaukat: RMA issued to Jonas on QN 30230289 0042-34520;Rev08;Out Of Spec
+CON Inspection. The following dimensions are out of tolerance 
+SHT1-E7, True Position, spec. is .120mm Max, actual .1282-.1395 @MMC-BONUS 
+Note 8, SHT1-F12, POU packaging, spec. per AMAT 0250-00098 paragraph 5.1, actual ""Second bag is missing"" 
+There appears to be en issue with the CAD model. CAD nominals dont match drawing."
+12236,0042-34520,,1,3/22/2022,Chawk,Chawk,DIMENSIONAL,Open,,,,,,"03/22/22 Zeeshan Shaukat: RMA issued to Jonas on QN 30228696 : 0042-34520;Rev08;Out Of Spec
+PPI Inspection. The following dimensions are out of tolerance 
+SHT1-E7, True Position, spec. is .120mm Max, actual .1489-.1569 @MMC-BONUS
+Serial Numbers:
+1 CP473795 - REJ1 Return to Sup"
+12238,713-229661-002,,1,3/22/22,UCT,Chawk,DIMENSIONAL,Open,,,,,,"03/22/22 Chin Stiltz: Issued the RMA to  Regina.
+QN ID : 200031874 - Vacuum Cup fails leak test.RTV for troubleshooting and rework or credit as needed.
+No credit will be issued, will rework and ship it back as warranty repair if do not meet the dimensions."
+12239,0041-59530,,1,3/23/22,AMATGSS,Chawk,WORKMANSHIP,Open,,,,,,"03/23/22 Zeeshan Shaukat: RMA issued to Jonas on QN 40682513 : Part # 0041-59530... Hellicoil issue
+Verify the helicoil on the plate is on the wrong side of the surface."
+12241,0041-32264,,1,3/25/22,Chawk,Chawk,FUNCTIONAL,Open,,,,,,"03/24/22 Zeeshan Shaukat:  Issued the RMA for rework to Justin for UCT.
+*****Will need verify if RTV is from UCT or Amat and upate the RMA.***
+• Unit 1 – has corner broken and broken fittings
+• Unit 2 – has broken fittings"
+12242,0042-13362,,1,3/25/22,Chawk,Chawk,DIMENSIONAL,Open,,,,,,"03/24/22 Zeeshan Shaukat: RMA issued to Lance/Ben for QN 5770887 .080 +.000 / -.006 dim is O/S from .086 to .098
+CKW: Reference page 5, zone A-7. Dimension .080 +.000/-.006 is checking from .086 to .098."
+12243,0042-23590,,1,3/25/22,Chawk,Chawk,PACKAGING,Open,,,,,,"03/24/22 Chin Stiltz: Issued the RMA to Wendy Wong to return to SGP site to evaluate.
+
+QN#40675449 - During Detrashment of the Manifold HPR mount Arm, we spotted that the side arm is broken
+ME: Packaging was not compliant with AMAT standards 0250-00098, blue corrugated plastic box was not used."
+12244,0021-40425,,3,3/29/22,AMATGSS,Chawk,WORKMANSHIP,Open,,,,,,"03/28/22 Zeeshan Shaukat: RMA issued to Jonas on QN 30231762 0021-40425 REV 04 OUT OF SPEC
+PPI INSPECTION. NON-COMPLIANCE TO DRAWING NOTE 3 
+INCORRECT ANODIZE: SPEC IS CLEAR COLOR, ACTUAL BLACK. MISSING ANODIZE( SEE PHOTOS) 
+0021-40425 REV 04 NON-COMPLIANCE TO DRAWING NOTE"
+12245,0021-40425,,1,3/29/22,AMATGSS,Chawk,WORKMANSHIP,Open,,,,,,"03/28/22 Zeeshan Shaukat: RMA issued to Jonas for QN 30231763 0021-40425 REV 04 OUT OF SPEC
+PPI INSPECTION. NON-COMPLIANCE TO DRAWING NOTE 3 
+INCORRECT ANODIZE: SPEC IS CLEAR COLOR, ACTUAL BLACK. MISSING ANODIZE( SEE PHOTOS) 
+0021-40425 REV 04 NON-COMPLIANCE TO DRAWING NOTE"
+12246,0042-34520,,1,3/29/22,AMATGSS,Chawk,DIMENSIONAL,Open,,,,,,"03/28/22 Zeeshan Shaukat: RMA issued to Jonas for QN 30229373 0042-34520;Rev08;Out Of Spec
+CON Inspection. The following dimensions are out of tolerance 
+ SHT1-E7, True Position, spec. is .12mm Max, actual .1742 @MMC-BONUS 
+(1 of 3 holes is out of position)"
+12249,0010-86295,,1,3/31/22,AMATGSS,TBD (pending DMR ),OTHER SEE RMA DESCRIPTION,Open,,,,,,"04/01/22 Chin Stiltz:
+04/01/22 Zeeshan Shaukat: RMA issued to jonas by Chin on PO 4514092028  ( fault TBD ) DMR reversal is already submitted by Sam DMR Reversal QN 21009769 - Approval Pending
+QN 40694900 CLNR. Side A pad conditioner on the preclean faults out when retracting 
+after contacting at low forces (0~2.5lbs). The pad conditioner can be 
+seen moving back to the retract position with a discontinuous movement, 
+causing a very short delay, but long enough to trigger a timeout fault. 
+After troubleshooting and replacing a few components on the preclean 
+with verified working ones, the problem persisted on side A. ME advised "
+12250,853-185006-202,,1,4/4/22,Lam(AUST),Lam(AUST),FUNCTIONAL,Open ,,,,,,"04/04/22 Zeeshan Shaukat: RMA issued to Lydia as a customer paid rework on PO ( waiting ).
+QN 1912406 process chamber drain tubing pipe is broken."
+12251,0022-09339,,6,4/5/22,AMATGSS,Chawk,OTHER SEE RMA DESCRIPTION,Open ,,,,,,"04/05/22 Zeeshan Shaukat: RMA issued to Tara per Sam's request, for the parts to be reworked. 
+QN 40698255 CLNR. Part # 0022-09339 Not to spec, The Din rail does not line up with the screw hole. Per Amat spec, supposed 25mmm, but measured 20 mm. Suggest verify on the stock and purge them out. Part not build to spec.
+( there is already a rework going on same parts according to Tafara and these will most likely to be reworked like/with the other parts)."
+12252,713-282864-037,,4,4/7/22,LAMRC,Chawk,WORKMANSHIP,Open ,,,,,,"04/07/22 Zeeshan Shaukat: RMA issued to Vishal on QN 1939130 AC PIN Contact Block difficult to install, ET had issues installing the AC Contact block PN: 713-282864-037 onto its sister component PN: 713-282864-035 during OP #2420. Out of the 
+six contact blocks we were issued four have this issue. PN: 713-282864-035 should be able to be seat onto PN: 713-282864-037 flush. When we 
+attempt to combine the two parts there is resistance which causes the two pieces to not be able to mate together without an extreme amount of 
+force. We suspect these four were built out of tolerance."
+12253,0042-46312,,1,4/7/22,AMATGSS,AMATGSS,FUNCTIONAL,Open ,,,,,,"04/07/22 Zeeshan Shaukat: RMA issued to Carl as customer paid rework on PO 4514085777, QN 40689197 Comb 0042-46312 Heli coil
+Comb 0042-46312 Heli coil came off when installing screws."
+12254,0010-84707,,1,4/7/22,AMATGSS,AMATGSS,FUNCTIONAL,Open ,,,,,,"04/07/22 Zeeshan Shaukat: RMA is issued to Jonas as customer paid rework on PO 4514129295 on QN 40668942. CLNR, BB2 Side A Rear Brush Is Offcenter
+CLNR, BB2 side A rear brush Is offcenter and closer to the left side causing the motor torque to be too high. ""Need a BB2 module 0010-84707 replacement.""
+Customer is requesting  a failure analysis -will need notify Tafara (QE) once received/Delivered to US ASSY for evaluation."
+12255,0041-94105,,1,4/7/22,AMATGSS,Chawk,OTHER SEE RMA DESCRIPTION,Open ,,,,,,"04/07/22 Zeeshan Shaukat: RMA is issued to Carl on QN 30234088 0041-94105;SN0001;Rev03;Missing FAI
+Supplier did not submit FAI, RTV to complete per buyer."
+12256,0042-24583,,1,4/12/22,AMATASIA,Chawk,FUNCTIONAL,Open ,,,,,,"04/12/22 Zeeshan Shaukat: RMA is issued to Wendy as a customer paid rework on PO ( pending ).
+QN 40680215 Fitting Elbow damaged
+Fitting Elbow damaged."
+12257,0010-43785,,1,4/12/22,AMETAGS,AMETAGS,FUNCTIONAL,Open ,,,,,,"04/12/22 Zeeshan Shaukat: RMA is issued to Dharanendhiran as a customer paid rework on PO 4514153013 .
+QN 202583781 , rotation vibration."
+12258,853-296182-402,,1,4/13/22,LAMRC,LAMRC,FUNCTIONAL,Open ,,,,,,"04/13/22 Zeeshan Shaukat: RMA is issued to Vishal as a customer paid rework on PO ( pending ).
+QN 1954663 Broken Tab on Duet 4
+While attempting to perform OP 5610.275, placing Duet 4 into module, a snap bracket on the left side of the duet got caught on the bellow filter 
+and broke. Assembly at fault. New duet will be ordered."
+12259,0041-79555,,1,4/14/22,AMATGSS,Chawk,COSMETIC,Open ,,,,,,"04/14/22 Zeeshan Shaukat: RMA is issued to Carl on QN 30229037 Part does not meet print 0041-79555_04 spec
+Sh1-C8, Note 9 Cosmetic per applied Materials 0250-01019, appendix A&F, Code
+II-B."
+12260,853-A54550-001,,1,44666,LAMRC,LAMRC,OTHER SEE RMA DESCRIPTION,Open ,,,,,,"04/15/22 Zeeshan Shaukat: RMA is issued to Alain as a customer paid rework on PO ( Pending ) on QN 1931803 DUET 2 Right Lid missing Arm sensor cables 34-382273-00 X2
+Shift change inspection found 853-A54550-001 (ASSY,LID,APT,SPRAY,INTG NOZ,FLEX,FIXED) to be missing sub-component 34-382273-00 
+(SENSOR,SOLID STATE,3-WIRE,NPN,APC CONN,A) QTY2. Bin search on all material carts was conducted and failed to locate sensor wires 
+(34-382273-00) need to complete Cell Fusion operation 3800.180.10
+This was discovered during assembly stage not de-trash inspection of Lid Assembly Kit concludes assembly at fault."

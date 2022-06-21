@@ -1,0 +1,109 @@
+﻿Issued Date,NCR #,Job Number,Part Number,Rev,NCR Qty,Description of Defect,Defect Type,Dept/Vendor at Fault,Disposition,Action Owner,"Disposition
+ Date",Completion Date,Days to complete," Cost 
+(if any) ",Comments,Status ,Corrective Action
+2/1/2022,5886,478774,1034565,1,5,"Sheet 1, dr loc C6 dims s/b .713 +/-.005 actual is .653",Dimension,QA,UAI,Erik L.,2/1/2022,2/10/2022,0, $-   ,"2/1/22- Parts were released to Erik L to rework. 
+2/10/22- Parts were re-verified by a senior inspector and determined parts were made to print. ",Closed,
+2/1/2022,5887,479750,713-284202-001,B,20,Missing Ink stamp per note 3. ,workmanship,CONDOR MANUFACTURING,RTV,Marco,2/1/2022,2/14/2022,0, $-   ,"2/1/22-Email was sent to Marco to notify the 
+ 2/14/22-Replacement parts received, re-inspected and passed inspection on 2/10/22 together with NCR 5888. ",Closed,
+2/1/2022,5888,479750,713-284202-001,B,9,MISSING INK STAMP PER NOTE 3. TOTAL 29 PCS MISSING INK STAMP (NC5887 - 20PCS AND THIS NC FOR 9PCS),workmanship,Quoting,Rework,Marco,2/1/2022,2/10/2022,0, $-   ,"2/1/22-Parts are going to supplier for rework.  Part marking was not quoted for this job. Parts will be sent out for Park marking 
+2/10/22- Reworked and passed inspection.",Closed,
+2/1/2022,5889,MT-P478951,0022-90192,2,10,Reference B5: Parts missing 16 circular finish (lay pattern) surrounding Ø .380 thru hole,workmanship,Nominal,Rework In-house,Marco,2/1/2022,2/11/2022,0, $-   ,"2/1/22-Email was sent to Marco to notify the . Update: Per Justin parts needs to be reworked inhouse. Going forward supplier will need to take care of this action. 
+Update: Parts were reworked internally.
+2/11/22- Reworked and passed inspection.",Closed,"Not quoted without polishing and not able to apply lay pattern.. 
+CA -Quote sale has to include Polishing inhouse "
+2/2/2022,5890,479748,713-256314-007,B,25,Intersection from radius .13 to front or side surface is not smooth.,workmanship,Fabrication,Rework,Marcelino,2/2/2022,2/4/2022,0, $-   ,"02/04/22 - Parts were successfully reworked in-house, re-inspected and passed inspection. ",Closed,
+2/4/2022,5891,rtm476355,0042-49431,1,1,"Item 3: SHT4 C3 should be 4.0+/-.5 is 4.96, B3 should be 19.0 is 20.40",workmanship,CNC,Rework,Erik L.,2/4/2022,2/4/2022,0, $-   ,"02/04/22- Reworked, re-inspected and passed inspection. ",Closed,
+2/4/2022,5892,470605,839-A02264-008,A,1,"EA 02/03: qty 1 rejected during top level assembly, part was issued from inventory.
+1x found with crack in item #1 near corner of item#2 when bonded together
+",Cosmetic,Assembly,Scrap,Erik A,2/4/2022,2/4/2022,0,$848.00 , 2/4/22- Part cannot be reworked as it is damaged and will be scrapped per Erik A. ,Closed,
+2/7/2022,5893,sci476557,0010-59217,5,2,"Part  0041-77571:
+1pc got damage on surface.
+1pc discoloration",workmanship,Assembly,Rework,Vlad/Louie (Assy),2/7/2022,,0,,2/7/22-Pending action from Vlad,Open,
+2/7/2022,5894,480106,515-253787-001,C,13,ZONE D8 SHOULD BE 3.533 +/- .002 IS OUT (3.5362 - 3.5389),workmanship,CONDOR MANUFACTURING,RTV,Marco,2/7/2022,2/21/2022,0, $-   ,"2/7/22-Email was sent to Marco to notify the .
+2/9/22- The replacement parts were verified by Edgard and found oot. Update: Supplier came to pick up the rejected parts. 
+2/21/22- Replacement parts received from the supplier were reinspected and passed inspection.",Closed,
+2/7/2022,5895,479153,713-299339-001,A,1,SCRACTHES,Cosmetic,CNC,Rework,Marcelino,2/7/2022,2/21/2022,0, $-   ,"2/7/22- Part was released to Marcelino to rework. 
+2/19/22-Reworked and pending inspection. 
+2/21/22- Passed inspection. ",Closed,
+2/7/2022,5896,sci474756,0051-04883,2,1,Missing 1 item 0015-04619 per BOM.,workmanship,"Crist Group, Inc",RTV,Marco,2/7/2022,2/22/2022,0, $-   ,"2/7/22-Email was sent to Marco to notify the . Update: part shipped back to supplier on 2/9
+2/14/22- A follow up email was sent to Marco regarding this issue. 
+2/22/22- Replacement part received, re-inspected and passed inspection.",Closed,
+2/7/2022,5897,p479598,0042-41673,1,2,Missing part mark per note 8.,workmanship,Nominal,RTV,Marco/Olga,2/7/2022,2/15/22`,0, $-   ,"2/7/22-Email was sent to Marco to notify the. 
+2/14/22- Replacement parts received but found to have a wrong customer code. Parts to to be reworked inhouse to fix the customer code. 
+02/15/22. Reworked and passed inspection. 
+ ",Closed,
+2/9/2022,5898,479720,0030-00526,4,13,Resistance reading greater than acceptable limit of .5,Functional,"Scientific Metal Finishing, Inc.",RTV,Marco,2/9/2022,3/3/2022,0,,"2/9/22-Email was sent to Marco to notify the 
+2/14/22- Instructed Marco to follow up with the supplier regarding this NCR. 
+2/23/22- 10 pcs replacement received and 3 more pieces are still pending from supplier.
+3/3/22-only 10 pcs replacement parts received from the supplier, and 3 were missing. JO requested to close this ncr and have PC create a new job to replace the missing parts.  2902",Closed,
+2/10/2022,5899,P476727,0022-50881,2,2,PARTS TO BE SCRAP DUE TO BEING MADE WITH WRONG MTL,Cosmetic,Purchasing,Scrap,Justin,2/10/2022,,,"$1,298.00 ","2/10/22- Parts were made with the wrong material. Parts to be scrapped.. DMR 2891
+Update: PC will issue a  new job for Nominal to make with Delrin not Acetal. Not Nominal issue. Issued a wrong material.",Closed,
+2/10/2022,5900,P476539,0022-50882,3,2,PARTS TO BE SCRAP DUE TO BEING MADE WITH WRONG MTL,Cosmetic,Purchasing,Scrap,Justin,2/11/2022,,,"$1,348.00 ","2/10/22- Parts were made with the wrong material. Parts to be scrapped. DMR 2892
+Update: PC will issue a  new job for Nominal to make with Delrin not Acetal. Not Nominal issue or Chawk issue we just had a raw material supplier make a mistake. ",Closed,
+2/11/2022,5901,SCI471320,0041-85130,5,19,DAMAGE ON FRONT SIDE GLASS SURFACE,workmanship,Welding,Rework,Erik L. (CNC area),2/11/2022,,0,,2/11/22- Request a rework job.,Open,
+2/14/2022,5902,SCI480881,0041-77570,4,2,"1PC: HOLE ALLIGNMENT ISSUE
+1PC: DAMAGE AT CORNER",workmanship,Eclipse Metal Fabrication,RTV,Marco,2/14/2022,,0,,"2/7/22-Email was sent to Marco to notify the . Update: Parts were moved to shipping for the supplier to pick up the parts.
+3/3/22- A follow up email was sent to the supplier regarding the rejected parts. 
+",Open,
+2/14/2022,5903,SCI480882,0041-77569,4,2,"1PC: BUBBLING PAINT
+1PC: INFERECTION ON PAINT",workmanship,Hill Manufacturing Co. LLC,RTV,Marco,2/14/2022,,0, Reworked / follow up with Erik and Edgard.  ,"2/7/22-Email was sent to Marco to notify the . Update: Parts were moved to shipping for the supplier to pick up the parts.
+3/7/22- Parts were pulled from stock to be inspected by Erik A to ensure the part marking was done. ",Open,
+2/14/2022,5904,SCI480884,0041-77573,4,2,"1PC: DAMAGE ON SURFACE
+1PC: HOLE OOS",workmanship,Eclipse Metal Fabrication,RTV,Marco,2/14/2022,,0,,2/7/22-Email was sent to Marco to notify the . Update: Parts were moved to shipping for the supplier to pick up the parts.,Open,
+2/15/2022,5905,478976,0042-35578,3,5,Marc B: 1/8-27 NPT gage won't go,workmanship,Nominal,Rework In-house,Marco/vlad,2/15/2022,2/21/2022,0, $-   ,"2/15/22-Email was sent to Marco to notify the supplier. 
+2/21/22- Re-work is done, parts are inspected and released to Stock.",Closed,
+2/15/2022,5906,RTM480153,0022-86555,4,1,"Jose O:
+ 1 PART REJECTED  DUE TO WORMANSHIP ANGLE WAS OVER POLISHED AND DEFORMED",workmanship,Fabrication,Rework,Marcelino/Olga,2/15/2022,,0, Reworked / follow up with Edgard.  ,"2/15/22- An email was sent to Marcelino and Olga to advise on this part. 
+2/24/22- A follow up email was sent to Marcelino and Olga. ",Open,
+2/15/2022,5907,480412,0042-03943,4,1,Alan Ruiz: SH1 F3 Cracked/Broken Corner,workmanship,Fabrication,Scrap,Marcelino,2/15/2022,2/16/22`,0,$424.00 ,"2/15/22- An email was sent to Marcelino to advise on this part. 
+2/16/22- Part is not reworkabler per Marcelino. 2896",Closed,
+2/16/2022,5908,sci471319,0010-62724,4,1,"1 parts 0041-77445, thas parts neeed, back the sub contractor missing paint. ",workmanship,CORTEC PRECISION SHEET METAL INC.,RTV,Sanjay,2/16/2022,,0,,2/16/22- Part originated in the assembly area but no part was place in the MRB cagge.3/3/22- Unable to locate the part for weeks. ,Open,
+2/17/2022,5909,RW481272,0022-89355,3,1,"PER YAN, PART FOUND WITH CRACKS / STRESS MARKS THAT ARE NOT REWORKABLE 
+PLUS BOTH SIDE WALLS COLLAPSING DUE TO PACKAGING. Cracked happened during bonding",Cosmetic,Fabrication,Scrap,Marcelino,2/17/2022,2/17/2022,0,"$2,212.00 ","2/17/22- Possible cause the adhesive was too weak so the side separated, since the side panel was loose, that caused cracks. Part to be scrapped. DMR 2897",Closed,
+2/17/2022,5910,RTM480273,0022-93375,1,3,"NOTE #8 DO NOT REMOVED PROTECTIVE FILM PROTECTIVE FILM REMOVED
+SCRATCHES ON THE WINDOW",workmanship,Nominal,Rework In-house,Marco/Gabby,2/17/2022,3/1/2022,0, $-   ,"2/17/22-Email was sent to Marco to notify the supplier. 
+2/22/22-  Parts were reworked inhouse. 
+Update: Parts had stains which were easily removed. Parts were not scratched. Follow up with Gabby to update the Epicor.  
+3/1/22- NCR is closed",Closed,Nominal will implement a new film
+2/18/2022,5911,rtm480922,0022-56831,1,2,"note#5 do not removed protective film film is removed
+part m\not stamp per amat spec",workmanship,Nominal,Rework In-house,Marco / Gabby,2/18/2022,3/1/2022,0,,"2/18/22-Email was sent to Marco to notify the supplier.
+2/22/22- Parts to be rewroked inhouse.  
+2/24/22- WIP
+3/1/22- Parts passed inspection by Marc",Closed,
+2/21/2022,5913,479379,15-344217-00,A,3,Quang: SCRATCHED ON SURFACE. CANNOT REWORK,workmanship,"SciCron Technologies, LLC",Scrap,EDGARD,2/21/2022,2/22/2022,0, $-   ,"2/21/22- Parts were releasedto Erik A to be reviewed. 
+2/22/22-  Parts were returned to CHawk by the supplier  due to parts being damaged.  Per Erik L, parts are not reworkable. DMR2898",Closed,
+2/21/2022,5914,478872,0022-21734,6,69,"Jose O: Per print dimension  2.880 +/-.005  actual is 2.868
+dim 3.170     actual is 3.162",Dimension,CNC,Rework,Erik L,2/21/2022,2/23/2022,0,0,"2/21/22- Parts were releasedto Erik Lto be reviewed. 
+2/23/22-Parts were reworked and passed inspection. Per Karen NCR-5914 was created for 69 pcs but the actual total is 106 pcs. 78 pcs passed inspection leaving 28pcs  to be scrap. 
+",Closed,
+2/21/2022,5915,SCI477240,0010-68318,4,2,"Quang: 13EA TO CLEAN
+2EA (SN:0972,0850):LIGHT PIPE IS TOO LOOSE PER NOTE 6",workmanship,COLLIMATED HOLES INC.,RTV,Marco,2/21/2022,,0,,"2/21/22-Email was sent to Marco to notify the supplier. 
+ Instructed Simone to ship the part back to supplier. 
+3/3/22- Simone has not shipped the parts back to the supplier. ",Open,
+2/22/2022,5916,475876,839-A33561-001,A,1,6-32 THREAD NO GAGE GOES,workmanship,CNC,Rework,Erik L,2/22/2022,,0,,"2/22/2022- Currently being reviewed by Erik. 
+3/3/22- In the process of remaking the  tooling for Louie, part should be reworked by 3/7 per Erik L. ",Open,
+2/22/2022,5917,479286,0040-06286,6,1,"Note 11, Indicated surfces DO NOt meet AMAT's 0250-01019 Cosmetic Spec Appendix A, Code III-B",Cosmetic,"PORT PLASTICS, INC",Rework,Erik L/MARCELINO,2/22/2022,3/2/2022,0,0,"2/22/2022- Will be reviewed by Erik A. 
+3/2/22- Part was rewroked , re-inspected and passed inspection. ",Closed,
+2/24/2022,5918,481019,713-A20408-001,A,10,"Zone B6 OD should be .430-.005/+0.0 is .437 (extra line on surface)
+Zone B6 ID should be .265 +/-.005 is .256 - .257",workmanship,Stratasys Direct Inc.,RTV,Marco,2/24/2022,,0,,"2/24/22- An email was sent to Marco to notify the supplier. 
+3/7/22- A follow up email was sent to Marco. ",Open,
+2/25/2022,5919,cp479688,0021-79620,P7,1,"Zone C6: 6x.203 is .188 - .190
+Zone A5: 14x.156 is .146 - .148",workmanship,Fabri-Tech ,RTV,Parth,2/25/2022,,0,,2/25/22-Email was sent to Parth to notify the supplier.,Open,
+2/25/2022,5920,RPM479717,504-078740-203,D,2," 2 PARTS  approved and RELEASED PER   EAS.   
+  2 UNITS UNDER NCR  OD AND ID O. OF TOL  PENDING SPS SUBMISSION
+DIM 14.035 +/-.002 ACTUAL IS 14.031     DIM  13.530 ACTUAL IS 13.527",Dimension,CNC,Rework,Jalissa/Parth,2/25/2022,,0,,"2/25/22- Per Jalissa we need to submit a PR approval to the customer.
+3/3/22- Parts will be re-measured by QC one more time to see if rework is required per Erik L. ",Open,
+2/25/2022,5921,CP478673,0041-79463,7,7,EA 02/25: qty 7 rejected due to internal material defects/debris,Cosmetic,CNC,Scrap,Erik A,2/25/2022,3/1/2022,0,"$7,000.00 ",2/25/2022 - Scrap per Erik A. DMR 2900,Closed,
+2/25/2022,5922,CP479083,0022-48115,2,10,"Zone C6: 6x.203 are .196
+Zone A5: 14 x .156 are .138",workmanship,Fabri-Tech ,RTV,Nabilah,2/25/2022,,0,,2/25/22-Email was sent to Marco /Nabilah to notify the supplier.,Open,
+2/25/2022,5923,sci474702,0042-00160,2,29,Zone D3 should be 524+/-.5 is 521,workmanship,SILEX Corp Manufacturing,RTV,Paresh,2/25/2022,,0,,"2/25/22-Email was sent to Paresh to notify the supplier.
+3/3/22- 
+Parts are still out.
+
+S/B: 524.0 -/+.5
+
+Actual :  520.98 – 521.0
+",Open,
+2/25/2022,5924,CP478673,0041-79463,7,1,"S/N 0325, part has deep scratch on surface, cannot rework",Cosmetic,CNC,Scrap,Erik A,2/25/2022,3/1/2022,0,"$1,000.00 ","2/25/2022 - Scrap per Erik A. DMR 2901.
+PC Created new job CP482065.",Closed,
+,,,,,,,,,,,,,0,,,,

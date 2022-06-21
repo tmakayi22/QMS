@@ -1,0 +1,429 @@
+﻿Issued Date,NCR #,Job Number,Part Number,Rev,NCR Qty,Description of Defect,Defect Type,Suspected Dept/Vendor at Fault,Disposition,Action Owner,"Disposition
+ Date",Completion Date,Days to complete," Cost 
+(if any) ",Comments,Status ,,,,,,,,,,,,,,,,,,,,,,, 
+8/2/2021,5602,470463,0042-35485,2,1,Scratches,Cosmetic,Fabrication,Scrap,Olga/Marcelino,8/2/2021,8/4/2021,2,$343 ,"8/2/21 - An email was sent to Olga and Marcelino regarding this issue.
+8/4/21 - Part is non-reworkable per Marcelino. DMR 2775 ",Closed,,,,,,,,,,,,,,,,,,,,,,,
+8/3/2021,5603,P472490,713-256314-305,C,26,PARTS REJECTED DUE TO COSMETICS PARTS HAVE SCRATCHES ALL THRU THE PART,Cosmetic,CONDOR MANUFACTURING,Rewor In-house,Marcelino/Edgard,8/3/2021,9/14/2021,42,$0 ,"8/3/21 - An email was sent to Marco to notify supplier. 
+8/20/21 - Supplier requested for us to rework these parts in-house. 
+ 
+A request has already been made to Marcelino/Vladimir to rework the parts in-house. 
+8/25/21 - Karen released parts to Marcelino 
+9/9/21 - Pending inspection. 
+9/14/21 - Parts were successfully reworked and passed inspection per Karen. 
+",Closed,,,,,,,,,,,,,,,,,,,,,,,
+8/3/2021,5604,P472489,713-256314-007,B,26,PARTS REJECTED DUE TO COSMETICS PARTS HAVE SCRATCHES ALL THRU THE PART,Cosmetic,CONDOR MANUFACTURING,Scrap,Marco / Marcelino,8/3/2021,8/30/1931,-32846,$0 ,"8/3/21 - An email was sent to Marco to notify supplier. 
+8/20/21 - Supplier requested for us to rework these parts in-house. 
+ 
+A request has already been made to Marcelino/Vladimir to rework the parts in-house. 
+8/25/21 - Karen released parts to Marcelino 
+9/3/21 - I have closed this NCR in Epicor as successfully reworked in-house. 
+However it was actually scrapped instead and not reworkable. PC linked demand to job 473585
+9/10/21 - Supplier provided us a replacement. Parts passed inspection
+",Closed,,,,,,,,,,,,,,,,,,,,,,,
+8/3/2021,5605,P472488,713-256314-004,C,26,PARTS REJECTED DUE TO COSMETICS PARTS HAVE SCRATCHES ALL THRU THE Part,Cosmetic,CONDOR MANUFACTURING,Rewor In-house,Marco/Marcelino,8/3/2021,9/2/2021,30,$0 ,"8/3/21 - An email was sent to Marco to notify supplier. 
+8/20/21 - Supplier requested for us to rework these parts in-house. 
+ 
+A request has already been made to Marcelino/Vladimir to rework the parts in-house. 
+8/25/21 - Karen released parts to Marcelino 
+9/2/21 - Successfully reworked in-house and passed inspection. 
+",Closed,,,,,,,,,,,,,,,,,,,,,,,
+8/3/2021,5606,P472486,713-256314-006,B,26,"PARTS REJECTED FOR COSMETIC ISSUES. SCRATCHES ALL THRU THE PARTS,",Cosmetic,CONDOR MANUFACTURING,Rewor In-house,Marco/Marcelino,8/3/2021,9/2/2021,30,$0 ,"8/3/21 - An email was sent to Marco to notify supplier. 
+8/20/21 - Supplier requested for us to rework these parts in-house. 
+ 
+A request has already been made to Marcelino/Vladimir to rework the parts in-house. 
+8/25/21 - Karen released parts to Marcelino 
+9/2/21 - Successfully reworked in-house and passed inspection. 
+",Closed,,,,,,,,,,,,,,,,,,,,,,,
+8/3/2021,5607,RTM473425,0022-91515,01,1,"Part is cracked/torn in half at 2 places, pics stored in job folder. RTV
+NonConf:5607 WORK WORKMANSHIP",Workmanship,"Fabri-Tech Components, Inc",RTV,Marco,8/3/2021,8/13/2021,10,$0 ,"8/3/21 - An email was sent to Marco to notify supplier. 
+8/12/21- Replacement part received. 
+8/13/21 - Passed inspection. ",Closed,,,,,,,,,,,,,,,,,,,,,,,
+8/6/2021,5608,it-e470619,CHP-INT-00090,01,12,SEVERAL DIMENSIONS ARE OUT OF TOLERANCE PART DOES NOT MEET PRINT  SPECS .,Dimensional,CNC,Scrap,Erik,8/6/2021,8/13/2021,7,,"8/6/21 - An email was sent to Erik regardin this NCR. 
+8/13/21- Parts are non-reworkable . DMR 2778",Closed,,,,,,,,,,,,,,,,,,,,,,,
+8/6/2021,5609,P469955,0022-82527,02,5,DIMENSION OUT OF TOLERANCE,Dimensional,CNC,Rework,Erik/ Kenny,8/6/2021,8/6/2021,0,$0 ,"8/6/21 - An email was sent to Erik regardin this NCR. 
+8/6/21 - Reworked and passed inspection. ",Closed,,,,,,,,,,,,,,,,,,,,,,,
+8/9/2021,5610,CP472269,0041-79463,07,6,EA 08/06: qty 6 rejected due to defects within material. Reference 0250-63743 Rexolite Insulater Plate Inspect,Defective Mtrl(cosmetic),"Purchasing(IPI Plastics, Inc)",RTV,Marco/Erik A.,8/9/2021,9/29/2021,51,"$5,460 ","8/9/21 - An email was sent to Marco to notify supplier
+8/16/21 - A follow up email was sent to Martin to provide instruction on how to reject material back to supplier. 
+8/20/21 -Erik A. will provide Laser light inspection training next Monday 8/23 
+9/29/21- Parts to be scrapped per Erik A. DMR 2805",Closed,,,,,,,,,,,,,,,,,,,,,,,
+8/9/2021,5611,RTM472618,0042-29227,01,2,"C.B IN ALL HOLES PER PRINT SHOULD BE .305 +.001/-.000
+ ACTUAL DIM. IS .298 /.299",Dimensional,CNC,Rework,Erik,8/9/2021,8/16/2021,7,$0 ,"8/9/21 - Parts were released to Erik for rework. 
+8/10/21 - WIP
+8/13/21 - Reworked. Pending inspection
+8/16/21 - Passed inspection. 
+",Closed,,,,,,,,,,,,,,,,,,,,,,,
+8/10/2021,5612,P472491,713-284202-001,B,26,PER MANUFACTURE RECOMENDATIONS Ø SIZE SHOULD BE .187+.003 /-.000 ACTUAL IS BETWEEN .240/.242,Dimensional,CONDOR MANUFACTURING,RTV,Marco,8/10/2021,8/24/2021,14,$0 ,"8/10/21 - Marco notified supplier regarding this issue. 
+8/16/21 - Parts picked up by the supplier
+8/24/21 - Replacement parts from supplier received and passed inspection. ",Closed,,,,,,,,,,,,,,,,,,,,,,,
+8/10/2021,5613,P472487,713-284202-002,B,26,PARTS REJECTED DUE TO NOT FOLLOWING MANUFACTURER RECOMMENDATIONS CAUSING Ø TO BE OVER SIZE FOR HARDWARE INSTALLATION,Dimensional,CONDOR MANUFACTURING,RTV,Marco,8/10/2021,8/24/2021,14,$0 ,"8/10/21 - Marco notified supplier regarding this issue. 
+8/16/21 - Parts picked up by the supplier
+8/24/21 - Replacement parts from supplier received and passed inspection. ",Closed,Rejected parts were Scrapped inhouse,,,,,,,,,,,,,,,,,,,,,,
+8/10/2021,5614,472648,0022-88436,01,22,DIMENSION OUT,Dimensional,Nominal Machining LLC,rework,Marco,8/10/2021,9/8/2021,29,$0 ,"8/10/21 - Marco notified supplier regarding this issue. 
+8/11/21- Supplier will have to remake 1 part and send it back to us for inspection before they start processing the rest of the orders. 
+8/19/21 - Purchasing will change supplier due to not having capabilities. 
+9/8/21- PC created a new job 473793 for in-house rework due to the supplier not having the capabilities. 
+Note: this NCR is voided.   ",closed,,,,,,,,,,,,,,,,,,,,,,,
+8/10/2021,5615,P469014,839-A40615-001,B,6,"Reference Sh2, Section B-B. 2x ø1.112"" ± .002"" measures oversized (as high as 1.132""). Does not fit in mating assembly as is
+Job also does not have inspection OP after welding",Dimensional,Process Issue / Programming,Rework,Erik L. Kenny,8/10/2021,8/30/2021,20,,"8/10/21 - An email was sent to Kenny to advise on this issue. 
+8/13/21- Successfully reworked. Pending inspection. 
+8/26/21 - Rework note added on sequence 66 .
+Pending closure due to incomplete data collection. 
+8/30/21 - Parts passed inspection and released by Shawn. ",Closed,,,,,,,,,,,,,,,,,,,,,,,
+8/12/2021,5616,P473541,0022-50283,03,3, parts rejected due to not meeting print missing chamfer per sheet 1 zone D,Dimensional,Geo MFG,Rework,Joe,8/12/2021,8/12/2021,,,8/12/21- Parts were successfully reworked inhouse per Joe. ,Closed,,,,,,,,,,,,,,,,,,,,,,,
+8/13/2021,5617,RPM470994,713-002617-009,B,1,DING ON EDGE OF THE PART NEXT TO ENGRAVING,Cosmetic,"SciCron Technologies, LLC",RTV,Marco,8/13/2021,8/17/2021,4,$0 ,"8/16321 - Per Jalissa this part is for testing purposes only and the most important area is flatness and vacuum seal portion. She will send pics to the customer for furthem instruction/approval.
+8/17/21 - Use as-is per customer request",Closed,,,,,,,,,,,,,,,,,,,,,,,
+8/16/2021,5618,P470495,0022-81883,02,11,EDGE OF PLANE FOR  95 DEGREES DAMAGED WHEN POLISHING PARTS DEFORMED EDGE NOT POSSIBLE TO MEASURE THIS FEATUIRE,Workmanship,FABRICATION,Scrap,Marcelino,8/16/2021,8/16/2021,0,"$1,276 ",8/16/21 - Parts are not reworkable per Marcelino. DMR 2779,Closed,,,,,,,,,,,,,,,,,,,,,,,
+8/17/2021,5620,P471910,K17270038,P01,1,DIMENSION OUT,Dimensional,Nominal Machining LLC,As-is,Marco,8/17/2021,9/29/2021,43,$0 ,"8/17/21 - an email was sent to Marco to notify supplier. 
+9/1/21 - Awaiting replacement 
+9/7/21 - A follow up email was sent to supplier regarding this issue. 
+9/13/21 - Replacement parts received and pending inspection. 
+9/28/21 - Pending inspection
+9/29/21- Use as-is per customer request",closed,,,,,,,,,,,,,,,,,,,,,,,
+8/17/2021,5621,p470493,"0022-81823,",01,40,THRU POS O. TOL IN BOTH THREADED HOLES  NEED TO ADJUST TO NOMINAL DISTANCE,Dimensional,CNC,Rework,Erik L. ,8/17/2021,8/26/2021,9,$0 ,"8/17/21 - Parts were released to Erik for rework. 
+8/24/21 - Parts are back in QC for inspection.
+8/26/21- Reworked and passed inspection.",Closed,,,,,,,,,,,,,,,,,,,,,,,
+8/17/2021,5622,P470491,"0022-81884, ",01,36,THRU POS OUT OF TOL. IN BOTH THREADED HOLES  NEED TO ADJUST TO NOMINAL DISTANCE,Dimensional,CNC,Rework,Erik L. ,8/18/2021,8/26/2021,9,$0 ,"8/17/21 - Parts were released to Erik for rework. 
+8/24/21- Parts are back in QC for inspection. 
+8/26/21- Reworked and passed inspection.",Closed,,,,,,,,,,,,,,,,,,,,,,,
+8/17/2021,5623,asm465945,0010-84316,03,2,Leaks ,Workmanship,Production(Fab),Rework,Marcelino,8/17/2021,9/9/2021,23,$0 ,"8/26/21 - Work in progress per Marcelino
+9/7/21 - WIP
+9/9/21 - Successfully reworked and passed inspection. ",Closed,,,,,,,,,,,,,,,,,,,,,,,
+8/17/2021,5624,SCI464770,0041-90121,02,36,"1) Inserts are not installed properly: either below or above surface of tanks.
+2) There are something like rust (corrosion or oxidation) on inserts.",Workmanship,CTI International (Malaysia) Sdn Bhd,Rework Inhouse,Louie/Vladimir,8/17/2021,,-44425,,"8/17/21 - Parts were released to Louie rework. 
+Rework Instruction: • Weld.
+• Insert installation.
+• In Process Inspection.
+• Leak test.
+• Clean.
+• Stock
+8/17/21- PC issued a rework no. RW474340
+8/26/21 - Followed up with Louie regardign this ncr. 
+9/7/21 - WIP
+9/8/21 - Finished welding. Parts were released to assembly for insert installation.
+
+9/23/21- WIP",Open,,,,,,,,,,,,,,,,,,,,,,,
+8/19/2021,5625,P471912,K17270040,P01,1,Dimensional Issue,Dimensional,Nominal Machining LLC,RTV,Marco,8/19/2021,9/27/2021,39,$0 ,"8/19/21-An email was sent to Marco. 
+8/24/21- Instructed Marco to follow up with the supplier regarding this ncr. 
+8/31/21 - Marco followed up with the supplier regarding this NCR. 
+9/7/21 - A follow up email was sent to Maro and the supplier.
+9/13/21 - Replacement parts received from supplier.  
+9/20/21 -  Pending inspection
+9/22/21- The replacements part that we received from the supplier did not pass our QA inspection. QA issued NCR 5625-1
+9/27/21 - Part is approved to use as is per customer request. Part has been released to cleaning. ",Closed,Rejected parts were Scrapped inhouse per supplier request,,,,,,,,,,,,,,,,,,,,,,
+8/19/2021,5626,CP471589,0041-83493,07,1,EA 08/18: qty 1 (SN 2921-0004) rejected due to damage while installing 1x item 3. reference location Sh1 C6,Cosmetic,Production(Fab),Scrap,Vladimir,8/20/2021,8/20/2021,1,$910 ,8/20/21 - Part is not reworkable per Erik and Vladimir. DMR 2784. ,Closed,,,,,,,,,,,,,,,,,,,,,,,
+8/19/2021,5627,P473082,0042-46475,02,1,Broken side,Workmanship,FABRICATION,Scrap,Marcelino,8/19/2021,8/19/2021,0,$25 ,8/19/21 - Part is not reworkable per Marcelino. DMR 2782,Closed,,,,,,,,,,,,,,,,,,,,,,,
+8/20/2021,5628,CP471589,0041-83493,07,4,PARTS HAVE SPEC / FOREIGN OBJECT IN PLASTIC,Cosmetic,"Purchasing(IPI Plastics, Inc)",Scrap,Marco,8/20/2021,8/24/2021,4,"$3,640 ","8/20/21-An email was sent to Marco. 
+8/24/21- Parts are not reworable. DMR  2785",Closed,,,,,,,,,,,,,,,,,,,,,,,
+8/20/2021,5629,469658,715-212651-001,C,12,Dim  3.260 +.003/-.000   is under size  actual dim. in all parts ranges from 2.556 to 2.558,Dimensional,CNC,Rework,Erik L.,8/20/2021,9/20/2021,31,$0 ,"8/20/21- An email was sent to Erik to address this issue. 
+8/26/21 - Currently being reviewed by Erik. 
+9/20/21 -Reworked and passed inspection. ",Closed,,,,,,,,,,,,,,,,,,,,,,,
+8/20/2021,5630,MT-473000,19-431355-00,A,11,"qty 11 pieces undersized in OAL: .750"" ± .005"" measures .718-.734""",Dimensional,METAL CNC,Scrap,Vinod,8/20/2021,8/30/2021,10,,"8/20/21- Erik A .to address this issue during MRB meeting. 
+8/26/21 - A follow up email was sent to Erik A. 
+8/31/21-  5 out of 11 pieces are not reworkable due to overall length is already short.  DMR 2789",Closed,,,,,,,,,,,,,,,,,,,,,,,
+8/23/2021,5631,P471861,713-A15228-005,B,5,"DIM 1.065 +/-.005 OUT OF TOL.   ACTUAL RANGES FROM  1.071 TO 1.0725
+DIM  1.496 +/- .005   ACTUAL   1.5025
+FLATNESS  PER PRINT SHOULD BE .005  ACTUAL IS .006/.007",Dimensional,CNC,Scrap,Erik L.,8/24/2021,8/30/2021,7,$970 ,"8/26/21- Parts were released to Erik L for rework. 
+8/30/21 - Parts are not reworkable per Erik L. ",Closed,,,,,,,,,,,,,,,,,,,,,,,
+8/25/2021,5632,p472259,0042-41479,01,5,Item #2 - damage. Cosmetic unacceptable,Cosmetic,FABRICATION,Rework,Louie,8/26/2021,8/30/2021,5,$0 ,"8/26/21-An email was sent to Louie regarding this issue.  
+8/31/21 - Reworked and passed inspection. 
+",Closed,,,,,,,,,,,,,,,,,,,,,,,
+8/25/2021,5633,CP472876,0022-86022,02,2,PER PRINT DIAM SHOULD BE 2.658 +.004/-.000  ACTUAL DIM IN 2 PARTS IS 2.654,Dimensional,CNC,Scrap,Erik L. ,8/26/2021,9/9/2021,15,$344 ,"8/26/21- Parts were released to Erik L for rework. 
+9/9/21 - Parts are not reworkable per Erik L. DMR 2797",Closed,,,,,,,,,,,,,,,,,,,,,,,
+8/30/2021,5634,P472991,713-330513-021,E,2,WIDTH OF SLOT S/B .236±.010 IS .247 TO .248,Dimensional,CNC,Scrap,Erik L. ,8/30/2021,8/30/2021,0,"$1,362 ",8/30/2021-Parts are not reworkable per Erik L. ,Closed,,,,,,,,,,,,,,,,,,,,,,,
+8/30/2021,5635,MT-ASM470992,0022-81433,01,40,EA 08/27: qty 40 pieces rejected; parts are not engraved per print (method 2 per note 10),Workmanship,IFQ,RTV,Marco,8/30/2021,9/20/2021,21,,"8/30/21 - An email was sent to Marco to notify the supplier. 
+9/1/21 - Rejected parts were picked up by IFQ personnel (Quinny)
+9/7/21 - A follow up email was sent to Marco. ",Closed,,,,,,,,,,,,,,,,,,,,,,,
+8/30/2021,5636,P472992,713-330513-022,G,2,Dimension Out,Dimensional,Programming/Fab,Scrap,Kenny/Marcelino,8/30/2021,9/3/2021,4,"$1,284 ","8/30/2021 - currently being reviewed by Kenny. 
+9/3/21-   Erik L.  Ordered pc to open a new job order due to strip formed feature on part was incorrect. DMR 2794. 
+PC Closed job P472992 and created new job 475204 with programming and QAFAI seq",Closed,,,,,,,,,,,,,,,,,,,,,,,
+8/30/2021,5637,E473778,713-121109-202,A,5,If dimension is calling out 14.5 with ISO tolerance of ±0.2 then part can only be between 14.7 and 14.3. Actual parts are measuring between 16.95 and 17.00 ,Dimensional,Lathe,Scrap,Lalo,8/30/2021,8/31/2021,1,,"8/30/2021 - Parts were delivered to Lalo to be reworked. 
+-Per Lalo parts are not reworkable. PC to issue a new job order. DMR 2791
+",Closed,,,,,,,,,,,,,,,,,,,,,,,
+8/30/2021,5638,473992,713-121109-202,A,5,If dimension is calling out 14.5 with ISO tolerance of ±0.2 then part can only be between 14.7 and 14.3. Actual parts are measuring between 16.95 and 17.01,Dimensional,Lathe,Scrap,Lalo,8/30/2021,8/31/2021,1,,"8/30/2021 - Parts were delivered to Lalo to be reworked. 
+-Per Lalo parts are not reworkable. PC to issue a new job order. DMR 2792
+",Closed,,,,,,,,,,,,,,,,,,,,,,,
+8/30/2021,5639,474283,"0022-81883, ",02,12,R.10 MAX  OVER SIZE DUE TO  EDGE BEEN DEFORMED WHEN POLISHING,Workmanship,FABRICATION,Scrap,Marcelino,8/30/2021,8/30/2021,0,"$1,392 ",8/30/2021 - Parts are not reworkable per Marcelino. ,Closed,,,,,,,,,,,,,,,,,,,,,,,
+8/30/2021,5640,469655,713-A09402-001,B,1,MISSING P/N ENGRAVING,Workmanship,IFQ,RTV,Marco,8/30/2021,9/28/2021,29,$0 ,"8/30/21 - An email was sent to Marco to notify the supplier. 
+
+9/7/21 - A follow up email was sent to Marco. 
+9/20/21- Replacement part received. Pending inspection. 
+9/28/21 - Replacement part received and passed inspection. ",Closed,,,,,,,,,,,,,,,,,,,,,,,
+8/30/2021,5641,CP471700,0042-35193,03,2,"PER PRINT THRU POS .25 OF 12.7 HOLES OUT OF TOL.   ACTUAL READINGS ARE .35 AND .37
+DEPTH OF 6.0 HOLE SHOULD BE 55 +.5/-0   ACTUAL IS 54.7",Dimensional,CNC,Scrap,Erik / Vladimir,8/31/2021,10/4/2021,35,DMR missing,"8/31/21 - An email was sent to Vladimir and Erik for advice.  
+9/1/21 - Parts has been released to Erik for rework. 
+9/8/21- wip
+9/20/21- Rework in progress
+10/04/21- Parts are not reworakble . PC opennew job CP476195 ",Closed,,,,,,,,,,,,,,,,,,,,,,,
+8/31/2021,5642,470840,0042-28853,01,1,THRU POS ON SEVERAL  HOLES ARE OUT OF TOLERANCE,Dimensional,Nominal Machining LLC,RTV,Marco/Olga/Vladimir,9/1/2021,9/17/2021,17,$0 ,"9/1/21 - An email was sent to Marco to notify the supplier.
+9/9/21 - Part received from the supplier. Notified QC to help with inspection and installing the insert. 
+9/15/21- this part still in QA 
+9/17/21- Passed inspection.",Closed,Rejected parts were scrapped inhouse,,,,,,,,,,,,,,,,,,,,,,
+8/31/2021,5643,P460888,0020-54198,03,3,DIMENSION OUT OF TOLERANCE,Dimensional,CTI International (Malaysia) Sdn Bhd,Scrap,Marco/ Arcelia,9/1/2021,9/7/2021,7,"$1,020 ","9/1/21 - Currently being reviewed by Vladimir. 
+9/3/21 - Vladimir suggested that we can try to push the customer to accept this job as-is. Sales had been notify to send email to customer regarding this issue. 
+9/7/21 - Parts will be scrap per Arcelia's request. DMR 2795",Closed,,,,,,,,,,,,,,,,,,,,,,,
+8/31/2021,5644,p474297,0200-29468,01,1,Flatness .002 is .005 and nick on the flatnees side,Dimensional,FABRICATION,As-is,Marcelino/Kenny,9/1/2021,9/7/2021,7,$0 ,"9/1/21 - Currently being reviewed by Kenny to determine the path forward. 
+9/7/21- Buyer is okay to use part as is. Approval attached to this report. ",Closed,,0,,,,,,,,,,,,,,,,,,,,,
+8/31/2021,5645,472258,0042-39441,01,3,"PARTS FAILING   THRU POS. 
+SPECS ARE THRU POS. .13 FOR 12.0 +.12/-0 HOLES 
+THRU POS .13 FOR  4.5+.18/-0  HOLES   ACTUAL READINGS RANGE FROM .1",Dimensional,CNC ,Rework,Erik L.,9/1/2021,9/7/2021,7,$0 ,"9/1/21 - Currently being reviewed by Erik to determine the path forward. 
+9/7/21 - Successfully reworked and passed inspection. ",Closed,,,,,,,,,,,,,,,,,,,,,,,
+8/31/2021,5646,474666,713-264541-401,E,8,EA 08/31: qty 8 rejected due to material discoloration (inventory purge; reference NCR5594),DMAT XDEFECTIVE MATERIAL(cosmetic),"Material issue / Purchasing(PORT PLASTICS, INC)",As-is,Jalissa,9/1/2021,9/30/2021,30,$0 ,"9/1/2021 - Currently being reviewed. 
+9/3/21 - Jalissa is working with the customer to accept as-is. 
+9/17/21 - A follow up email was sent to Jalissa. 
+9/28/21 - Pending approval from customer. 
+9/30/21- DMR 2807
+Note: This job was pulled from MRB after approval from the customer to use as-is",Closed,,,,,,,,,,,,,,,,,,,,,,,
+8/31/2021,5647,474665,713-264541-400,D,14,EA 08/31: qty 14 rejected due to material discoloration (reference NCR5593),DMAT XDEFECTIVE MATERIAL(cosmetic),"Material issue / Purchasing(PORT PLASTICS, INC)",As-is,Jalissa,9/1/2021,9/30/2021,30,$0 ,"9/1/2021 - Currently being reviewed. 
+9/3/21 - Jalissa is working with the customer to accept as-is. 
+9/17/21 - A follow up email was sent to Jalissa. 
+9/28/21 - Pending approval from customer. 
+9/30/21-DMR2808
+Note: This job was pulled from MRB after approval from the customer to use as-is",Closed,,,,,,,,,,,,,,,,,,,,,,,
+9/1/2021,5648,SCI469220,0041-77449,07,3,Broken. Not reworkable. ,Damage(functional),Assembly,Scrap,Gabby,9/1/2021,9/1/2021,0,,9/1/21- Parts are not reworkable per Gabby. DMR 2793,Closed,,,,,,,,,,,,,,,,,,,,,,,
+9/2/2021,5649,473407,0022-76049,02,3,7.50±.25 actual is 7.08-7.13,Dimensional,Nominal Machining LLC,RTV,Marco,9/2/2021,10/7/2021,35,$0 ,"9/2/2021 - An email was sent to Marco to notify the supplier. 
+9/21/21 - Replacement parts received and pending inspection. 
+9/28/21 - Pending inspection. 
+10/05/21- Pending inspection
+10/7/21- passed inspection. ",Closed,,,,,,,,,,,,,,,,,,,,,,,
+9/7/2021,5650,RMA12067,0042-25537,01,2,"Customer Return; 
+Shafts/Pins installed on parts are OOT and have issues with mating parts at the customer end. This was confimed at CHawk.",Functional ,Applied Manufacturing group ,RTV,Marco/Gabby,9/7/2021,,-44446,,"9/7/2021- Marco will notify the supplier. 
+9/20/21 - Multiple emails were sent to suppliers regarding this issue and no response. 
+10/01/21- A follow up email was sent to Marco. 
+10/05/21 - Gabby is working with the supplier and as of today no update from the supplier. 
+10/22/21- A follow up email was sent to Gabby to request a commit date from Supplier. 
+11/2/21- Another email was sent to Gabby to follow up with the supplier. ",Open,,,,,,,,,,,,,,,,,,,,,,,
+9/9/2021,5651,ASM464632,0022-03764,09,1,Reference Sh1 Detail E and Sh2 Section J-J: qty 1 found machined incomplete. missing features,Functional ,CNC,Rework,Erik L,9/9/2021,9/20/2021,11,$0 ,"9/9/21 - Part is released to Erik for rework. 
+9/20/21 - Per Erik L, the correct job is ASM467597 . This job Is already completed and closed. . 
+
+",Closed,,,,,,,,,,,,,,,,,,,,,,,
+9/9/2021,5652,ASM463404,0190-53195,03,2,EA 09/08: sensor gets stuck when threaded onto mating part; sensor is damaged when remove,Equipment Malfunction(functional),First Sensor Inc,Scrap,Sanjay,9/9/2021,9/9/2021,0,$0 ,"9/9/21 - Part are not reworkable per Erik A. DMR 2798
+9/13/2021 - Added to RCCA log and
+CPAR 168 is provided to Erik A. to complete. ",Closed,,,,,,,,,,,,,,,,,,,,,,,
+9/10/2021,5653,cp473795,0042-34520,07,8,"Sht 1, dr loc E7 s/b Ø4.80+-0.25 actual is Ø5.18-5.2",Dimensional,Programming,As-is, Kenny,9/10/2021,10/22/2021,42,$0 ,"
+9/17/21 - Customer will provide a new rev
+9/23/21- A follow up email was sent to Kenny. 
+9/28/21 - A follow up email was sent to Kenny regarding this issue. 
+10/21/21- Customer agreed to use the part as is. ",Closed,,,,,,,,,,,,,,,,,,,,,,,
+9/11/2021,5654,RTM474908,0022-94423,01,30,"EA 09/09: qty 30 rejected
+Reference Section A-A view -- both sides of .250 +.000 / -.003 dimension have stepped surfaces (radius not blending into part?).  Measurement ranges from .240 to .253 due to step.
+Vendor is Condor Mfg",Dimensional,Condor,RTV,Marco,9/10/2021,9/16/2021,5,$0 ,"9/10/21 - An email was sent to Maroc to notify the supplier regarding this issue. 
+9/13/21- Rejected parts were picked up by supplier.
+ 9/16/21 -  Replacement parts received and passed inspection. ",Closed,,,,,,,,,,,,,,,,,,,,,,,
+9/14/2021,5655,471585,0022-82527,02,4,"Sht 1, dr loc D2 s/b Ø13.040+.005-.000 actual is Ø13.036-13.037.",Dimensional,CNC,Rework,Erik L/ Vinh,9/14/2021,9/21/2021,7,$0 ,"9/14/21 - An email was sent to Erik L regarding this NCR. 
+
+9/16/21-Waiting for DQ approval.
+9/21/21 - Parts were reworked re-inspected and passed inspection per Gabby.  ",Closed,,,,,,,,,,,,,,,,,,,,,,,
+9/14/2021,5656,473584,713-256314-004,C,26,".870 is .500”
+see sheet 1 zone C7 should be .87 ±.03 actula is .500 parts to be RTV per Chins Email",Dimensional,Condor,RTV,Marco,9/14/2021,9/20/2021,6,$0 ,"9/14/212- NCR-5656 will be picked up today by the supplier. 
+9/15/21- Replacement parts received. Pending inspection. 
+9/20/21- Passed inspection. ",Closed,,,,,,,,,,,,,,,,,,,,,,,
+9/16/2021,5657,472191,CSN-0148-01,G,1,true position out of tolerance s/b .5 is .776,Dimensional,CNC,Scrap,Erik L,9/16/2021,9/29/2021,13,$686 ,"9/16/21 - An email was sent to Erik and Vladimir to disposition this NCR. Part was released to Erik for Rework. 
+9/22/21- Part is back in QC for re-inspection.
+9/29/21- Part is not reworkable. DMR 2803
+ ",Closed,,,,,,,,,,,,,,,,,,,,,,,
+9/17/2021,5658,e468470,CHP-AMT-00046-1,01,1,"Sht2, dr loc F7 s/b R21.797 is R21.805-21.816, dr loc F8 s/b R21.697 is R21.710-21.717, dr loc F8 s/b R20.777 is R20.763-20.785, dr loc F8 s/b R20.877 is R20.883-20.885.",Dimensional,CNC,Scrap,Erik L. ,9/17/2021,9/23/2021,6,$0 ,"9/1721 - Part was released to Erik for further evaluation. 
+9/23/21 - Part is not reworkable. DMR 2801",Closed,,,,,,,,,,,,,,,,,,,,,,,
+9/17/2021,5659,MT-P472832,0022-82547,02,2,"EA 09/16: qty 2 ok to release, qty 2 rejected for dimensional discrepancies.
+B2: .290 +.000 / -.005 measures .280 (1pc at one end, 1pc at center of part)
+B2: 2x .150 +.000 / -.005 measures .136 (1pc at one end)",Dimensional,CNC METAL,Scrap,Vinod,9/17/2021,10/7/2021,20,$0 ,"9/17/21 - Part were released to Vinod for rework. 
+10/05/21 - A follow up email was sent to Vinod. 
+10/7/21- Parts are not reworfakble per Vinod. DMR 2812",Closed,,,,,,,,,,,,,,,,,,,,,,,
+9/17/2021,5660,ASM466097,0022-62686,02,10,"M3 threads in top and bottom rows (near bends) are tight, some do not accept thread gage or will cause screw to bind when installing matin",Workmanship,Eclipse Metal Fabrication,RTV,Marco,9/17/2021,10/7/2021,20,$0 ,"9/17/21 - Marco notified supplier regarding this issue. 
+9/20/21 - Parts were picked up by supplier. 
+10/7/21- Replacement parts received and passed inspection. ",Closed,,,,,,,,,,,,,,,,,,,,,,,
+9/17/2021,5661,ASM466098,0022-62686,02,100,"M3 threads in top and bottom rows (near bends) are tight, some do not accept thread gage or will cause screw to bind when installing matin",Workmanship,Eclipse Metal Fabrication,RTV,Marco,9/17/2021,10/7/2021,20,$0 ,"9/17/21 - Marco notified supplier regarding this issue. 
+9/20/21 - Parts were picked up by supplier. 
+10/7/21- Replacement parts received and passed inspection. ",Closed,,,,,,,,,,,,,,,,,,,,,,,
+9/17/2021,5662,ASM468323,0022-62679 ,04,50,"Parts are laser engraved instead of ink stamp per note 9
+Some parts found bent, collapsing inward (see D6 on print, where 56.9 dimension is)",Workmanship,CENTRAL TECH INCORPORATION VIETNAM COMPANY LIMITED,RTV,Marco,9/17/2021,11/2/2021,46,$0 ,"9/17/21 - Marco notified supplier regarding this issue. 
+10/7/21 - A follow up email was sent to Marco to request an update from the supplier. 
+10/18/21 - A follow up email was sent to Marco and prodcution team regarding this issue. 
+11/2/21- Reworked and passed inspection. ",Closed,,,,,,,,,,,,,,,,,,,,,,,
+9/20/2021,5664,SCI470290,0022-16225,03,3,478 PCS RECEIVED IN 53 BOXES ON 2 PALLETS. 3PCS HAD A REALLY BAD FINISH AND DIDNT PASS THE COSMETIC SPEC.,Workmanship,"TRIPP ENTERPRISES,INC.",Rework In-house,Marco/Marcelino,9/20/2021,10/11/2021,21,$0 ,"9/20/21 - An email was sent to Marco to notify the supplier. 
+9/22/21- Parts will be reworked inhouse. Rework instruction: Sand, Vapor polish and inspection is added to this job. 
+10/05/21- Reworked
+10/8/21- Parts were released to Anthony for cleaning. 
+10/11/21- Reworked and passed inspection. ",Closed,,,,,,,,,,,,,,,,,,,,,,,
+9/20/2021,5665,MT-P472990,CHM-AMT-00032,02,15,Parts are not silver plated per print/PO,Workmanship,D-TEK,RTV,Marco,9/20/2021,,-44459,,"9/20/21 - An email was sent to Marco to notify the supplier. 
+9/30/21- Supplier commit date 10/11
+10/18/21- A follow up email was sent to supplier regarding this issue. 
+10/28/21- A follow up email was sent to the supplier. 
+10/22/21- Replacement parts received and pending inspection. 
+11/1/21-Replacement parts received did not pass inspection. 2825",Open,,,,,,,,,,,,,,,,,,,,,,,
+9/21/2021,5666,sci461151,0010-68318,04,2,"
+two assemblies (sn 1083 and 1093 ) received from Collimated with loose or broken item 3,4 or 5
+This affects functionality, no light goes thru optical comm. 
+",Functional ,Collimated,RTV,Marco,9/21/2021,10/27/2021,36,$0 ,"9/21/21 - An email was sent to Marco to notify the supplier. 
+10/1/21 - An email was sent to Marco to follow up with the supplier. 
+10/7/21 - Simon was instructed to ship/deliver this NCR back to the supplier for us to receive the replacement parts.  
+10/12/21 - rejected parts were shipped back to supplier. 
+10/27/21-Replacements have been inspected and passed through inspection. ",Closed,,,,,,,,,,,,,,,,,,,,,,,
+9/21/2021,5667,MT-464906,0042-35975,06,1,EA 09/20: part is missing part marking per print (engraving per Note 13),Workmanship,Programming,Rework,Vinod,9/21/2021,,-44460,,"9/21/21 - An email was sent to Marco to notify the supplier. 
+9/28/21 - This is internal error not subco. Part will be reworked inhouse. 
+10/05/21- Part is released to Erik for rework. 
+10/7/21 - Pending rework.
+10/18/21 - A follow up email was sent to Vinod regarding the status of this rework. 
+11/1/21- Per Vinod this NCR requires a waiver from the customer. ",Open,,,,,,,,,,,,,,,,,,,,,,,
+9/21/2021,5668,p474583,0042-35578,03,2,parts rejected due to missing 4x hardware per note4 item 2 M,Workmanship,Nominal Machining LLC,RTV,Marco,9/22/2021,9/28/2021,7,$0 ,"9/21/21 - This job will be reworked in-house.PC to add Hardware and Installation operations to this job per Note 4.  
+9/28/21 - Parts were successfully reworked inhouse and passed inspection.",Closed,,,,,,,,,,,,,,,,,,,,,,,
+9/21/2021,5669,CP475419,0022-70736,02,2,"Sht 1, dr loc B4 s/b Ø.250+-.005 actual is Ø.264-.265,  dr loc C4 s/b tr. position .008 actual is .0176.  Serial # - mi",Dimensional,LATHE,Scrap,Lalo,9/22/2021,9/23/2021,2,"$3,530 ","9/22/21- Parts have been released to Erik for further evaluation. 
+9/23/21- Parts are not reworkable. PC issued a new order. DMR  2800",Closed,,,,,,,,,,,,,,,,,,,,,,,
+9/22/2021,5671,MT-473549,0042-31724,2,1,"EA 09/22: qty 1 rejected
+C7: 5.496"" ± .005"" measures 5.504"" (one side only)
+C6: 2x 2.014"" ± .005"" measures 1.986"" and 2.042""
+C6: 2x .875"" ± .005"" measures .908"" and .840""",Dimensional,Eclipse Metal Fabrication,RTV,Marco,9/23/2021,10/18/2021,26,$0 ,"9/23/21 - An email was sent to Marco to notify the supplier. 
+10/01/21 - Supplier picked up the rejected parts. 
+10/05/21 - Supplier are still working on  this replacement, they will deliver this week soon as they completed the process.
+10/12/21 - Part received and currently pending inspection. 
+10/18/21- Re-inspected and passed inspection. 
+",Closed,,,,,,,,,,,,,,,,,,,,,,,
+9/27/2021,5672,470599,713-A02304-008,B,1,Dimesional issue,Dimensional,CNC,Rework,Erik L. ,9/37/21,10/1/2021,4,$0 ,"9/27/21- Edgard will try to locate the part.
+9/30/21- Part was released to Alan (CNC) and processed withouth going thru MRB for disposition. Part was fulled from stock to ensure that the issue was fixed. 
+10/01/21-  Dimension was validated and re-measured ok",Closed,,,,,,,,,,,,,,,,,,,,,,,
+9/27/2021,5673,P474733,0022-49075,02,6,"DIM  58.00 +.10/ -.00  ACTUAL  IN ALL PARTS IS 57.88 TO 57.94
+GROOVE WIDTH PER PRINT SHOULD BE 1.45+/-.05 (THEORETICAL SHARP CORNER)
+ACTUAL DIM IS 1.65 TO 1.",Dimensional,Lathe,Scrap,Lalo,9/27/2021,9/27/2021,0,$954 ,"9/27/21 - Per Lalo parts are not reworkable. DMR 2802
+Note: Job# P474733 closed, open replacement job 470903.",Closed,,,,,,,,,,,,,,,,,,,,,,,
+9/27/2021,5674,P467752,0815792-001,AA,1,"EA 09/24: qty 1 found leaking at 3 locations during helium test
+Reference Sh2, C4 view: leaking is found at plugs located at (33.00, 6.00) and (143.00, 20.50)
+Reference Sh2, B3 view: leaking found at plug located at (25.00, 8.50)",Workmanship,MARX DIGITAL MANUFACTURING,RTV,Marco,9/27/2021,,-44466,,"9/27/21 - An email was sent to Marco to notify the supplier. 
+9/29/21- Rejected parts were picked up by the supplier.  
+10/12/21 - Purchasing to follow up witht the supplier. 
+10/18/21 - Follow up email was sent to Marco . 
+10/28/21- An email was sent to Marco to follow up. ",Open,,,,,,,,,,,,,,,,,,,,,,,
+9/28/2021,5675,IT-E473810,CHP-INT-00060,05,8,"Dim 6.10 +/-.05    actual dim is 6.18 to 6.22
+R.250  +/-.05 actual dim . is 2.60 to 2.68
+dim 11.00 +/-.05   actualdim is 11.06 to 11.08",Dimensional,CNC,Scrap,Erik L,9/28/2021,9/29/2021,1,$0 ,"9/28/21 - Parts were released to Erik for further evaluation.
+9/29/21- Parts are not reworkable per Erik L. DMR 2804",Closed,,,,,,,,,,,,,,,,,,,,,,,
+9/29/2021,5676,IT-E473811,CHP-INT-00069,04,8," PART FAILING DIMENSIONAL INSP.
+SEVERAL DIMENSIONS ARE OUT OF TOL. 
+PART NOT MADE PER PRINT",Dimensional,CNC,Scrap,Erik L,9/29/2021,9/30/2021,1,$0 ,"9/29/21 - Parts were released to Erik for further evaluation.
+9/30/21 - Parts are not reworkaable per Erik L. DMR 2806",Closed,,,,,,,,,,,,,,,,,,,,,,,
+9/30/2021,5677,IT-E474111,CHP-INT-00068,04,8,PARTS  DO NOT MEET PRINT SPECS IN SEVERAL DIMENSIONS,Dimensional,CNC,Scrap,Erik L,9/30/2021,10/5/2021,5,$0 ,"9/30/21- Parts were released to Erik L for further evaluation. 
+10/05/21- Parts are not reworakble. DMR 2810",Closed,,,,,,,,,,,,,,,,,,,,,,,
+9/30/2021,5678,rpm472535,524-A46774-021,B,8,3x120° is 115.58 -128.39 and Ø419 is 417.79,Dimensional,Fabrication,Rework,Marcelino/Edgard,9/30/2021,,-44469,,"9/30/21- Parts are currently being reviewed by Marcelino. 10/05/21- Reworked and pending inspection.
+10/20/21- A follow up email was sent to Edgard regarding this issue. ",Open,,,,,,,,,,,,,,,,,,,,,,,
+10/4/2021,5679,472244,853-A18805-001 ,AA,28,"EA 10/04: parts have cosmetic defects; dings/dents along bottom side of air cylinder (item 1, purchased item, was received damaged from Steven Engineering). remaining parts ok to release",Cosmetic,Steven Engineering,RTV,Wendy / Marco,10/4/2021,,-44473,,"10/04/21-Purchasing has been notified.  
+10/12/21 - Pending action from supplier. 
+10/21- an email was sent to Marco to follow up with supplier. 
+10/28/21- Pending RMA from the supplier. ",Open,,,,,,,,,,,,,,,,,,,,,,,
+10/5/2021,5680,MT-473465,0022-80171,1,2,"EA 10/05:
+Section A-A view: 60° chamfer measures 45°",Dimensional,Metal CNC,Scrap,Vinod,10/5/2021,10/5/2021,0,$394.00 ,10/5/21- Parts are not reworkable. DMR 1907,Closed,,,,,,,,,,,,,,,,,,,,,,,
+10/7/2021,5681,P474098,0042-28191,3,11,"Sheet 2 of 2 Zone C-2
+Spec: .070 +/- .005
+Actual: .060 - .064 on 11pcs",Dimensional,CNC,Scrap,Erik L. ,10/8/2021,10/12/2021,5,$0.00 ,"10/8/21 - Parts were released to Erik for rework. 
+10/12/21 - Parts are not reworkable per Erik L. DMR 2814",Closed,,,,,,,,,,,,,,,,,,,,,,,
+10/12/2021,5682,CP474049,0041-77746,4,4,BLACK COMTAMINATION IN MATERIAL,Cosmetic,Roechling,Scrap,Marco/Marcelino,10/12/2021,10/12/2021,0,"$1,760.00 ",10/12/21- Parts are not reworkable per Marcelino. DMR 2815,Closed,A copy of this NCR was provided to Estuardo for approval.,,,,,,,,,,,,,,,,,,,,,,
+10/12/2021,5683,rtm474966,0042-47089,1,1,"missing part mark, fab will attempt to part mark per note 8, if not successful an sps will need to be submi",Workmanship,"T&H Manufacturing, Inc",Rework In-house,Marco/Marcelino,10/12/2021,10/13/2021,1,$0.00 ,"10/12/21- Part will be reworked in-house per Karen. 
+10/13/21- Part was successfully reworked and a stamp was made to fit ink-stamp on the part. Passed inspection.",Closed,,,,,,,,,,,,,,,,,,,,,,,
+10/12/2021,5684,rtm475146,0022-93215,1,1,"missing part mark per note 7, fab to attempt to ink-stamp sps might be needed due to small area",Workmanship,"T&H Manufacturing, Inc",Rework In-house,Marco/Marcelino,10/12/2021,10/13/2021,1,$0.00 ,"10/12/21- Part will be reworked in-house per Karen. 
+10/13/21- Part was successfully reworked and a stamp was made to fit ink-stamp on the part. Passed inspection.",Closed,,,,,,,,,,,,,,,,,,,,,,,
+10/13/2021,5685,RW475995,0022-24182,4,138,"Material color is light compared to other Chawk supplier, failing sensor test at assembly. ",Material Issue(cosmetic),"Purchasing(DQ,CENTRAL TECH INCORPORATION VIETNAM COMPANY LIMITED)",RTV,Marco,10/14/2021,,-44482,$0.00 ,"10/13/21 - An email was sent to Marco to notify supplier. 
+10/28/21- A Follow up email was sent to Marco to request a commit date from the supplier. 
+10/28/21 - . Op 30 was removed. According to David Q. We are at fault for not specifying which shade of grey DQ needed to use. 
+",Open,,,,,,,,,,,,,,,,,,,,,,,
+10/14/2021,5686,ASM467735,"0051-27619, ",4,56,"EA 10/14: qty 56 rejected
+Item 4 (FLOW FLOW N2) labels are green, should be white",Workmanship,"Crist Group, Inc",RTV,Marco,10/15/2021,10/21/2021,7,$0.00 ,"10/15/21 - An email was sent to Marco to notify supplier. Request replacement labels from Crist group, Sanjay and his team can rework (re-label).
+These have been reworked by assembly and are ok to return to stock",Closed,,,,,,,,,,,,,,,,,,,,,,,
+10/15/2021,5687,MT-RTM475255,0022-93694,2,4,PART MARK S/B ENGRAVED IS STA,Workmanship,"T&H Manufacturing, Inc",Rework In-house,Marco/Erik L.,10/15/2021,10/28/2021,13,$0.00 ,"10/15/21 - An email was sent to Marco to notify supplier. 
+10/18/21 -parts have been laser engraved and  currently in QC for inspection. 
+10/25/21- A follow up email was sent to Edgard to update the epicor. 
+10/28/21- passed inspection.",Closed,,,,,,,,,,,,,,,,,,,,,,,
+10/15/2021,5688,475273,713-256314-004 ,C,10,Missing part mark,Workmanship,Quotation,Rework,Marco/Erik L.,10/15/2021,,-44484,$0.00 ,"10/15/21 - An email was sent to Marco to notify supplier. 
+10/18/21- Per supplier this job was not quoted for part marking.Rework in-house. 
+10/28/21- Reworked and pending inspection. 
+11/1/2021- Passed inspection.",Closed,,,,,,,,,,,,,,,,,,,,,,,
+10/15/2021,5689,475274,713-256314-007,B,10,"Parts are rejected for cosmetics, scratches and missing part mark.",Cosmetic,CONDOR MANUFACTURING,RTV,Marco,10/15/2021,,-44484,$0.00 ,"10/15/21 - An email was sent to Marco to notify supplier. 
+10/28/21 - Supplier refuse to acknowledge the fault. The response was forwarded to Gabby to advise on this issue. 
+11/1/21- Replacement parts received from supplier andit is now pending for inspection. ",Open,,,,,,,,,,,,,,,,,,,,,,,
+10/15/2021,5690,475275,713-256314-305,C,10,Missing part mark,Cosmetic,Quotation,Rework,Marco/Erik L.,10/15/2021,,-44484,$0.00 ,"10/15/21 - An email was sent to Marco to notify supplier. 
+10/18/21- Per supplier this job was not quoted for part marking. Parts to be reworked 
+10/28/21- Reworked and pending inspection. 
+11/1/2021- Passed inspection. ",Closed,,,,,,,,,,,,,,,,,,,,,,,
+10/15/2021,5691,MT-E474400,0022-92926,1,1,Missing engraving per method 2 or 16 per note 4 (machine or laser engrave),Workmanship,"T&H Manufacturing, Inc",Use as is,Marco,10/15/2021,10/18/2021,3,$0.00 ,"10/15/21 - Rework in-house for this one.Part was released to Fabrication to be reworked. PC to add part marking operation on job for laser engraving per note 4.
+10/18/21-Justin just informed Erik A that these parts won’t ship to the customer and will be used in-house (for assembly tooling); part engraving is not absolutely necessary so we will UAI.",closed,,,,,,,,,,,,,,,,,,,,,,,
+10/18/2021,5692,ASM466179,0041-25148,2,85,Ink stamping is rubbing off with finger (not permanently stamped per print/note),Workmanship,Azel MFG,RTV,Marco,10/18/2021,10/26/2021,8,$0.00 ,"10/18/21 - An email was sent to Marco to notify supplier. 
+10/26/21 - Reworked parts have been corrected by supplier and released to stock.",closed,,,,,,,,,,,,,,,,,,,,,,,
+10/18/2021,5693,ASM466180,0041-25148,2,15,Ink stamping is rubbing off with finger (not permanently stamped per print/note),Workmanship,Azel MFG,RTV,Marco,10/18/2021,10/26/2021,8,$0.00 ,"10/18/21 - An email was sent to Marco to notify supplier. 
+10/26/21-Reworked parts have been corrected by supplier and released to stock.",closed,,,,,,,,,,,,,,,,,,,,,,,
+10/18/2021,5694,ASM467659,0022-04958,3,11,"Two discrepancies
+qty 3 - Section B-B view, E7: 1x M3x0.5 thread closest to bend does not accept screw
+qty 8 - Section A-A and B-B views, E2 and E7: 2x M3x0.5 thread locations on discrepant parts (in X-direction) are flipped",Workmanship,Supplier (Hill Manufacturing),RTV,Marco,10/18/2021,,-44487,$0.00 ,10/18/21 - An email was sent to Marco to notify supplier. ,Open,,,,,,,,,,,,,,,,,,,,,,,
+10/18/2021,5695,MT-473549,0042-31724,2,1,"B6/7: .253"" ± .001"" wide slot and Ø .253"" ± .001"" pinhole not masked per print (see note 7)",Dimensional,Scientific Metal Finishing,Rework In-house,Vladimir/Marcelino,10/18/2021,10/25/2021,7,$0.00 ,"10/18/21 - An email was sent to Marco to notify supplier. Part to be reworked inhouse.
+10/25/21- The paint got removed and is now complaint. NCR closed",Closed,,,,,,,,,,,,,,,,,,,,,,,
+10/19/2021,5696,MT-P471436,0021-53975,2,1,"EA 10/19: qty 1 rejected
+M2 thread depth measures undersized; should be .157"" ± .005"", measures .137""
+dimpling/raised surfaces outside of ",Dimensional,Nominal Machining LLC,RTV,Marco,10/21/2021,,-44488,,10/21/21 - this NCR 5696 was the replacement part  for the original NCR 5596.  An email was sent to Marco to notify supplier. ,Open,,,,,,,,,,,,,,,,,,,,,,,
+10/20/2021,5697,RTM476163,0042-46746,1,1,1.485±.005 IS 1.494,Dimensional,Nominal Machining LLC,RTV,Marco,10/21/2021,11/1/2021,12,,"10/21/21 - An email was sent to Marco to notify supplier. 
+10/22/21- New parts coming in today from supplier. 
+11/1/21- Replacement part received, re-inspected and passed inspection. ",Closed,,,,,,,,,,,,,,,,,,,,,,,
+10/20/2021,5698,ASM468411,0090-10016,2,6,"EA 10/19: qty 6 rejected
+Item 17 (tubing p/n 3860-00772) does not fit into mating part (elbow fitting p/n 3300-15201). Tube should be Ø 6.0mm, measures 6.26-6.37mm",Dimensional,DC ELECTRONICS  an Amphenol company,RTV,Marco,10/21/2021,,-44489,,10/21/21 - An email was sent to Marco to notify supplier. ,Open,,,,,,,,,,,,,,,,,,,,,,,
+10/20/2021,5699,471895,713-083736-001,B,1,PART CRACKED DURING HARDWARE INSTALLATION PLEASE SEE PICTURES ON FILE,Workmanship,Production(Fab),Scrap,Marcelino,10/21/2021,10/21/2021,1,,10/21/21 - Per Marcelino and Vladimir part is not reworkable. DMR 2816 ,Closed,,,,,,,,,,,,,,,,,,,,,,,
+10/20/2021,5700,ASM468411,0090-10016,2,2,"EA 10/20: qty 2 rejected
+SH1 B8: Main key on J8141/J8181 BUF HD MTR connector is rotated 90°, cannot install onto assembly due to 90° rotation of elbow connector (clearance issue",Workmanship,DC ELECTRONICS  an Amphenol company,RTV,Marco,10/21/2021,,-44489,,10/21/21 - An email was sent to Marco to notify supplier. ,Open,,,,,,,,,,,,,,,,,,,,,,,
+10/20/2021,5701,472200,CSN-0149-02,2,1,Flatness 3mm is 5mm,Dimensional,CNC,Scrap,Erik L. ,10/21/2021,10/25/2021,5,$691.00 ,"10/21/21 - Part was released to Erik L for rework.
+10/25/21- Part is not reworkable per Erik L. 2820",Closed,A copy of this NCR was provided to Estuardo for approval.,,,,,,,,,,,,,,,,,,,,,,
+10/20/2021,5702,473504,15-431472-00,E,1,"Part Received Damaged from SubContractor, Corner chipped, Page 1 Zone C8, See Pictures.",Cosmetic,Carrier/Delivery Service,Scrap,Marco,10/21/2021,10/25/2021,5,$426.00 ,"10/25/21 - Damaged during transit and Part is not reworkable. 
+DMR 2821",Closed,,,,,,,,,,,,,,,,,,,,,,,
+10/20/2021,5703,ASM463786,0041-61630,3,5,"EA 10/20: qty 5 rejected
+qty 1 o-ring groove oversized; o-ring does not stay in groove when assembled
+qty 4 damaged due to handling, cannot be repaired",Cosmetic,CNC,Scrap,Edgard/Erik L. ,10/21/2021,10/21/2021,1,$0.00 ,10/21/21 -Parts are not reworkable per Erik L. DMR 2817,Closed,,,,,,,,,,,,,,,,,,,,,,,
+10/20/2021,5704,ASM470438,0022-55328,4,31,PER IPI DATA PARTS HAD NO ADJUSTMENT SHEET 1 ZONE E10 ADN E6 BOTH Ø ARE UN,Dimensional,CNC,Rework,Erik L. ,10/21/2021,,-44489,$0.00 ,"10/21/21 - Parts were released to Erik L for rework
+11/3/21- Reworked and parts were released to QC for inspection. ",Open,,,,,,,,,,,,,,,,,,,,,,,
+10/21/2021,5705,P474915,0022-79895,3,4,"Material is PVC. Required material should be CPVC
+AMAT can only approve CPVC clear (FM4910)",Material Issue(functional),Qouting ,Scrap,Gabby G,10/22/2021,10/22/2021,1,$890.00 ,"10/22/21- Scrap. DMR 2818
+Linked SO to job 476521 and closed job P474915",Closed,A copy of this NCR was provided to Estuardo for approval.,,,,,,,,,,,,,,,,,,,,,,
+10/22/2021,5706,474030,0022-64364,2,2,"Parts are missing counterbore D4, Is suppose to be .312"" with .180"" deep
+",Dimensional,Stratasys Direct Inc.,RTV,Marco,10/22/2021,,-44491,$0.00 ,"10/22/21 - An email was sent to Marco to notify supplier. 
+11/03/21- Multiple email was sent to Simone to ship the parts back to supplier in order for them to rework these parts. ",Open,,,,,,,,,,,,,,,,,,,,,,,
+10/22/2021,5707,SCI471170,0041-40794,3,28,3x .100±.010 IS .115-.135,Dimensional,Fabrication,Rework,Marcelino,10/22/2021,11/1/2021,10,$0.00 ,"10/22/21 - Parts were released to Marcelino for rework. PC to add routing and operation and IPI sequence to this job.
+11/1/21- Reworked and passed inspection. ",Closed,,,,,,,,,,,,,,,,,,,,,,,
+10/22/2021,5708,p474588,0022-78868,3,9,Thru pos.  out of  tolerance in all ,Dimensional,CNC,Scrap,Erik L. ,10/22/2021,10/26/2021,4,"$2,421.00 ","10/22/21 - Parts were released to Erik L for rework .
+10/26/21- Parts are not reworakble per Erik L. DMR 2823",Closed,A copy of this NCR was provided to Estuardo for approval.,,,,,,,,,,,,,,,,,,,,,,
+10/25/2021,5709,cp473166,0021-04297,3,1,Surface damage,Workmanship,Fabrication,Scrap,Vladimir/Marcelino,10/25/2021,10/25/2021,0,$177.00 ,"10/25/21- Part is not reworkable.
+10/25/21- DMR 2822 ",Closed,,,,,,,,,,,,,,,,,,,,,,,
+10/25/2021,5710,p476313,701-021371-0001 ,6,77,"data collection for edgard and justin 
+73pcs to cleaning 
+77pcs rejected for workmanship and dims oot","Dimensional/
+Workmanship",Nominal Machining LLC,RTV,Marco,10/25/2021,,,$0.00 ,"10/25/21 - An email was sent to Marco to notify supplier. 
+11/3/21- Replacement part received and back in QC for inspection",Open,,,,,,,,,,,,,,,,,,,,,,,
+10/25/2021,5711,476137,0022-82527,2,4,DIMENSION OUT SEE CMM REPORT,Dimensional,CNC,Rework,Erik L. ,10/25/2021,,,$0.00 ,"10/25/21 - An email was sent to Erik L regarding this issue.
+11/3/21- Pending rework ",Open,,,,,,,,,,,,,,,,,,,,,,,
+10/25/2021,5712,RW476889,0090-10016,2,8,"(these are rejected parts due to inventory purge, reference NCR5700)
+SH1 B8: Main key on J8141/J8181 BUF HD MTR connector is rotated 90°, cannot install onto assembly due to 90° rotation of elbow connector (cleara",Workmanship,DC ELECTRONICS  an Amphenol company,RTV,Marco,10/25/2021,,,$0.00 ,"10/25/21 - An email was sent to Marco to notify supplier. 
+11/3/21 - A follow up email was sent to Marco regarding this issue. ",Open,,,,,,,,,,,,,,,,,,,,,,,
+10/25/2021,5713,475974,0042-18664,2,4,Incorrect insert used : Actual is MCMC# 96246A242 Should be: DBPN# HELT1185-4E37,Workmanship,Qouting ,Rework,Vladimir/Olga,10/25/2021,,,$0.00 ,"10/25/21 - Release parts to production  to replace insert. 
+11/3/21- A follow up email was sent to Olga. ",Open,,,,,,,,,,,,,,,,,,,,,,,
+10/26/2021,5714,472247,839-A552200-001,A,40,"Item 1 (tube) material is incorrect. Should be 75A durometer FKM, is made out of PFA",Workmanship,Engineered Machinery Inc (EMI),RTV,Marco,10/26/2021,,,$0.00 ,"10/26/21 - An email was sent to Marco to notify supplier. 
+11/2/21- Parts were returned to supplier 
+. ",Open,,,,,,,,,,,,,,,,,,,,,,,
+10/26/2021,5715,472614,839-A552200-001,A,24,"Item 1 (tube) material is incorrect. Should be 75A durometer FKM, is made out of PFA
+NOTE: qty 4 of 24 are from (already were kitted to) assembly job 472240",Workmanship,Engineering Machinery Inc) ,RTV,Marco,10/27/2021,,,$0.00 ,"10/26/21 - An email was sent to Marco to notify supplier. 
+11/2/21- Parts were returned to supplier 
+. ",Open,,,,,,,,,,,,,,,,,,,,,,,
+10/27/2021,5716,473088,CSN-0149-02,PR.1,1,"Section A-A Sheet B8 Torque Width Mean 3.000 =/- 0.12mm, Values are under size. Ex 2.65mm to 2.81mm",Defective Mtrl(dimensional),CNC,Rework,Erik L. ,10/28/2021,11/2/2021,,$691.00 ,"10/28/21 - Part was released to Erik L for rework.
+11/2/21- Part is not reworkable.DMR   2824",Closed,,,,,,,,,,,,,,,,,,,,,,,
+10/27/2021,5717,P471558,0042-44581,7,2,PARTS ENGRAVED WITH WRONG PART #. SEE NCR FOR MULTIPLE DICREPANCIES,Dimensional,CNC,Rework,Erik L. ,10/28/2021,,,$0.00 ,"10/28/21 - Parts were released to Erik L for rework.  
+11/1/21- Kenny is reviewing the rework program for this job order. 
+11/3/21- A follow up email was sent to Kenny. ",Open,,,,,,,,,,,,,,,,,,,,,,,
+10/27/2021,5718,CP473637,0042-39886,3,1,"Sheet 2 of 9, Zone B-2,3 SPEC: DIA. 12.396 +.000/-.005 
+ACTUAL: Serial Number 301514-3721-0005 UNDERSIZE @ 12.3896",Dimensional,Lathe,Rework,Eulalo,10/28/2021,11/3/2021,,$0.00 ,"10/28/21 - Part was released to Erik L for rework.  
+11/3/21- The rejection is an outside diameter that is undersize.
+It cannot be re-worked.
+",Open,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2021,5719,it-e476165,CHP-INT-00057,4,898,overal part dont meet print thickness should be 4.0 actual is between .36-.48 all dimesnions are oos,Dimensional,Fabri-Tech,RTV,Marco,10/29/2021,,, ,"10/29/21 - An email was sent Marco to notify the supplier. 
+11/03/21- 1 part was released to Jose to re-measure. Pending action from DQ/ES . ",Open,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2021,5720,MT-P472990,CHM-AMT-00032,2,15,RING GAGE WON'T GO AND Ø.153 +.000/-.002 IS .150,sub(dimensional),D-TEK MANUFACTURING,RTV,Marco,10/29/2021,,,,"10/29/21 - An email was sent Marco to notify the supplier. 
+11/2/21- Missing 2 pieces. Vinh contacted supplier to send 2 more parts to relpalce the missing parts. ",Open,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2021,5721,477264,1350-00618,,2,"Qty 1 does not function properly. Flowrate is not reading correctly during module testing (showing negative flowrate with positive flow) -- [reference 210719 J0008136780047]
+Qty 1 damaged; 1x mounting bracket is broke",Defective Mtrl(functional),Steven Engineering,RTV,Marco,10/29/2021,,,,10/29/21 - An email was sent Marco to notify the supplier. ,Open,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2021,5722,477265,1270-02816,,2,"EA 10/29: qty 2 rejected
+Part cannot be installed into unit; yellow tip of sensor not co-axial with threaded secti",Workmanship,Powermatic,RTV,Marco,10/29/2021,,,,10/29/21 - An email was sent Marco to notify the supplier. ,Open,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2021,5723,477266,1350-00491,,2,"EA 10/29: qty 2 rejected
+1x (DC: 7/23/18) found with missing pin/broken connector
+1x (DC: 01/27/18) not fucntioning properly; during testing pressure reading is negative, should be around 3",Workmanship,Steven Engineering,RTV,Marco,10/29/2021,,,,10/29/21 - An email was sent Marco to notify the supplier. ,Open,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2021,5724,477267,1400-01498,,5,"EA 10/29:
+qty 5 rejected; does not detect water as intended",Functional,Gem Sensor,Scrap,Marco,10/30/2021,11/3/2021,,1371.7,"10/29/21 - An email was sent Marco to notify the supplier. 
+11/03/21- Per Erik A parts should be scrap, a new sensor is currently being used.
+DMR 2826",Closed,A copy of this NCR was provided to Estuardo for approval.,,,,,,,,,,,,,,,,,,,,,,

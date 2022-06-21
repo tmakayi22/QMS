@@ -1,0 +1,21 @@
+﻿Category,key_words,Critical,Difficulty,Reworkable,CDR
+Assembly,"assembly,component,weld,bond",2,3,2,3
+ Burrs,"burrs, deburr, deburring",1,1,3,0
+ Cleaning,"clean,clean room",1,1,3,0
+ Color,"color,red,orange,yellow,blue,green,indigo,violet,black,white,discolor,variation",0,1,2,0
+ Cosmetic,"cosmetic,scratches,smooth,roughness,grease,stain",0,1,3,0
+ GD&T,"perpendicularity,flatness,roundness,OOS,OOT,tolerance,variation,measure, chamfer",2,3,1,4
+ Incorrect Part,incorrect part,3,2,0,5
+ Leaking,"leaking,tank",3,2,2,3
+ Material,"material,raw material,natural",1,2,0,3
+ Missing Fixture,"missing,missing fixture",3,2,3,2
+ Paint,"paint,color,bubbles",0,1,2,0
+ Part Mark,part mark,0,1,3,0
+ Threads,"threads,pitch,major,minor,screw",2,1,1,2
+Cracked,"cracks, cracked",2,2,0,4
+ Dimensions,"dim,DIMS,dimension,undersize,oversize,width,length,ID,OD,diameter,thickness,variation",2,3,1,4
+Wrong Fixture,"wrong,undefined",3,2,2,3
+Handling,"damaged,damage,transit",1,2,1,2
+Surface Finish,"anodize,plating,coating,surface finish, silk screen",1,2,2,1
+Hardware,"hardware,inserts",2,1,2,1
+Subcon,"subcon,subcontractor,vendor,supplier,outsource,subout",3,2,2,3
